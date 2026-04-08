@@ -8,4 +8,4 @@ Personal runbooks: device setup, active play, listening habits, recipes, and dia
 - **[play/](play/README.md)** — instruments, video games, puzzles
 - **[playlists/](playlists/README.md)** — playlists, likes, library habits (not performance or practice)
 - **[recipes/](recipes/README.md)** — cooking notes and batch quantities
-- **[diagrams/](diagrams/life-theories/life-flow-judgment.md)** — life-theory flowcharts (mermaid)
+- **[life-theories/](life-theories/life-flow-judgment.md)** — life-theory flowcharts (mermaid)

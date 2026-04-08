@@ -24,12 +24,12 @@ flowchart TB
     end
   end
 
-  style ringPower fill:#fff59d,stroke:#f57f17,color:#212121
-  style ringDisplay fill:#b3e5fc,stroke:#0277bd,color:#01579b
-  style ringComputer fill:#90caf9,stroke:#1565c0,color:#0d47a1
-  style ringManyInstances fill:#a5d6a7,stroke:#2e7d32,color:#1b5e20
-  style ringOneInstance fill:#ce93d8,stroke:#6a1b9a,color:#4a148c
-  style ringYou fill:#29b6f6,stroke:#01579b,color:#fff
+  style ringPower fill:#fff59d,stroke:#f57f17,color:#212121,stroke-width:3px
+  style ringDisplay fill:#b3e5fc,stroke:#0277bd,color:#01579b,stroke-width:3px
+  style ringComputer fill:#90caf9,stroke:#1565c0,color:#0d47a1,stroke-width:3px
+  style ringManyInstances fill:#a5d6a7,stroke:#2e7d32,color:#1b5e20,stroke-width:3px
+  style ringOneInstance fill:#ce93d8,stroke:#6a1b9a,color:#4a148c,stroke-width:3px
+  style ringYou fill:#29b6f6,stroke:#01579b,color:#fff,stroke-width:3px
 ```
 
 **Ring 1 — Electricity.** **Keep-alive** for the whole stack: no power, no run—maps to “something has to sustain the process.”
@@ -68,6 +68,12 @@ Here **red pill** is **not** moral endorsement and **not** “the one true reali
 4. **Pink group** — **inside** the red-pill band: **border work** between **blue** (immersed default) and **red** (beyond the script)—scenes, customs, brokers, and subcultures that **touch both**; rename labels to match your own “crew / gate / liminal” group.
 5. **Blue pill matrix** — **core**: trusting the presented world and playing the handed quest.
 
+### What lives in the blue pill matrix
+
+**Blue pill** here is **not** one ideology. It means you **trust the presented world** and take **quests from the local menu** of stories—parents, schools, nations, myths—without constantly auditing the frame. **Many incompatible quest lines** can still sit in that core at once.
+
+**Belief poles (examples only, still metaphor):** two people can both be **blue-pill** while running opposite **theological storylines**—one treats **“God runs the table”** as handed lore; another treats **“Satan (or adversarial power) is the real boss”** as handed lore. That names **different default scripts**, not what is true. **The guys** and the **red pill band** still wrap everyone in the onion above; **blue pill** only marks **how much you trust the instance’s surface narrative**, not **whether** that narrative sounds kind.
+
 ```mermaid
 flowchart TB
   subgraph gameInstance [Video game instance]
@@ -80,12 +86,30 @@ flowchart TB
     end
   end
 
-  style gameInstance fill:#eceff1,stroke:#455a64,color:#263238
-  style theGuys fill:#cfd8dc,stroke:#546e7a,color:#37474f
-  style redPill fill:#ffcdd2,stroke:#c62828,color:#b71c1c
-  style pinkGroup fill:#f8bbd0,stroke:#c2185b,color:#880e4f
-  style bluePill fill:#bbdefb,stroke:#1565c0,color:#0d47a1
+  style gameInstance fill:#eceff1,stroke:#37474f,color:#263238,stroke-width:4px
+  style theGuys fill:#cfd8dc,stroke:#455a64,color:#37474f,stroke-width:4px
+  style redPill fill:#ffcdd2,stroke:#b71c1c,color:#b71c1c,stroke-width:4px
+  style pinkGroup fill:#f8bbd0,stroke:#ad1457,color:#880e4f,stroke-width:4px
+  style bluePill fill:#bbdefb,stroke:#1565c0,color:#0d47a1,stroke-width:3px
 ```
+
+## Spectra inside one instance (lines, not one score)
+
+Many moods, traits, and outcomes behave like **positions on a line**: one direction trends toward **what you would call very good** (informally **toward +∞**), the other toward **very bad** (**toward −∞**). Treat that as a **cartoon axis**, not literal math.
+
+**Different lines at once.** You are not one number. **Happy ↔ sad** and **angry ↔ calm** are **different axes**—you can be calm and sad, or angry and happy, depending on which line you are measuring.
+
+**Suggestion pairs** (rename or extend for your own map):
+
+- happy ↔ sad
+- angry ↔ calm
+- trusting ↔ skeptical (of people or institutions—not necessarily the “simulation frame” in the Matrix sense)
+- energized ↔ depleted
+- connected ↔ isolated
+- hopeful ↔ hopeless
+- engaged ↔ numb
+
+**Bridge to pills:** **Blue-pill** characters still **spread out** on all of these lines. **Red pill** in this doc is about **questioning or leaving the default frame**—not an automatic ticket to the “+∞” side of every mood axis.
 
 ## One game, many stages
 
@@ -137,7 +161,7 @@ Even with **security**, **probability** and **bad actors** exist. Picture **one 
 |--------|-----|
 | Birth queue, death, judgment branches, main quest, routine, lottery | [life-flow-judgment.md](life-flow-judgment.md) |
 | IV/IQ baseline, EV/EQ grind, branching lineage graph | [lineage-descent.md](lineage-descent.md) |
-| Machine onion, inner pill onion, media parallels, cycles, daily respawn, server / corruption | This file |
+| Machine onion, inner pill onion, blue-pill interior, bipolar spectra, media parallels, cycles, daily respawn, server / corruption | This file |
 
 ```mermaid
 flowchart LR
@@ -147,7 +171,7 @@ flowchart LR
   gameStruct -->|"continuity / judgment"| lifeFlow
   gameStruct -->|"IV IQ lineage"| lineageDoc
 
-  style gameStruct fill:#e1bee7,stroke:#7b1fa2,color:#4a148c
-  style lifeFlow fill:#bbdefb,stroke:#1565c0,color:#0d47a1
-  style lineageDoc fill:#c8e6c9,stroke:#388e3c,color:#1b5e20
+  style gameStruct fill:#e1bee7,stroke:#7b1fa2,color:#4a148c,stroke-width:3px
+  style lifeFlow fill:#bbdefb,stroke:#1565c0,color:#0d47a1,stroke-width:3px
+  style lineageDoc fill:#c8e6c9,stroke:#388e3c,color:#1b5e20,stroke-width:3px
 ```

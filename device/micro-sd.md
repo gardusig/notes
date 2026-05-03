@@ -4,7 +4,7 @@
 
 This note covers a **microSD** card used with an **Android phone** (see **[android.md](./android.md)**) to hold **pre-downloaded** video and audio for **offline** use: travel, commuting, and low or no connectivity. **Capacity matters more than speed**: sequential read for **1080p** / modest **bitrate** files does **not** require top-tier **UHS-II** or **V90** cards.
 
-Folder outline: **[../README.md](../README.md)**.
+Folder outline: **[README.md](README.md)**.
 
 ---
 

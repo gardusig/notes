@@ -15,7 +15,7 @@ A **personal lifecycle model** (**optional metaphor**): an author spawns the fir
 
 Mermaid uses `classDef` fills for readability; some renderers ignore subgraph styling.
 
-**See also:** [Life game structure (nested instance, pills, daily loop)](life-game-structure.md) · [Lineage descent (talent, endowment, embodied social structure)](lineage-descent.md) · [Task governance (ordered priorities)](task-governance.md)
+**See also:** [Life game structure (nested instance, pills, daily loop)](life-game-structure.md) · [Lineage descent (talent, endowment, embodied social structure)](lineage-descent.md) · [Life arc (HUD runbook)](life-arc.md) · [Metaphors (comparison hub)](metaphors.md) · [Governance — ordered priorities](../tasks/governance.md)
 
 ## Main loop and judgment branch
 

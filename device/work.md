@@ -1,6 +1,6 @@
 # Work setup (SDE2): onboard → daily usage
 
-This guide sits **on top of** a **dev-oriented** OS setup. **Every local install this workflow assumes** is mapped in **[parity.md](./parity.md)** (by domain: [Basic and desktop](./parity.md#basic-and-desktop), [Code, repos, and shipping](./parity.md#code-repos-and-shipping)). On **Mac**, follow **[macOS.md](./macOS.md)** — **Setup & installation** through **Privacy & permissions** (see that file’s **Index**)—same concerns as **parity**, with Mac-specific commands. Device note layout: **[../README.md](../README.md)**. On **Windows**, use **parity** directly. The **[windows.md](./windows.md)** file here is a **gaming** PC guide, not dev. It is tuned for **SDE2-level** work: you **own** medium-sized changes end to end, **review** others’ code with consistent quality, and **operate** services you touch (deploy, debug, on-call where applicable)—not just “stay organized.”
+This guide sits **on top of** a **dev-oriented** OS setup. **Every local install this workflow assumes** is mapped in **[parity.md](./parity.md)** (by domain: [Basic and desktop](./parity.md#basic-and-desktop), [Code, repos, and shipping](./parity.md#code-repos-and-shipping)). On **Mac**, follow **[macOS.md](./macOS.md)** — **Setup & installation** through **Privacy & permissions** (see that file’s **Index**)—same concerns as **parity**, with Mac-specific commands. Device note layout: **[README.md](README.md)**. On **Windows**, use **parity** directly. The **[windows.md](./windows.md)** (**software**) and **[desktop.md](./desktop.md)** (**hardware**) pair here is a **gaming** PC guide, not dev. It is tuned for **SDE2-level** work: you **own** medium-sized changes end to end, **review** others’ code with consistent quality, and **operate** services you touch (deploy, debug, on-call where applicable)—not just “stay organized.”
 
 **What this guide optimizes for**
 
@@ -72,7 +72,7 @@ Install the **work browser** (and keep it updated) per **[parity.md](./parity.md
 | Area | Verify |
 | ---- | ------ |
 | **Code hosts** | Org/team membership, default clone method, saved views (**your** open PRs, **team** review queue). |
-| **Design / specs** | Where RFCs or tech specs live (wiki, Google Docs, Notion)—bookmark the **template** and your team space. |
+| **Design / specs** | Where RFCs or tech specs live (company wiki, Google Docs, team doc space)—bookmark the **template** and your team space. |
 | **HR** | Payroll, benefits, PTO, directory—under **hr**. |
 | **Internal tools** | Dashboards, flags, deploy—under **tools**. |
 | **Wiki** | Onboarding, ADRs, runbook index—under **wiki**. |
@@ -145,7 +145,7 @@ Bookmarks Bar
 
 One **primary** place for *your* operational memory: meeting scraps, **team-specific** SDE2 expectations, and links that would otherwise die in Slack.
 
-**Tooling:** Notion, Obsidian, Apple Notes, Google Doc, or git-backed Markdown—choose for **speed to open**, not features.
+**Tooling:** Obsidian, Apple Notes, Google Doc, git-backed Markdown, or whatever your team standardizes—choose for **speed to open**, not features.
 
 **How to use it**
 

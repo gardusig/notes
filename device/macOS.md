@@ -6,14 +6,14 @@ This note is for a **portable Apple Silicon Mac** used as a **daily dev laptop**
 
 **Stack:** **ARM64** only—prefer **native** builds (**Homebrew** in `/opt/homebrew`, **arm64** container images) for speed and battery.
 
-**See also:** **[parity.md](./parity.md)** maps the same jobs on **Windows**. **[work.md](./work.md)** is the SDE2 workflow on top of this OS setup. Folder outline: **[../README.md](../README.md)**.
+**See also:** **[parity.md](./parity.md)** maps the same jobs on **Windows**. **[work.md](./work.md)** is the SDE2 workflow on top of this OS setup. Folder outline: **[README.md](README.md)**.
 
 ---
 
 ## Summary
 
 - **Hardware goal:** **Cheapest current portable** that still has **strong battery life** for mixed terminal + browser + light Docker—usually the **entry MacBook Air**; weigh the **entry MacBook Pro** if you need **sustained** performance or more **ports**.
-- **Software end state:** **Homebrew**, **Git**, **GitHub CLI (`gh`)**, **Docker Desktop**, and **Cursor** installed and verified; optional **Node.js** and employer CLIs (**AWS**, **`kubectl`**, etc.) per onboarding.
+- **Software end state:** **Homebrew**, **Git**, **GitHub CLI (`gh`)**, **Docker Desktop**, and **Cursor** installed and verified; optional **Node.js** and employer CLIs (**AWS**, **`kubectl`**, etc.) per onboarding. **Chrome**, **Docker**, and **Cursor** can be installed like normal Mac apps from the vendor (DMG → **Applications**) — see **[§2.0](#20-install-chrome-docker-desktop--cursor-gui--applications)**.
 - **Shopping detail:** **[What to buy & price expectations](#what-to-buy--price-expectations)** compares **entry Air vs entry Pro** and calls out **RAM** / **SSD** minimums for dev.
 
 ---
@@ -26,6 +26,7 @@ This note is for a **portable Apple Silicon Mac** used as a **daily dev laptop**
 - [Setup & installation](#setup--installation)
   - [1. System preparation](#1-system-preparation)
   - [2. Terminal \& CLI setup](#2-terminal--cli-setup)
+  - [2.0 Install Chrome, Docker Desktop \& Cursor (GUI — Applications)](#20-install-chrome-docker-desktop--cursor-gui--applications)
   - [2.1 Install Xcode Command Line Tools](#21-install-xcode-command-line-tools)
   - [2.2 Install Homebrew (ARM64)](#22-install-homebrew-arm64)
   - [2.3 Install Git](#23-install-git)
@@ -70,6 +71,7 @@ Do this **in order**. Open **Terminal**: **Applications → Utilities → Termin
 
 | Step | What you get |
 | ---- | ---------------- |
+| **2.0** | **Chrome**, **Docker Desktop**, **Cursor** via **browser + DMG** (normal apps in **Applications**) — optional if you use **Homebrew casks** in §2.5–2.6 and §3 instead |
 | 2.1 | Compilers, `git` foundation, Homebrew prerequisites |
 | 2.2 | **Homebrew** (`brew`) |
 | 2.3 | **Git** from Homebrew (predictable upgrades) |
@@ -78,6 +80,42 @@ Do this **in order**. Open **Terminal**: **Applications → Utilities → Termin
 | 2.6 | **Cursor** editor |
 | 2.7 | **Node.js** (only if you need it) |
 | 2.8 | **`gh`**, **`jq`**, optional **`glab`** and cloud/k8s CLIs for onboarding |
+
+### 2.0 Install Chrome, Docker Desktop & Cursor (GUI — Applications)
+
+Use this when you want **real Mac applications**—download in a browser, open a **`.dmg`**, drag into **Applications**—instead of installing those three only from the terminal.
+
+You can still use **Homebrew** for **Git**, **`gh`**, and everything else in §2.2 onward. **Chrome** is listed first so you have a familiar browser for the other downloads if **Safari** is not your default.
+
+#### Google Chrome (browser)
+
+1. Open **Safari** (**Applications → Safari**) or another browser already on the Mac.
+2. Go to **[google.com/chrome](https://www.google.com/chrome/)** and choose **Download Chrome**.
+3. If the site asks, pick **Mac with Apple chip** (Apple Silicon) or **Mac with Intel chip** only on Intel Macs.
+4. In **Finder**, open **Downloads** and double-click **`googlechrome.dmg`**.
+5. In the window that opens, **drag the Chrome icon** onto the **Applications** folder shortcut.
+6. **Eject** the installer disk (click the disk on the desktop or sidebar, then **Eject**), or drag it to **Trash** (it acts as eject).
+7. Open **Chrome** from **Launchpad** or **Finder → Applications → Google Chrome**.  
+   - If macOS says the app can’t be opened because it’s from an unidentified developer: **Control-click (right-click) the app → Open → Open** once to approve.
+
+#### Docker Desktop
+
+1. In **Chrome** (or **Safari**), open **[Install Docker Desktop on Mac](https://docs.docker.com/desktop/install/mac-install/)** (official download buttons for **Apple silicon** vs **Intel**) or **[docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/)** and download **Docker Desktop for Mac**.
+2. On **Apple Silicon**, choose the **Apple Silicon** / **ARM64** build—not the Intel-only installer.
+3. Double-click **`Docker.dmg`** in **Downloads**.
+4. **Drag Docker** (whale icon) into **Applications**, then **eject** the disk image.
+5. Open **Finder → Applications → Docker** (double-click). Accept prompts (privileged helper, networking, **OK** on security dialogs). Wait until the **whale icon** in the menu bar shows Docker is **running** (not “Starting…”).
+
+#### Cursor
+
+1. Open **[cursor.com](https://cursor.com)** in your browser and use **Download** for **macOS** (Apple Silicon vs Intel matches your Mac; Apple Silicon laptops use the **Apple Silicon** build).
+2. Open the downloaded **`.dmg`** from **Downloads**.
+3. **Drag Cursor** into **Applications**, then **eject** the disk image.
+4. Open **Applications → Cursor**. Complete first-run sign-in if prompted, then **File → Open Folder** to open a project. Extensions and keybindings behave like a VS Code–style editor; use the in-app marketplace for language support.
+
+**Updates:** **Chrome** and **Docker** usually update in-app (**Chrome → About Google Chrome**; **Docker → Check for updates**). **Cursor** prompts for updates or checks automatically—same idea as other desktop editors.
+
+---
 
 ### 2.1 Install Xcode Command Line Tools
 
@@ -162,6 +200,10 @@ Optional: **SSH keys** for GitHub/GitLab — generate with `ssh-keygen`, add the
 
 **Docker Desktop** is the straightforward way to run **Docker** and **Docker Compose** on macOS.
 
+**GUI path:** If you already dragged **Docker** into **Applications** using **[§2.0](#20-install-chrome-docker-desktop--cursor-gui--applications)**, skip the `brew` line below and go straight to the numbered steps.
+
+**Homebrew alternative (also installs the same app in Applications):**
+
 ```bash
 brew install --cask docker
 ```
@@ -170,7 +212,7 @@ Then:
 
 1. Open **Docker** from **Applications** (first launch installs helpers and asks for permissions).
 2. Wait until the whale icon in the menu bar says Docker is **running**.
-3. Smoke test:
+3. Smoke test (after **Terminal** + **Homebrew** shell setup in §2.2 if `docker` is not on your `PATH` yet):
 
 ```bash
 docker run --rm hello-world
@@ -182,13 +224,17 @@ If the command prints a success message, containers work. For Apple Silicon, pre
 
 **Cursor** is the editor this guide standardizes on (instead of VS Code).
 
+**GUI path:** Use **[§2.0 — Cursor](#cursor)** (download from **[cursor.com](https://cursor.com)**, drag to **Applications**).
+
+**Homebrew alternative:**
+
 ```bash
 brew install --cask cursor
 ```
 
 Open **Cursor** from **Applications**, complete any first-run sign-in, and open a folder (**File → Open Folder**). Treat it like a VS Code–compatible editor: extensions and keybindings carry the same ideas; use the in-app marketplace for language support (e.g. Python, Go, ESLint).
 
-If the cask name ever changes, install from [https://cursor.com](https://cursor.com) and still manage updates with Homebrew when a cask is available.
+If the cask name ever changes, install from **[cursor.com](https://cursor.com)** via the GUI; you can still use **`brew upgrade --cask cursor`** later when the cask exists.
 
 ### 2.7 Optional: Node.js
 
@@ -260,7 +306,10 @@ Install **when your team’s onboarding doc says so**—examples: **AWS CLI**, *
 | **Chrome** | Web browser with Google account sync.      |
 | **Zoom**   | Video conferencing for meetings and calls. |
 
-Install via vendor sites or `brew install --cask google-chrome zoom` if you prefer Homebrew.
+**Chrome (GUI):** Follow **[§2.0 — Google Chrome](#google-chrome-browser)** (download **`.dmg`**, drag to **Applications**).  
+**Chrome (Homebrew):** `brew install --cask google-chrome`
+
+**Zoom:** Download the **Mac** installer from **[zoom.us/download](https://zoom.us/download)** and run the **`.pkg`**, or `brew install --cask zoom`.
 
 For **camera**, **microphone**, and **screen sharing** in meeting apps, approve the prompts on first use and verify entries under **System Settings → Privacy & Security** (see [§6](#6-privacy--permissions)).
 

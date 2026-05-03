@@ -1,10 +1,10 @@
-# Windows PC — Gaming & Media (no dev stack)
+# Desktop PC — AM5 gaming tower (hardware)
 
 ## Purpose
 
-This note describes a **Windows desktop used as a gaming and media station**: **games**, **movies**, and **torrents**. It is **not** a developer machine—no emphasis on Docker, WSL, or a full coding stack (see **[parity.md](./parity.md)** for work/dev parity on Windows). Other device guides use the same outline: **[../README.md](../README.md)**.
+This note is the **hardware and shopping** companion to **[windows.md](./windows.md)**. It covers **assembly**, **parts**, **peripherals**, and **GPU upgrade tiers** for a **self-assembled Windows 11–ready tower** built around **AM5** and a **Ryzen APU** (CPU + integrated graphics) so the machine **posts without** a discrete GPU, with a free **PCIe x16** slot for a **dGPU** later.
 
-**Target OS:** **Windows 11 64-bit** on a **self-assembled tower** built around an **AM5 APU** (CPU + integrated graphics) so the PC **posts without** a discrete GPU, with a free **PCIe x16** slot to add a **dGPU** later.
+**Software, launchers, media apps, and OS tuning** live in **[windows.md](./windows.md)**—continue there after the build.
 
 **Money:** **Prices in BRL** are **ballpark** (Brazil, promo-sensitive). Check **Kabum**, **Pichau**, **Terabyte Shop**, **Amazon.com.br** before you pay.
 
@@ -12,10 +12,9 @@ This note describes a **Windows desktop used as a gaming and media station**: **
 
 ## Summary
 
-- **Role:** Play games, watch local or streamed media, handle torrents and large libraries—**without** treating the box as your primary dev environment.
-- **Hardware idea:** **AM5** + **Ryzen 7 8700G** or **Ryzen 5 8600G**, **32 GB DDR5**, **1 TB NVMe** (OS + heavy games) + **4 TB HDD** (torrents, media, backup, lighter games), **750 W 80+ Gold** PSU, **Wi‑Fi** on the **motherboard**.
-- **Software:** Update Windows, install **AMD** chipset + **Adrenalin** while on APU; add **Steam** / other launchers; **VLC** + **qBittorrent** for media workflow.
-- **Spend (very rough):** **Tower only** (no GPU, no monitor, no peripherals) about **R$ 6.200 – R$ 9.500**; **full desk** depends on monitor tier and whether you add a **GPU**—see **[Sensible combinations](#sensible-combinations)** and the tables in **[What to buy & price expectations](#what-to-buy--price-expectations)**.
+- **Platform:** **AM5** + **Ryzen 7 8700G** or **Ryzen 5 8600G**, **32 GB DDR5**, **1 TB NVMe** + **4 TB HDD**, **750 W 80+ Gold** PSU, **Wi‑Fi** on the **motherboard**.
+- **Spend (very rough):** **Tower only** about **R$ 6.200 – R$ 9.500**; **full desk** depends on monitor tier and a future **GPU**—see **[Sensible combinations](#sensible-combinations)** and **[What to buy & price expectations](#what-to-buy--price-expectations)**.
+- **Next step:** **[First boot & Windows install](./windows.md#first-boot--windows-install)** in **windows.md**.
 
 ---
 
@@ -23,12 +22,8 @@ This note describes a **Windows desktop used as a gaming and media station**: **
 
 - [Purpose](#purpose)
 - [Summary](#summary)
-- [Setup & installation](#setup--installation)
-  - [Physical build (short checklist)](#physical-build-short-checklist)
-  - [First boot & Windows install](#first-boot--windows-install)
-  - [Windows tuning (gaming-focused)](#windows-tuning-gaming-focused)
-  - [Games & launchers](#games--launchers)
-  - [Movies & torrents](#movies--torrents)
+- [Index](#index)
+- [Physical build (short checklist)](#physical-build-short-checklist)
 - [What to buy & price expectations](#what-to-buy--price-expectations)
   - [Sensible combinations](#sensible-combinations)
   - [Desktop — tower, storage, PSU, cables](#desktop--tower-storage-psu-cables)
@@ -38,9 +33,7 @@ This note describes a **Windows desktop used as a gaming and media station**: **
 
 ---
 
-## Setup & installation
-
-### Physical build (short checklist)
+## Physical build (short checklist)
 
 1. **Read** the **motherboard** manual for **RAM** slots, **M.2** order, and **front-panel** headers.  
 2. **Install** CPU (careful with **orientation** / **lever**), **M.2 SSD**, **RAM**, then **motherboard** in the **case**; **HDD** in a **cage** with **SATA data + SATA power**.  
@@ -49,46 +42,7 @@ This note describes a **Windows desktop used as a gaming and media station**: **
 5. **Screw** **Wi‑Fi** **antennas** to the **rear I/O** and angle them **away** from the **wall**.  
 6. **Display** from **motherboard** **HDMI** or **DisplayPort** until a **dGPU** is installed—then move the cable to the **card**.
 
-### First boot & Windows install
-
-1. Create **Windows 11** install media (**Microsoft** media creation tool) on a **USB** drive.  
-2. Boot from **USB**; install **Windows** on the **NVMe** (not the **HDD**).  
-3. After login, run **Windows Update** until **Settings → Windows Update** is **clear** (may need **reboots**).  
-4. Install **AMD** **chipset** drivers from **AMD** or the **board** vendor page, then **Adrenalin** for the **APU** graphics.  
-5. **Format** the **HDD** in **Disk Management** if it is **raw**; assign a **drive letter** for **games / torrents / media**.
-
-### Windows tuning (gaming-focused)
-
-1. **Power** — **High performance** or **Balanced**; avoid **aggressive** eco modes while gaming.  
-2. **Game Mode** — **Settings → Gaming → Game Mode** **on**.  
-3. **Disk habit** — **SSD** = **Windows** + **heavy** games; **HDD** = **torrents**, **media**, **backup**, **light** games.  
-4. **Microsoft account** — optional; useful for **Xbox** / **Store** / **Game Pass**.  
-5. After a **dGPU**: plug the **monitor** into the **GPU**; install **NVIDIA** or **AMD** **GPU** drivers; you can keep **chipset** from **AMD**.
-
-No **WSL** / **Docker** unless you change your mind.
-
-### Games & launchers
-
-| App / platform | Description |
-| -------------- | ----------- |
-| **Epic Games Store** | Free weekly titles. |
-| **GOG Galaxy** | DRM-friendly classics. |
-| **RetroArch** | **2D** / retro cores (legal ROMs only). |
-| **Steam** | Main library; strong **indie** / **2D**. |
-| **Xbox** (Microsoft Store) | **Game Pass** if you subscribe. |
-
-**Discord** for voice if you play online.
-
-### Movies & torrents
-
-| App | Description |
-| --- | ----------- |
-| **Jellyfin** / **Plex** (optional) | **Media server** clients if you use a **NAS** / other PC. |
-| **MPC-BE** or **mpv** | Minimal players. |
-| **qBittorrent** | **Torrent** client; prefer **legal** sources. |
-| **VLC** | Plays most local files. |
-
-**Stremio**-style apps depend on **add-ons** and rights—use judgment. For **4K** / **HDR**, prefer **Ethernet** or **strong Wi‑Fi**; **Bluetooth** is for **audio**, not **huge** file transfers.
+Then follow **[First boot & Windows install](./windows.md#first-boot--windows-install)** in **windows.md**.
 
 ---
 

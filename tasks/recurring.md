@@ -1,15 +1,15 @@
 # Recurring tasks (shave backup)
 
-Git-backed mirror of recurring **shave** items from Notion. **Folder index:** [README.md](README.md).
+Git-backed mirror of recurring **shave** items tracked **outside this repo**. **Folder index:** [README.md](README.md).
 
 **Upstream:** [Notes root](../README.md)
 
 ## When to update
 
-1. After you change the shave list or cadences in Notion.
+1. After you change the shave list or cadences in your external source.
 2. After you complete a recurring item — bump **Last done** to that date.
 
-**Canonical queue** for deadlines and admin stays in **Notion**; GitHub project boards are for build / maintenance / high-effort (see [README.md — Board map](README.md#board-map-and-surfaces)).
+**Canonical scheduling** for deadlines, admin, and technical queues lives **outside this repo**. This file is the git backup; employer vs personal rules are in [README.md — Task surfaces and context](README.md#task-surfaces-and-context).
 
 ## Priority column (this table only)
 

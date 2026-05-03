@@ -63,9 +63,9 @@ Culture and media often script a **default main quest**: compete for grades at s
 
 What often separates people from what they want is **routine** plus **realism**: naming an **achievement list** (what “done” looks like) and executing toward it daily. **Lottery** goals work the same way: you only win if you play, and long shots need a **sustainable** routine so you can keep “buying tickets” for a lifetime without burning out.
 
-**Practical execution** (surfaces, pick-one-task, P0–P4) — [`../tasks/priority.md`](../tasks/priority.md) and [`../tasks/README.md`](../tasks/README.md); **principles** (ordered stack, emotional routing) — [task-governance.md](task-governance.md).
+**Practical execution** (surfaces, pick-one-task, P0–P4) — [`../tasks/priority.md`](../tasks/priority.md) and [`../tasks/README.md`](../tasks/README.md); **principles** (ordered stack, emotional routing) — [`../tasks/governance.md`](../tasks/governance.md).
 
-**See also:** [Life flow and final judgment](life-flow-judgment.md) (hypothetical post-death framing only) · [Life game structure](life-game-structure.md)
+**See also:** [Life flow and final judgment](life-flow-judgment.md) (hypothetical post-death framing only) · [Life game structure](life-game-structure.md) · [Life arc (HUD runbook)](life-arc.md) · [Metaphors (comparison hub)](metaphors.md)
 
 Mermaid uses `classDef` fills; fixed hex colors can look strong in some dark-theme UIs—`color` on text is set for contrast.
 

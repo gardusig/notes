@@ -1,6 +1,6 @@
 # Tasks
 
-Personal **task system**: practical execution — rules, board map, surfaces, and a git-backed **recurring** mirror (Notion shave). **Conceptual** ordering and governance principles live in [`../theories/task-governance.md`](../theories/task-governance.md).
+Personal **task system**: practical execution — rules, **generic task surfaces** (employer vs personal), and a git-backed **recurring** mirror. **Conceptual** ordering and governance principles live in [`governance.md`](governance.md).
 
 **Upstream:** [Notes root](../README.md)
 
@@ -8,37 +8,29 @@ Personal **task system**: practical execution — rules, board map, surfaces, an
 
 | File | Purpose |
 | --- | --- |
-| **[recurring.md](recurring.md)** | Shave backup table: cadence, P1–P3 labels, **Last done** — update after Notion changes or completions. |
+| **[governance.md](governance.md)** | Ordered life stack, emotional triage, risk tiers, thoughts vs execution, long arc — principles only. |
+| **[recurring.md](recurring.md)** | Shave backup table: cadence, P1–P3 labels, **Last done** — update when your external recurring list or cadences change, or after completions. |
 | **[priority.md](priority.md)** | P0–P4 execution, single top task, onboarding, flow, habits. |
 
-**Board map, lookup order, and related surfaces** — [Board map and surfaces](#board-map-and-surfaces) below (formerly a separate note).
+**Surfaces, lookup order, and context** — [Task surfaces and context](#task-surfaces-and-context) below.
 
 ---
 
-## Board map and surfaces
-
-### Board map and repo anchors
-
-| Board | GitHub Project | Role |
-| --- | --- | --- |
-| **Maintenance** | [Project 33 — maintenance](https://github.com/users/gardusig/projects/33/views/1) | Small upkeep, notes/wiki hygiene |
-| **High effort** | [Project 28 — high effort](https://github.com/users/gardusig/projects/28/views/1) | Deep prep (system design, coding, behavioral) |
-| **Build** | [Project 29 — build](https://github.com/users/gardusig/projects/29/views/1) | Shipping personal projects |
-| **Life / admin** | — | Deadlined personal tasks in [Notion](https://www.notion.so/2f499343924980d1aae9ce5343255b8e?v=2f499343924980618f45000c7093210b) |
+## Task surfaces and context
 
 Recurring **shave** mirror: [recurring.md — Recurring roster](recurring.md#recurring-roster-shave-backup).
 
 ### Paid work hours
 
-On employer time, **do not** use the three GitHub project boards or the Notion personal queue as your **primary** source of tasks. Use **employer** tools. These boards are for **personal machine / off-hours** unless policy explicitly allows otherwise.
+On employer time, use **employer** systems as your **primary** queue. Do **not** treat personal task apps, personal backlogs, or this repo as the canonical source of assigned work unless policy explicitly allows otherwise.
 
 ### Off-hours / idle selection (default heuristic)
 
 When you are **not** in a paid block:
 
-1. **Notion (life / admin)** — sort by **deadline**, then importance. **Look here first.**
-2. **Maintenance** — quick wins and hygiene; do not let endless organizing crowd out **build** or **high effort**.
-3. **Build** vs **high effort** — allow variance, but **bias toward build** (shipping), then **high effort** (depth prep). Long-arc framing: [theories — Long arc](../theories/task-governance.md#long-arc) · [Long arc (execution tie-in)](#long-arc-execution-tie-in) below.
+1. **Life / admin (dated obligations)** — sort by **deadline**, then importance. **Tend this first.**
+2. **Maintenance** — quick wins and hygiene; do not let endless organizing crowd out **shipping** or **deep prep**.
+3. **Shipping vs deep prep** — allow variance, but **bias toward shipping**, then depth prep when a deadline or commitment forces it. Long-arc framing: [Governance — Long arc](governance.md#long-arc) · [Long arc (execution tie-in)](#long-arc-execution-tie-in) below.
 
 ### Work laptop and separation (operational)
 
@@ -50,17 +42,14 @@ On an **employer machine**, avoid personal profiles and synced personal stacks w
 
 Full picking rules: [`priority.md`](priority.md).
 
-### Related repositories and surfaces
+### Where things live (generic)
 
 | Surface | Role |
 | --- | --- |
-| **This repo** (`notes`) | Personal runbooks, tasks mirror, trips, play — **wiki-style** text; not the canonical task queue. |
-| **GitHub Projects** | Maintenance (33), high effort (28), build (29) — **execution queues** for off-hours technical work. |
-| **Notion** | Life/admin deadlines and shave-style recurring **source of truth** for many personal items. |
+| **This repo** (`notes`) | Personal runbooks, tasks mirror, play — **wiki-style** text; not the canonical task queue. |
 | **Employer tools** | Canonical queue **during paid hours** (names intentionally omitted here). |
-
-Add other repo URLs **only** when you are comfortable maintaining them in git; keep entries short (name + one line).
+| **Elsewhere** | Personal admin deadlines, technical backlogs, and shave-style recurring lists — wherever **you** maintain them; not specified in this repo. |
 
 ### Long arc (execution tie-in)
 
-Use this for **how you weight queues** in practice. **Why** milestones and multi-month intent matter — [`../theories/task-governance.md#long-arc`](../theories/task-governance.md#long-arc). When idle: prefer motion that **ships** (build board) over infinite prep (high effort), unless a deadline or commitment forces prep first.
+Use this for **how you weight work** in practice. **Why** milestones and multi-month intent matter — [`governance.md#long-arc`](governance.md#long-arc). When idle: prefer motion that **ships** over infinite prep, unless a deadline or commitment forces prep first.

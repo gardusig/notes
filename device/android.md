@@ -4,7 +4,7 @@
 
 This note is for a **daily-carry Android phone** used **outside the home**: maps, transit, chat, shopping, and **Pix** / banking **apps** on a **SIM** with mobile data. **Battery life** is the main hardware priority—**SoC tier and flagship specs are optional**; mid-range phones with a **large battery** and efficient screen often win over thin flagships.
 
-**Role vs iPhone:** This is the **street** handset—**high** loss/theft risk—so **few** banking apps and **low** **Pix / TED** limits beat convenience. Heavy **gov**, **investing**, and extra banks live on the home **iPhone** (see **[iOS.md](./iOS.md)**). Folder outline: **[../README.md](../README.md)**.
+**Role vs iPhone:** This is the **street** handset—**high** loss/theft risk—so **only two** bank apps (**Itaú** + **Nubank**) and **low** **Pix / TED** limits; the device is meant to be **easily replaceable** (minimal unique state). Heavy **gov**, **investing**, and other banks live on **desktop**, **branch**, or a **home iPhone** if you use one. Folder outline: **[README.md](README.md)**.
 
 ---
 
@@ -13,7 +13,8 @@ This note is for a **daily-carry Android phone** used **outside the home**: maps
 - **Hardware:** Choose phones known for **endurance** (big battery mAh, sane display resolution/refresh, efficient chip). **Any** spec tier that meets your performance floor is fine—do not overbuy for CPU benchmarks.
 - **Battery (ballpark):** On a **new** **battery-first** handset (~**4500–6000 mAh**, efficient SoC, 1080p-class display), expect about **6–10 h screen-on** on a **light** street day or **4–7 h** on a **heavy** day (long maps, cellular video)—see **[Battery life (rough estimates)](#battery-life-rough-estimates)**.
 - **Software:** Fresh Android, **Google account**, **updates** on; lean **video quality** on cellular to save **data and battery**; **fingerprint / face** + **PIN** lock; **Google backup** on.
-- **Banking (street rule):** **At most two or three** **full** **bank apps**; set **low daily outgoing limits** per institution (see **[Banking & payments](#banking--payments)**); **Google Wallet** = **voter / e-Título** only—**no** cards for tap-to-pay.
+- **Banking (street rule):** **Exactly two** bank apps—**Itaú** and **Nubank**—so a lost phone is cheap to re-clone; set **low daily outgoing limits** in each (see **[Banking & payments](#banking--payments)**); **Google Wallet** = **voter / e-Título** only—**no** cards for tap-to-pay.
+- **Home screen:** **Gemini**, **Gmail**, **Keep**, and **Clock** on the main row; the rest groups into a few folders (see **[Home screen layout](#home-screen-layout)**).
 - **Games:** Prefer **puzzle** and **logic** titles (short sessions, low battery)—**[Classic](#classic-and-paper-era-puzzles)** and **[modern](#modern-puzzle-games)** picks below.
 
 ---
@@ -25,14 +26,15 @@ This note is for a **daily-carry Android phone** used **outside the home**: maps
 - [Index](#index)
 - [Setup & installation](#setup--installation)
   - [Initial setup](#initial-setup)
+  - [Home screen layout](#home-screen-layout)
   - [Google account \& services](#google-account--services)
   - [Banking \& payments](#banking--payments)
-  - [Transport](#transport)
-  - [Purchase \& delivery](#purchase--delivery)
+  - [Travel](#travel)
   - [Government](#government)
+  - [Entertainment](#entertainment)
+  - [Communication](#communication)
   - [Google apps suite](#google-apps-suite)
   - [Utilities \& tools](#utilities--tools)
-  - [Live streaming](#live-streaming)
   - [Games](#games)
     - [Classic and paper-era puzzles](#classic-and-paper-era-puzzles)
     - [Modern puzzle games](#modern-puzzle-games)
@@ -85,6 +87,30 @@ Street use is easier when video apps are not always pegged at the highest bitrat
 - Enable automatic backup
 - Ensures recovery of apps, contacts, and settings
 
+### Home screen layout
+
+Everything below fits **one home screen** with a few folders; other apps may stay installed for **rare** needs (Authenticator, Chrome, camera tools, etc.) without sitting on the grid.
+
+**Main row (always visible):**
+
+| App | Role |
+| --- | --- |
+| **Gemini** | Google AI assistant |
+| **Gmail** | Email |
+| **Keep** | Quick notes and lists |
+| **Clock** | Alarms and timers (**Google Clock** or OEM equivalent) |
+
+**Folders (grouped):**
+
+| Folder | Apps |
+| --- | --- |
+| **Government** | **e-Título**, **FGTS**, **Gov.br** |
+| **Travel** | **Airbnb**, **Booking**, **Google Maps**, **Uber**, **ClickBus**, **iFood**, **99** |
+| **Entertainment** | **Kick**, **Stremio**, **Twitch**, **Google Files**, **YouTube**, **YouTube Music** — offline/heavy media on **[micro-sd.md](./micro-sd.md)** when the phone supports a card |
+| **Communication** | **Duolingo**, **WhatsApp** |
+
+Other installs (e.g. **Moovit**, **Waze**, **Mercado Livre**, **Bitwarden**) are optional: use when needed, keep limits and lock screen strict.
+
 ### Google account & services
 
 Your Google account enables:
@@ -98,119 +124,101 @@ Your Google account enables:
 
 ### Banking & payments
 
-Banks, wallets, and **Pix**—use the **apps** below; avoid registering **cards** into **Google Wallet** on this device (see Initial setup).
+Banks and **Pix**—**only** **Itaú** and **Nubank** on this phone so the handset stays **easy to replace**: reinstall two apps, restore limits, move on. Do **not** add cards to **Google Wallet** here (see Initial setup).
 
-#### Why keep banking small on this phone
+#### Why two banks only
 
-You carry this device **in public** every day. A stolen or **shoulder-surfed** unlock does more damage when you have **six** bank apps and **high** limits than when you have **two** apps and **low** caps. **Brokerages**, **extra** banks, **Tesouro**, and long **gov.br** sessions belong on **[iOS.md](./iOS.md)** at home.
+You carry this device **in public** every day. A stolen or **shoulder-surfed** unlock hurts less with **two** institutions and **low** caps than with a full mirror of your financial life. **CAIXA**, **C6**, **brokerages**, **Tesouro**, and **extra** wallets live on **desktop**, **branch**, or a **home iPhone** if you use one.
 
-#### Policy (street phone) — few apps, low limits
+#### Policy — low limits, alerts
 
-- **How many bank apps:** **At most two or three** **full** **institution** apps (Itaú, Nubank, C6, CAIXA, etc.)—typically **one primary** + **one backup**. Do **not** mirror every account you own; leave the rest for **desktop**, **branch**, or the **home iPhone**.
-- **How low limits:** In each app, set the **lowest daily outgoing limit** you can live with for **Pix / TED / transfers** (and **card-out**, if exposed). Treat **~R$ 10.000/day** as an **upper** safety ceiling some banks offer—not a **target**. Many people can stay at **R$ 500–R$ 2.000/day** per institution and raise temporarily from **home** when a big payment is planned.
-- **Alerts:** Turn on **SMS / push / email** for **Pix** out, **TED**, new devices, and **large** debits so a thief hits a **wall** at the limit **and** you get pinged.
-- **Wallets** (Flash, Mercado Pago, PicPay): optional for **Pix**, **QR**, **benefits**; they **do not** add extra **full** banks beyond the **2–3** cap. Cap **send** limits inside those apps too; do not park **large** floats you would regret losing.
-- **Recovery:** If you need a **fourth** bank in an emergency, install it **temporarily**, fix the issue, then **remove** the app again—or use **home** **iPhone** / **web** instead.
+- In **Itaú** and **Nubank**, set the **lowest daily outgoing limit** you can live with for **Pix / TED / transfers** (and **card-out**, if exposed). Treat **~R$ 10.000/day** as an **upper** ceiling some banks offer—not a **target**; many people stay at **R$ 500–R$ 2.000/day** and raise temporarily from **home** when needed.
+- Turn on **SMS / push / email** for **Pix** out, **TED**, new devices, and **large** debits.
+- **Emergency:** need another bank for one transaction—use **home iPhone**, **web**, or install a third app **temporarily**, then remove it.
 
-#### Apps (pick banks to match the policy)
+#### Apps on this phone
 
-| App          | Kind        | Description |
-| ------------ | ----------- | ----------- |
-| C6 Bank      | Bank        | Full digital bank (Pix, investments)—use as a **second bank** only if it fits the 2–3 cap. |
-| CAIXA        | Bank        | **Caixa** account, **FGTS**-related flows, and public-bank services many Brazilians still need. |
-| Flash        | Benefits    | Meal / food / corporate benefits wallet. |
-| Itaú         | Bank        | Traditional banking and Pix. |
-| Mercado Pago | Wallet      | Pix, QR, and Mercado Livre balance. |
-| Nubank       | Bank        | Digital bank (Pix, account, card **in-app**—not as a Wallet tap-to-pay token). |
-| PicPay       | Wallet      | Pix, P2P, and common retail QR flows. |
+| App    | Description |
+| ------ | ----------- |
+| **Itaú** | Traditional banking and Pix. |
+| **Nubank** | Digital bank (Pix, account, card **in-app**—not as a Wallet tap-to-pay token). |
 
-### Transport
+### Travel
 
-| App      | Description |
-| -------- | ----------- |
-| 99       | Taxis and ride-hail (strong Brazil coverage). |
-| ClickBus | Long-distance **bus** tickets. |
-| Moovit   | **Public transit** trips and schedules where the city is supported. |
-| Uber     | Ride-hailing and courier. |
-| Waze     | **Driving** traffic and police/hazard alerts (complements **Google Maps** for navigation style). |
+Lodging, maps, ride-hail, long-distance bus, and food delivery in one folder.
 
-### Purchase & delivery
-
-**Orders and deliveries**—restaurants, groceries, and e-commerce in one place; install the stores you actually use.
-
-| App           | Description |
-| ------------- | ----------- |
-| Amazon Shopping | **Amazon.com.br** orders and tracking. |
-| iFood         | Restaurant and grocery delivery. |
-| Mercado Livre | Marketplace, **Mercado Envios**, and often **Mercado Pago** checkout. |
-| Rappi         | Food, market, pharmacy, and city errands in one app (where available). |
-| Shopee        | Marketplace with aggressive promos and in-app logistics. |
-| Uber Eats     | Food delivery where **Uber** is already your habit. |
-| Zé Delivery   | **Ambev** beverage and quick convenience runs (if you use it). |
+| App            | Description |
+| -------------- | ----------- |
+| **Airbnb**     | Short-term stays and experiences. |
+| **Booking**    | Hotels and alternative lodging. |
+| **Google Maps** | Navigation and places. |
+| **Uber**       | Ride-hailing (and courier where used). |
+| **ClickBus**   | Long-distance **bus** tickets. |
+| **iFood**      | Restaurant and grocery delivery. |
+| **99**         | Taxis and ride-hail (Brazil). |
 
 ### Government
 
-**Service apps** (SUS, taxes, work, traffic)—separate from **Google Wallet**. Wallet policy stays **voter ID only** (Initial setup); these apps are for **transactions and proofs** inside each ministry or agency.
+Wallet policy stays **voter ID only** in **Google Wallet** (Initial setup); these apps handle **transactions and proofs** in their own ecosystems.
 
-| App                          | Description |
-| ---------------------------- | ----------- |
-| **Carteira de Trabalho Digital** | Formal job history, contracts, and **seguro-desemprego** flows. |
-| **Carteira Digital de Trânsito (CDT)** | **CNH** digital, points, and linked vehicles (**Serpro**). |
-| **Conecte SUS**              | **SUS**: digital card, vaccination history, referrals, and health flows linked to CPF. |
-| **e-Título**                 | **Digital voter ID**—also your **emergency elector document** for wallet backup (Initial setup). |
-| **FGTS**                     | FGTS balance, statements, and withdrawal rules (**Caixa**). |
-| **Gov.br**                   | Single sign-on and access to many federal/state services, documents, and messages tied to **gov.br** account. |
-| **Meu INSS**                 | INSS benefits and requests if you use **previdência**. |
-| **Receita Federal**          | CPF, **IRPF**, and **Receita** citizen services (official Play listing name may change by tax year). |
+| App           | Description |
+| ------------- | ----------- |
+| **e-Título**  | Digital voter ID—wallet backup for elector proof (Initial setup). |
+| **FGTS**      | Balance, statements, withdrawal rules (**Caixa**). |
+| **Gov.br**    | SSO and federal/state services tied to **gov.br**. |
 
-If your **state** offers **Detran**, **IPTU**, or **delegacia digital** apps you rely on, add them here.
+Other **gov** apps (**Receita**, **INSS**, **CDT**, **SUS**, state **Detran**, etc.) stay on **home iPhone** or desktop unless you deliberately add them for a trip.
+
+### Entertainment
+
+| App               | Description |
+| ----------------- | ----------- |
+| **Kick**          | Live streaming (gaming, IRL). |
+| **Stremio**       | Aggregated catalogs / plugins (set **data saver** on cellular). |
+| **Twitch**        | Live gaming and chat. |
+| **Google Files**  | File manager, cleaner, offline playback helper. |
+| **YouTube**       | On-demand video (see Initial setup for cellular quality). |
+| **YouTube Music** | Music streaming. |
+
+**microSD:** Prefer **large downloads**, **offline** music/video, and **Stremio** cache on the card when the phone supports it—see **[micro-sd.md](./micro-sd.md)** so internal storage stays light.
+
+### Communication
+
+| App          | Description |
+| ------------ | ----------- |
+| **Duolingo** | Language practice (daily streak fits street downtime). |
+| **WhatsApp** | Messaging and calls (default for Brazil). |
 
 ### Google apps suite
 
-All apps tied to Google accounts, Android integration, or Google-owned services (including YouTube).
+Google apps **beyond** the home row and folder list—often installed, opened less often.
 
-| App                 | Description |
-| ------------------- | ----------- |
-| Find My Device      | Lost-phone locate and secure (pair with screen lock). |
-| Gemini              | Google AI assistant. |
-| Gmail               | Email. |
-| Google Authenticator | Two-factor authentication codes. |
-| Google Calendar     | Scheduling. |
-| Google Chrome       | Browser with sync. |
-| Google Drive        | Cloud storage. |
-| Google Files        | File manager and cleaner. |
-| Google Keep         | Quick notes and lists on the go. |
-| Google Lens         | Translate signs, copy text, identify products from the camera. |
-| Google Maps         | Navigation and places. |
-| Google Meet         | Video calls. |
-| Google Photos       | Photo backup. |
-| Google Tasks        | To-dos. |
-| Google Wallet       | **Only** configure **voter / e-Título**-style docs per Initial setup—leave **cards** empty. |
-| YouTube             | Video. |
-| YouTube Music       | Music streaming. |
+| App                  | Description |
+| -------------------- | ----------- |
+| Find My Device       | Lost-phone locate and secure. |
+| Google Authenticator | 2FA codes. |
+| Google Calendar      | Scheduling. |
+| Google Chrome        | Browser with sync. |
+| Google Drive         | Cloud storage. |
+| Google Lens          | Translate signs, copy text from camera. |
+| Google Meet          | Video calls. |
+| Google Photos        | Photo backup. |
+| Google Tasks         | To-dos. |
+| Google Wallet        | **Only** voter / **e-Título**-style docs—**no** payment cards. |
+
+**Gemini**, **Gmail**, **Keep**, **Maps**, **Files**, **YouTube**, and **YouTube Music** are covered in **[Home screen layout](#home-screen-layout)** and **[Travel](#travel)** / **[Entertainment](#entertainment)**.
 
 ### Utilities & tools
 
-Third-party tools outside the core Google list.
+Third-party tools useful but **not** on the main grid by default.
 
-| App       | Description |
-| --------- | ----------- |
+| App        | Description |
+| ---------- | ----------- |
 | Adobe Scan | PDF scans of receipts or forms. |
-| Bitwarden | Password manager (open-source friendly); pair with a strong lock screen. |
-| Shazam    | Music identification. |
-| Telegram  | Large groups, channels, and backup chat if **WhatsApp** is down. |
-| VLC       | Plays odd video formats offline or from links. |
-| WhatsApp  | Messaging and calls (default for Brazil). |
-
-### Live streaming
-
-Real-time broadcasts and chat—separate from on-demand **YouTube** (Google apps suite).
-
-| Platform | Description |
-| -------- | ----------- |
-| Kick     | Gaming, IRL, creator-first communities. |
-| Twitch   | Gaming, esports, watch-along chat. |
-| X        | Live spaces and breaking-news video threads (if you still use the network). |
+| Bitwarden  | Password manager; pair with a strong lock screen. |
+| Shazam     | Music identification. |
+| Telegram   | Backup chat / large groups if **WhatsApp** is down. |
+| VLC        | Odd video formats offline or from links. |
 
 ### Games
 

@@ -2,7 +2,9 @@
 
 **Metaphor only** unless you explicitly treat it as a claim: life described as **nested game instances**, **parallel runs on shared hardware** (machine **onion** flowchart below), *Matrix*- and anime-shaped **story rhymes**, a **daily Dark Souls loop**, and an **online** ruleset (League of Legends–style). This doc does **not** add a separate “heaven” layer in the **inner** onion—only **game / control / factions / pill bands**.
 
-**See also:** [Life flow and final judgment](life-flow-judgment.md) (birth–death–judgment, main quest, ledger) · [Lineage descent](lineage-descent.md) (IV/IQ, EV/EQ, branching graph) · [Harm and penalty table](../runbook/foundation.md#harm-and-penalty-time-human-involved-acts)
+**See also:** [Life flow and final judgment](life-flow-judgment.md) (birth–death–judgment, main quest, ledger) · [Lineage descent](lineage-descent.md) (IV/IQ, EV/EQ, branching graph) · [Metaphors (GTA-style quest vocabulary, not-LEGO)](metaphors.md) · [Life arc (HUD runbook)](life-arc.md) · [Situation (tactical layer)](situation.md) · [Opposite comparisons (spectra)](opposite-comparisons.md)
+
+**Harm and penalty** (human-involved acts, coarse time bands): if you keep that table, it lives **outside this repo**—not linked here (previously referenced a missing `runbook/` path).
 
 ## Machine onion: computer, power, display, instances, you
 
@@ -161,6 +163,9 @@ Even with **security**, **probability** and **bad actors** exist. Picture **one 
 |--------|-----|
 | Birth queue, death, judgment branches, main quest, routine, lottery | [life-flow-judgment.md](life-flow-judgment.md) |
 | IV/IQ baseline, EV/EQ grind, branching lineage graph | [lineage-descent.md](lineage-descent.md) |
+| HUD design, win condition, life-arc vs situation split, fix-before-vengeance norm | [life-arc.md](life-arc.md) · [situation.md](situation.md) |
+| Short metaphor routing (GTA main/side, LEGO contrast) | [metaphors.md](metaphors.md) |
+| Paired poles and middle spaces (justice between fix and vengeance) | [opposite-comparisons.md](opposite-comparisons.md) |
 | Machine onion, inner pill onion, blue-pill interior, bipolar spectra, media parallels, cycles, daily respawn, server / corruption | This file |
 
 ```mermaid

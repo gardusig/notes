@@ -8,7 +8,7 @@
 
 - Ordered life stack, moral framing, emotional routing, risk tiers — [`governance.md`](governance.md) (**[when emotional](governance.md#when-emotional)** · **[risk tiers](governance.md#risk-tiers)**).
 - Money passes (IRPF, month-end), salary or large deposit landed — keep your checklist in a spreadsheet, bank app, or wherever you actually run money; this repo does not host a money hub.
-- Long arc — narrative / meaning [`governance.md#long-arc`](governance.md#long-arc); metaphor and HUD framing [`../theories/life-arc.md`](../theories/life-arc.md) · tactical state [`../theories/situation.md`](../theories/situation.md); idle weighting [`README.md#long-arc-execution-tie-in`](README.md#long-arc-execution-tie-in).
+- Long arc — narrative / meaning [`governance.md#long-arc`](governance.md#long-arc); metaphor and HUD framing [`../theories/life-arc.md`](../theories/life-arc.md) · tactical state [`../theories/life-game-structure.md#tactical-hud`](../theories/life-game-structure.md#tactical-hud); idle weighting [`README.md#long-arc-execution-tie-in`](README.md#long-arc-execution-tie-in).
 - Day capture, body habits, cognitive modes, debug library — [`../README.md`](../README.md#daily-capture-and-modes) · [`../README.md#current-snapshot`](../README.md#current-snapshot) · [`../README.md#debug-library-instruments-games-puzzles`](../README.md#debug-library-instruments-games-puzzles) · [`../README.md#cognitive-modes-review-plan-creativity`](../README.md#cognitive-modes-review-plan-creativity).
 - Body clock and mandatory daily spine — [`../README.md#daily-capture-and-modes`](../README.md#daily-capture-and-modes).
 - Task surfaces and lookup order — [`README.md#task-surfaces-and-context`](README.md#task-surfaces-and-context).

@@ -10,7 +10,7 @@ Personal runbooks: device setup, personal inventory, shopping by store, active p
 - **[playlists/](playlists/README.md)** — playlists, likes, library habits (not performance or practice)
 - **[recipes/](recipes/README.md)** — cooking by type (drinks, routine, tasty meals) and kitchen-tool heuristics
 - **[stores/](stores/README.md)** — purchase lists by store: pharmacy, supermarket, online
-- **[theories/](theories/life-flow-judgment.md)** — conceptual models: lifecycle, metaphors, **life arc / HUD** ([life-arc.md](theories/life-arc.md)), **tactical situation** ([situation.md](theories/situation.md)), [metaphors.md](theories/metaphors.md), [opposite-comparisons.md](theories/opposite-comparisons.md); mermaid where useful
+- **[theories/](theories/life-flow-judgment.md)** — conceptual models: lifecycle, metaphors, **life arc / HUD** ([life-arc.md](theories/life-arc.md)), **tactical HUD** ([life-game-structure.md#tactical-hud](theories/life-game-structure.md#tactical-hud)), [philosophical-vigilance.md](theories/philosophical-vigilance.md), [metaphors.md](theories/metaphors.md), [opposite-comparisons.md](theories/opposite-comparisons.md); mermaid where useful
 - **[tasks/](tasks/README.md)** — practical task system: P0–P4 runbook, surfaces, recurring mirror
 
 ## Daily capture and modes
@@ -19,7 +19,7 @@ Lightweight capture for **what happened**, **body state**, and **which cognitive
 
 ## Current snapshot
 
-One-screen **reality HUD**: where you are living/working, main commitments this month, and the top risk. Update when reality shifts. Longer-lived tactical detail can also live in **[theories/situation.md](theories/situation.md)**; slow meaning and quest framing in **[theories/life-arc.md](theories/life-arc.md)**.
+One-screen **reality HUD**: where you are living/working, main commitments this month, and the top risk. Update when reality shifts. Longer-lived tactical detail can also live in **[theories/life-game-structure.md § Tactical HUD](theories/life-game-structure.md#tactical-hud)**; slow meaning and quest framing in **[theories/life-arc.md](theories/life-arc.md)**.
 
 ## Debug library (instruments, games, puzzles)
 

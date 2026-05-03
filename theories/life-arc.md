@@ -1,8 +1,8 @@
 # Life arc — HUD runbook
 
-**What this is:** a **video-game metaphor** for the same life you track elsewhere. **This file** is the **design doc**: main quest, win conditions, and how “the HUD” relates to numbers and routines. **[situation.md](situation.md)** is the **tactical layer**—current stats, runway, and branching paths (work, geography, money—filled by you when reality shifts).
+**What this is:** a **video-game metaphor** for the same life you track elsewhere. **This file** is the **design doc**: main quest, win conditions, and how “the HUD” relates to numbers and routines. The **tactical layer** (current stats, runway, branching paths—work, geography, money) lives in **[life-game-structure.md § Tactical HUD](life-game-structure.md#tactical-hud)**—fill when reality shifts.
 
-**Related:** [Metaphors (comparison hub)](metaphors.md) · [Opposite comparisons (spectra)](opposite-comparisons.md) · [Life game structure (nested instance, daily loop)](life-game-structure.md) · [Life flow and judgment (birth–death loop)](life-flow-judgment.md) · [Lineage descent (endowment / lineage graph)](lineage-descent.md) · [Governance — ordered priorities](../tasks/governance.md) · [Routine mirror](../tasks/recurring.md) · [Priority execution](../tasks/priority.md) · [Task surfaces](../tasks/README.md) · [Notes root README](../README.md)
+**Related:** [Metaphors (comparison hub)](metaphors.md) · [Opposite comparisons (spectra)](opposite-comparisons.md) · [Life game structure (nested instance, daily loop)](life-game-structure.md) · [Life flow and judgment (birth–death loop)](life-flow-judgment.md) · [Lineage descent (endowment / lineage graph)](lineage-descent.md) · [Philosophical vigilance](philosophical-vigilance.md) · [Governance — ordered priorities](../tasks/governance.md) · [Routine mirror](../tasks/recurring.md) · [Priority execution](../tasks/priority.md) · [Task surfaces](../tasks/README.md) · [Notes root README](../README.md)
 
 ---
 
@@ -53,7 +53,7 @@ flowchart LR
 
 Doing the **right thing in the right moment** often **feels better** than the same action executed in the **most optimized** plan on paper. Games reward **responsive** play, not only spreadsheet prep—same idea: keep **intent**, stay **flexible** on sequencing.
 
-**HUD tie-in:** branches in [situation.md](situation.md) (e.g. job change, move) are **re-specs**, not failures of the old route.
+**HUD tie-in:** branches in [Tactical HUD](life-game-structure.md#tactical-hud) (e.g. job change, move) are **re-specs**, not failures of the old route.
 
 ---
 
@@ -94,9 +94,9 @@ flowchart TB
     M[Mortality clock]
   end
 
-  subgraph rb [Runbook arc plus situation]
+  subgraph rb [Runbook arc plus tactical HUD]
     F[life-arc meaning quest design]
-    Sit[situation resources branches]
+    Sit[tactical HUD resources branches]
   end
 
   subgraph deps [Constraints patch notes]
@@ -118,10 +118,10 @@ Execution detail: [../tasks/recurring.md](../tasks/recurring.md), [../tasks/prio
 | Piece | Role |
 | --- | --- |
 | **life-arc.md** | Metaphor, values, main vs side quest, balance—**slow to edit**. |
-| **situation.md** | Current state, runway, next paths—**update when money or work changes**. |
+| **[life-game-structure.md § Tactical HUD](life-game-structure.md#tactical-hud)** | Current state, runway, next paths—**update when money or work changes**. |
 
 ---
 
 ## One-line maintenance rule
 
-When **health**, **money**, or **relationship context** shifts enough that your **feelings** about the main quest change, touch **[situation.md](situation.md) first**; touch **life-arc.md** only when your **values or long arc** actually moved.
+When **health**, **money**, or **relationship context** shifts enough that your **feelings** about the main quest change, touch **[Tactical HUD](life-game-structure.md#tactical-hud) first**; touch **life-arc.md** only when your **values or long arc** actually moved.

@@ -2,7 +2,7 @@
 
 **What this is:** short **handles** for talking about life (games, toys, HUD). Each section points to where the idea is **expanded** so this file stays a **map**, not a second copy of the long structural notes.
 
-**See also:** [Life arc (HUD runbook)](life-arc.md) · [Life game structure (nested instance, machinery)](life-game-structure.md) · [Opposite comparisons (spectra)](opposite-comparisons.md) · [Situation (tactical layer)](situation.md) · [Governance — principles](../tasks/governance.md)
+**See also:** [Life arc (HUD runbook)](life-arc.md) · [Life game structure (nested instance, machinery, tactical HUD)](life-game-structure.md) · [Opposite comparisons (spectra)](opposite-comparisons.md) · [Governance — principles](../tasks/governance.md)
 
 ---
 
@@ -27,13 +27,13 @@ Real life has:
 - **Physical cost** — healing, repair, relocation, rebuilding take **time and effort**.
 - **Non-recovery** — some breaks do not fully snap back; some states are **absorbing** (you adapt rather than “restore save”).
 
-Use this contrast when **respec** metaphors tempt you to treat every mistake as instantly reversible. [life-arc.md](life-arc.md) ties the same idea to HUD maintenance and [situation.md](situation.md) to **current** branches you can actually change.
+Use this contrast when **respec** metaphors tempt you to treat every mistake as instantly reversible. [life-arc.md](life-arc.md) ties the same idea to HUD maintenance and [Tactical HUD](life-game-structure.md#tactical-hud) to **current** branches you can actually change.
 
 ---
 
 ## HUD overlay
 
-You do not get a shipped UI for health, money, map position, or active quests. A **HUD** is the **readable slice** you build on purpose—numbers and narrative live partly in [situation.md](situation.md); **meaning and quest design** in [life-arc.md](life-arc.md).
+You do not get a shipped UI for health, money, map position, or active quests. A **HUD** is the **readable slice** you build on purpose—numbers and narrative live partly in [Tactical HUD](life-game-structure.md#tactical-hud); **meaning and quest design** in [life-arc.md](life-arc.md).
 
 ---
 

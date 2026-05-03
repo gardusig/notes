@@ -29,7 +29,7 @@ For each line: **two poles** and a **middle** that is not “zero” but **anoth
 ## Rich and poor (resource framing)
 
 - **Poles:** shame about means ↔ flex / contempt for constraint.
-- **Middle:** **clear-eyed optionality** — honest about runway and tradeoffs without tying dignity to a single scoreboard. Tactical numbers belong in [situation.md](situation.md).
+- **Middle:** **clear-eyed optionality** — honest about runway and tradeoffs without tying dignity to a single scoreboard. Tactical numbers belong in [life-game-structure.md § Tactical HUD](life-game-structure.md#tactical-hud).
 
 ---
 

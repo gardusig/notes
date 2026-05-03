@@ -2,7 +2,7 @@
 
 **Metaphor only** unless you explicitly treat it as a claim: life described as **nested game instances**, **parallel runs on shared hardware** (machine **onion** flowchart below), *Matrix*- and anime-shaped **story rhymes**, a **daily Dark Souls loop**, and an **online** ruleset (League of Legends–style). This doc does **not** add a separate “heaven” layer in the **inner** onion—only **game / control / factions / pill bands**.
 
-**See also:** [Life flow and final judgment](life-flow-judgment.md) (birth–death–judgment, main quest, ledger) · [Lineage descent](lineage-descent.md) (IV/IQ, EV/EQ, branching graph) · [Metaphors (GTA-style quest vocabulary, not-LEGO)](metaphors.md) · [Life arc (HUD runbook)](life-arc.md) · [Situation (tactical layer)](situation.md) · [Opposite comparisons (spectra)](opposite-comparisons.md)
+**See also:** [Life flow and final judgment](life-flow-judgment.md) (birth–death–judgment, main quest, ledger) · [Lineage descent](lineage-descent.md) (IV/IQ, EV/EQ, branching graph) · [Metaphors (GTA-style quest vocabulary, not-LEGO)](metaphors.md) · [Life arc (HUD runbook)](life-arc.md) · [Opposite comparisons (spectra)](opposite-comparisons.md) · [Philosophical vigilance](philosophical-vigilance.md) (skepticism, trust, contingency) · **Tactical HUD:** [below](#tactical-hud)
 
 **Harm and penalty** (human-involved acts, coarse time bands): if you keep that table, it lives **outside this repo**—not linked here (previously referenced a missing `runbook/` path).
 
@@ -56,9 +56,7 @@ When friction stacks—contradictions, limits, unfair maps—you may meet a **me
 
 ## Red pill (this doc’s meaning)
 
-Here **red pill** is **not** moral endorsement and **not** “the one true reality.” It means **altered states** (including **drugs**), **going beyond** the default script, and **fantasy of alternatives** (superpowers, other lives, other timelines). In story terms: you **step out of one machine** and **land in another game instance**—**another ruleset**, not a guaranteed upgrade.
-
-**Not medical advice.** If substance use is in the picture, real harm reduction and professional care beat metaphor.
+Here **red pill** is **not** moral endorsement and **not** “the one true reality.” It means **going beyond** the default script through **radical reframing**, **vivid imagination of alternatives**, and **treating the handed map as revisable** (other roles, other timelines, other rulesets). In story terms: you **step out of one machine** and **land in another game instance**—**another ruleset**, not a guaranteed upgrade.
 
 ## Nested instance (onion, no heaven)
 
@@ -66,7 +64,7 @@ Here **red pill** is **not** moral endorsement and **not** “the one true reali
 
 1. **Video game instance** — same as **ring 5**: one run of social physics you inhabit (the shell for everything below).
 2. **The guys** — spectrum from **police** to **strong criminals**: they **manage people overall**—**dangerous, controlling** pressure that applies **whether** someone is living **blue-pill default** or **red-pill breakout**; beliefs do not exempt you from their reach.
-3. **Red pill matrix** — **outer band** around the pill core: **breakout / alternative** framing (altered states, radical imagination, switching instances)—the **field** outside pure default play.
+3. **Red pill matrix** — **outer band** around the pill core: **breakout / alternative** framing (perspective shifts, radical imagination, switching instances)—the **field** outside pure default play.
 4. **Pink group** — **inside** the red-pill band: **border work** between **blue** (immersed default) and **red** (beyond the script)—scenes, customs, brokers, and subcultures that **touch both**; rename labels to match your own “crew / gate / liminal” group.
 5. **Blue pill matrix** — **core**: trusting the presented world and playing the handed quest.
 
@@ -157,16 +155,47 @@ Locally you could imagine **spawn/delete** and **free metadata edits**. In pract
 
 Even with **security**, **probability** and **bad actors** exist. Picture **one account** getting **rigged crits** in **one match**, then never again—**looks random**, **hard to prove**. Metaphor for **selective harm, bad luck, or institutional caprice** without a smoking gun.
 
+## Tactical HUD
+
+**What this is:** the **current-state** sheet for this metaphor stack: where you live and work, runway shape, and **active branches** you are weighing. **No invented numbers here**—fill from your real sources (bank app, employer, calendar).
+
+**Design doc (slow):** [life-arc.md](life-arc.md) · **Metaphor routing:** [metaphors.md](metaphors.md) · **Execution:** [../tasks/README.md](../tasks/README.md) · [../tasks/priority.md](../tasks/priority.md) · [../tasks/governance.md](../tasks/governance.md)
+
+### Geography and work mode
+
+- **Living / base:** *(city, housing situation — optional to write)*
+- **Work arrangement:** *(employer / remote / hybrid — optional)*
+
+### Runway and money rhythm
+
+- **Runway / cushion (qualitative):** *(e.g. comfortable / tight / emergency — update when it shifts)*
+- **Net worth or detailed figures:** keep in **your** spreadsheet or bank tooling; this section can stay **non-numeric** if you prefer.
+
+### Active branches
+
+Short bullets for **decisions in flight** (job offers, moves, visa threads, etc.). When a branch closes, **archive** the bullet or move detail out of this repo.
+
+- *(branch one)*
+- *(branch two)*
+
+### Re-spec notes
+
+When reality changes, name **what actually moved** (constraint or opportunity)—same spirit as [life-arc.md](life-arc.md) “timing beats perfect planning.”
+
+### When to update
+
+Touch this section when **money**, **work**, or **geography** changes enough that your **next actions** change—not every mood swing. For emotional firefighting and P0 triage, use [../tasks/governance.md#when-emotional](../tasks/governance.md#when-emotional) and [../tasks/priority.md](../tasks/priority.md).
+
 ## Where to read what
 
 | Topic | Doc |
 |--------|-----|
 | Birth queue, death, judgment branches, main quest, routine, lottery | [life-flow-judgment.md](life-flow-judgment.md) |
 | IV/IQ baseline, EV/EQ grind, branching lineage graph | [lineage-descent.md](lineage-descent.md) |
-| HUD design, win condition, life-arc vs situation split, fix-before-vengeance norm | [life-arc.md](life-arc.md) · [situation.md](situation.md) |
+| HUD design, win condition, life-arc vs tactical HUD split, fix-before-vengeance norm | [life-arc.md](life-arc.md) · **this file** § [Tactical HUD](#tactical-hud) |
 | Short metaphor routing (GTA main/side, LEGO contrast) | [metaphors.md](metaphors.md) |
 | Paired poles and middle spaces (justice between fix and vengeance) | [opposite-comparisons.md](opposite-comparisons.md) |
-| Machine onion, inner pill onion, blue-pill interior, bipolar spectra, media parallels, cycles, daily respawn, server / corruption | This file |
+| Machine onion, inner pill onion, blue-pill interior, bipolar spectra, media parallels, cycles, daily respawn, server / corruption, tactical HUD | This file |
 
 ```mermaid
 flowchart LR

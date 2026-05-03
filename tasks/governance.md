@@ -2,7 +2,7 @@
 
 Philosophy and **ordered life priorities** live here. **Procedures** (P0–P4, surfaces, pick-one-task) live in [`priority.md`](priority.md); task surfaces and context in [`README.md#task-surfaces-and-context`](README.md#task-surfaces-and-context); recurring mirror in [`recurring.md`](recurring.md).
 
-**See also:** [Life flow and final judgment](../theories/life-flow-judgment.md) · [Metaphors (comparison hub)](../theories/metaphors.md) · [Life arc (HUD runbook)](../theories/life-arc.md) · [Situation (tactical)](../theories/situation.md) · [Opposite comparisons (spectra)](../theories/opposite-comparisons.md) · [Notes root README](../README.md)
+**See also:** [Life flow and final judgment](../theories/life-flow-judgment.md) · [Metaphors (comparison hub)](../theories/metaphors.md) · [Life arc (HUD runbook)](../theories/life-arc.md) · [Tactical HUD](../theories/life-game-structure.md#tactical-hud) · [Opposite comparisons (spectra)](../theories/opposite-comparisons.md) · [Notes root README](../README.md)
 
 ## Life priority stack (ordered)
 

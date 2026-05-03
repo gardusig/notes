@@ -28,6 +28,7 @@ This folder holds **personal setup, hardware, and shopping notes** for **compute
     - **Street** phone; **battery** first; **few** banks + **low** **Pix** limits; **puzzle** games for short sessions.
   - [`micro-sd.md`](micro-sd.md)
     - **Large** microSD for **offline** media on Android; **capacity** over speed.
+- **Personal inventory** — wardrobe, daily carry, and tech bag rosters live in [`../inventory/README.md`](../inventory/README.md).
 
 ---
 

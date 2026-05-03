@@ -1,13 +1,15 @@
 # Notes
 
-Personal runbooks: device setup, active play, listening habits, recipes, and diagram notes.
+Personal runbooks: device setup, personal inventory, shopping by store, active play, listening habits, recipes, and diagram notes.
 
 ## Index
 
 - **[device/](device/README.md)** — computers and phones: setup, workflows, what to buy
+- **[inventory/](inventory/README.md)** — personal inventory: clothing, daily carry, tech backpack
 - **[play/](play/README.md)** — instruments, video games, puzzles
 - **[playlists/](playlists/README.md)** — playlists, likes, library habits (not performance or practice)
-- **[recipes/](recipes/README.md)** — cooking notes and batch quantities
+- **[recipes/](recipes/README.md)** — cooking by type (drinks, routine, tasty meals) and kitchen-tool heuristics
+- **[stores/](stores/README.md)** — purchase lists by store: pharmacy, supermarket, online
 - **[theories/](theories/life-flow-judgment.md)** — conceptual models: lifecycle, metaphors, **life arc / HUD** ([life-arc.md](theories/life-arc.md)), **tactical situation** ([situation.md](theories/situation.md)), [metaphors.md](theories/metaphors.md), [opposite-comparisons.md](theories/opposite-comparisons.md); mermaid where useful
 - **[tasks/](tasks/README.md)** — practical task system: P0–P4 runbook, surfaces, recurring mirror
 

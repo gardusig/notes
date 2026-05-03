@@ -11,7 +11,9 @@
 | File | Purpose |
 |------|---------|
 | **README.md** *(this file)* | Runbook: intent, formats, and constraints. |
-| *(optional `.md` you add)* | e.g. wishlists, sources, logs—list each file here when you add it. |
+| **[chess.md](chess.md)** | Chess.com **rated puzzles** vs **matches**: stats link, philosophy (accuracy over speed), rating tracker, session rhythm, weekly chess log. |
+| **[lanes.md](lanes.md)** | Non-ranked puzzle **lanes**, **lifetime completion counters** per type, and weekly throughput. |
+| *(optional `.md` you add)* | e.g. wishlists, sources—list each file here when you add it. |
 
 ---
 
@@ -53,4 +55,4 @@ Phone or laptop apps are fine for travel or a quick hit, but they sit **second**
 
 *(Replace with your real rules when you have them.)*
 
-**Upstream:** [Play](../README.md)
+**Upstream:** [Play](../README.md) · **Chess.com practice:** [chess.md](chess.md) · **Completion lanes & counters:** [lanes.md](lanes.md)

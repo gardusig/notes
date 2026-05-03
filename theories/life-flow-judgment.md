@@ -1,10 +1,21 @@
 # Life flow and final judgment
 
-A **personal lifecycle model**: optional simulation framing where an author spawns the first human like a video game, then the world runs hands-off and the same loop is a **stable, self-managed** birth–death–judgment cycle. Layers in the diagram: **birth queue** (append and wait until a mother can give birth); **embodied life** (from birth through death); **after death** (cemetery, then accounting and judgment, then back to the queue). **Harm and penalty time (human-involved)** is described in a separate runbook (not in this repo) as a table sorted by typical duration of cost, not here. Everyday analogies (“like an Uber,” “like jail or an Airbnb”) are explicit nodes on purpose.
+## Scope and uncertainty (read first)
+
+This file is **one bundle of hypotheses** about **why someone might be born with a given “build”** (only in the sense of a **fictional cosmology**: queue, operator, design) and **what might happen afterward**—birth, embodied life, death, then **possible** accounting and return to a queue. It is **not** a claim about physics, religion, or how the real world works.
+
+- **No guarantee.** Reality might be **utterly indifferent**: random birth into an ordinary family, **no ledger**, **no judgment**, **no continuation**—only biology and chance, then **nothing** in any narrative sense. Treat every node after “die” as **optional fiction**, not something you should expect.
+- **If** anything like a post-death layer existed, **lots of complexities** could apply (rules nobody stated, conflicting traditions, unknown branches). This diagram is **one** stylized map, not an exhaustive or true catalog.
+
+For **talent, IQ/IV-style baselines, training, family lineages, and how embodied life is often structured** (school, career, routine), see [lineage-descent.md](lineage-descent.md)—that is a different question from “is there a loop after death?”
+
+---
+
+A **personal lifecycle model** (**optional metaphor**): an author spawns the first human like a video game, then the world runs hands-off and the same loop is a **stable, self-managed** birth–death–judgment cycle *in this story*. Layers in the diagram: **birth queue** (append and wait until a mother can give birth); **embodied life** (from birth through death); **after death** (cemetery, then accounting and judgment, then back to the queue). **Harm and penalty time (human-involved)** is described in a separate runbook (not in this repo) as a table sorted by typical duration of cost, not here. Everyday analogies (“like an Uber,” “like jail or an Airbnb”) are explicit nodes on purpose.
 
 Mermaid uses `classDef` fills for readability; some renderers ignore subgraph styling.
 
-**See also:** [Life game structure (nested instance, pills, daily loop)](life-game-structure.md) · [Lineage descent (endowment, IV/IQ, graph)](lineage-descent.md)
+**See also:** [Life game structure (nested instance, pills, daily loop)](life-game-structure.md) · [Lineage descent (talent, endowment, embodied social structure)](lineage-descent.md) · [Task governance (ordered priorities)](task-governance.md)
 
 ## Main loop and judgment branch
 
@@ -91,17 +102,19 @@ flowchart TD
 
 ## Reading the model
 
+Everything below assumes you are **inside the metaphor** for discussion. **Outside** the metaphor, none of this may hold.
+
 ### Ledger, fairness, and irreversibility
 
-Someone is always watching (VAR-style): unpaid costs while alive are settled after death. **Anti-hereditary:** no inheriting a dead person’s “slot”; sadness does not restore stolen happiness. **Why not delete the harm data:** without costs for harm, the “life game” loses purpose and fairness. **Irreversibility:** consequences rarely fully undo; no time-travel feature—broken bones do not always snap back.
+**If** the model were true: someone is always watching (VAR-style); unpaid costs while alive are settled after death. **Anti-hereditary:** no inheriting a dead person’s “slot”; sadness does not restore stolen happiness. **Why not delete the harm data:** without costs for harm, the “life game” loses purpose and fairness. **Irreversibility:** consequences rarely fully undo; no time-travel feature—broken bones do not always snap back.
 
 ### Free will, balance, and purpose
 
-If everyone were controlled, the game is pointless; choices matter; rules exist for those currently in play. Desire to improve keeps the wheel turning; automation and balance read as ongoing forces.
+**If** the model were true: if everyone were controlled, the game is pointless; choices matter; rules exist for those currently in play. Desire to improve keeps the wheel turning; automation and balance read as ongoing forces.
 
 ### Simulation and spawner (metaphor)
 
-Treats existence as a long-running process: a one-time “first character,” then autonomous queue and judgment without micromanagement—**useful metaphor, not a physics claim**.
+**In this story only:** existence reads as a long-running process—a one-time “first character,” then autonomous queue and judgment without micromanagement—**useful metaphor, not a physics claim**.
 
 ### Operator, watching, and unequal spawn
 
@@ -113,7 +126,7 @@ Treats existence as a long-running process: a one-time “first character,” th
 
 **Forced events and disease as levers.** In that picture, the operator could **introduce or steer** things like illness and constraint—not as constant puppetry, but as **occasional** pressure when the system needs differentiation, stakes, or correction. **Metaphor unless you treat it as a claim.**
 
-**Unfair by construction.** People do not spawn with the same stats, family, or map. Inequality of endowment is almost the default, not something optimism patches. (For **IV/IQ-style baseline vs. trained stats**, see [lineage-descent.md](lineage-descent.md).)
+**Unequal spawn (in-model).** The queue picture needs different “characters” with different constraints. **Why** real people differ at birth (genes, environment, talent curves) is **not** settled here—see [lineage-descent.md](lineage-descent.md) for **IV/IQ-style baseline vs. trained stats** and family context. This file only needs the premise that **spawns are not equal** for the story to have stakes.
 
 ### Asymmetry, culture, and the discipline stack
 
@@ -131,10 +144,8 @@ Treats existence as a long-running process: a one-time “first character,” th
 
 **The mental bubble / partial minimap.** Each person starts like a **blank drive** loaded through family, place, and experience—a minimap of what they have actually seen. The full world map is unfinishable. Expect **large unknowns** outside your patch.
 
-## Main quest, routine, and realism
+## Embodied chapter vs this file
 
-Culture and media often script a **default main quest**: compete for grades at school and university, then for jobs, then for a “successful” child to raise, then some rest when old. That path is **linear and competitive**; it forgives **few** mistakes—a skipped year or a serious health hit can **reshape** the rest of the story. **The Sims** is a useful parallel for **staged social progression** (needs, career ladder, household), not for stat breeding—that sits with lineage.
-
-What often separates people from what they want is **routine** plus **realism**: naming an **achievement list** (what “done” looks like) and executing toward it daily. **Lottery** goals work the same way: you only win if you play, and long shots need a **sustainable** routine so you can keep “buying tickets” for a lifetime without burning out.
+**School, jobs, default “main quest,” routine, and lottery-style goals** are about **how life is structured once you are already here**—talent, effort, and social scripts. That lives in [lineage-descent.md](lineage-descent.md) so this note stays on **possible** birth-to-judgment **loops** and **after-death branches** only.
 
 For **how daily play, instances, and pills layer as metaphor**, see [life-game-structure.md](life-game-structure.md).

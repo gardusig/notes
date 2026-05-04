@@ -29,6 +29,7 @@ This folder holds **personal setup, hardware, and shopping notes** for **compute
   - [`micro-sd.md`](micro-sd.md)
     - **Large** microSD for **offline** media on Android; **capacity** over speed.
 - **Personal inventory** — wardrobe, daily carry, and tech bag rosters live in [`../inventory/README.md`](../inventory/README.md).
+- **AI-assisted coding** — Cursor workflows, agent task patterns, DevTools debug flow, models, and personal skills usage: [`../coding/README.md`](../coding/README.md).
 
 ---
 

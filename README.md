@@ -1,9 +1,10 @@
 # Notes
 
-Personal runbooks: device setup, personal inventory, shopping by store, active play, listening habits, recipes, and diagram notes.
+Personal runbooks: device setup, personal inventory, shopping by store, active play, listening habits, recipes, diagram notes, and AI-assisted coding playbooks.
 
 ## Index
 
+- **[coding/](coding/README.md)** — Cursor, agents, per-repo bootstrap, tasks, debugging UI flows, models, personal `@` skills
 - **[device/](device/README.md)** — computers and phones: setup, workflows, what to buy
 - **[inventory/](inventory/README.md)** — personal inventory: clothing, daily carry, tech backpack
 - **[play/](play/README.md)** — instruments, video games, puzzles

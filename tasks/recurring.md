@@ -19,7 +19,7 @@ These **P1–P3** labels are for **maintenance cadence**, not the **P0–P4** ex
 | --- | --- |
 | **P1** | Hard deadline or high consequence if missed (tax, health). |
 | **P2** | Steady upkeep — money sync, backups, plans. |
-| **P3** | Hygiene, comfort, long-lead scheduling (barber, playlists). |
+| **P3** | Hygiene, comfort, long-lead scheduling (barber, [music playlists](../consume/playlists/README.md)). |
 
 ## Sort rule
 
@@ -29,16 +29,18 @@ Daily → Weekly → Every 2 weeks → Monthly → Every 8 weeks → Every 3 mon
 
 ## Recurring roster (shave backup)
 
+**Last done** may hold a completion date, an in-repo link, or a short reminder when the canonical checklist lives outside this repo.
+
 | Label | Priority | Cadence | Last done |
 | --- | --- | --- | --- |
-| Buy pharmacy | P3 | Weekly | |
-| Sync finance | P2 | Weekly | |
-| Sync timeline | P2 | Weekly | |
-| Review playlists | P3 | Every 2 weeks | |
-| Mobile plan | P2 | Monthly | |
-| Upload backup | P2 | Monthly | |
-| Schedule barber | P3 | Every 8 weeks | |
-| Schedule dentist | P2 | Every 3 months | |
-| Cursor subscription | P3 | Yearly | |
+| Buy pharmacy | P3 | Weekly | [stores/pharmacy.md](../stores/pharmacy.md) |
+| Sync finance | P2 | Weekly | Private repo (no in-repo link) |
+| Sync timeline | P2 | Weekly | Private repo (no in-repo link) |
+| Review music library | P3 | Every 2 weeks | [consume/playlists/README.md](../consume/playlists/README.md) |
+| Cursor subscription | P3 | Monthly (early) | [cursor.com](https://cursor.com) — billing / account |
+| Mobile plan | P2 | Monthly | Automatic — confirm on phone |
+| Upload backup | P2 | Monthly | Private repo (no in-repo link) |
+| Schedule barber | P3 | Every 8 weeks | Any nearby |
+| Schedule dentist | P2 | Every 3 months | Any nearby |
 | Health exams | P1 | Yearly | |
 | IRPF | P1 | Yearly | |

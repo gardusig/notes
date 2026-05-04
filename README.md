@@ -5,10 +5,10 @@ Personal runbooks: device setup, personal inventory, shopping by store, active p
 ## Index
 
 - **[coding/](coding/README.md)** — Cursor, agents, per-repo bootstrap, tasks, debugging UI flows, models, personal `@` skills
+- **[consume/](consume/README.md)** — passive consumption: watched film/TV/anime, to-watch queues by kind, books + wiki links, music playlists ([playlists/](consume/playlists/README.md)); podcasts, live follows, and online/ambient habits ([channels/](consume/channels/README.md))
 - **[device/](device/README.md)** — computers and phones: setup, workflows, what to buy
 - **[inventory/](inventory/README.md)** — personal inventory: clothing, daily carry, tech backpack
 - **[play/](play/README.md)** — instruments, video games, puzzles
-- **[playlists/](playlists/README.md)** — playlists, likes, library habits (not performance or practice)
 - **[recipes/](recipes/README.md)** — cooking by type (drinks, routine, tasty meals) and kitchen-tool heuristics
 - **[stores/](stores/README.md)** — purchase lists by store: pharmacy, supermarket, online
 - **[theories/](theories/life-flow-judgment.md)** — conceptual models: lifecycle, metaphors, **life arc / HUD** ([life-arc.md](theories/life-arc.md)), **tactical HUD** ([life-game-structure.md#tactical-hud](theories/life-game-structure.md#tactical-hud)), [philosophical-vigilance.md](theories/philosophical-vigilance.md), [metaphors.md](theories/metaphors.md), [opposite-comparisons.md](theories/opposite-comparisons.md); mermaid where useful

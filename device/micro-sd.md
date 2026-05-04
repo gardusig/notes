@@ -26,6 +26,7 @@ Folder outline: **[README.md](README.md)**.
   - [Anime](#anime)
   - [Movies](#movies)
   - [Series](#series)
+  - [Consumption log (same library)](#consumption-log-same-library)
 - [Guidelines](#guidelines)
 - [What to buy \& price expectations](#what-to-buy--price-expectations)
 
@@ -82,6 +83,13 @@ Folder outline: **[README.md](README.md)**.
 | Narcos         | 3 seasons   | 2015–2017     | ~30 hours      |
 | Prison Break   | 5 seasons   | 2005–2017     | ~67 hours      |
 | Sherlock       | 4 seasons   | 2010–2017     | ~18 hours      |
+
+### Consumption log (same library)
+
+Track **finished video** and **read / research** alongside this inventory:
+
+- [Watched media log](../consume/media/README.md) — per-title tables and to-watch queue
+- [Books and library links](../consume/read/README.md) — finished books, to-read queue, Fandom/Wikipedia hubs per title above
 
 ---
 

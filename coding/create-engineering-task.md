@@ -51,3 +51,9 @@ These help **Cursor and other agents** stay on rails.
 ## Out of scope
 
 If the task balloons, **split** it: new issue for follow-ups, link between them. One primary **Definition of done** per issue keeps reviews and agent runs focused.
+
+---
+
+## See also
+
+- **From idea to “good enough” then priority work** — full choreography in [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md).

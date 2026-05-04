@@ -11,6 +11,7 @@ How to **execute** work after [`create-engineering-task.md`](create-engineering-
 - [Chunking and verification](#chunking-and-verification)
 - [Agent vs terminal](#agent-vs-terminal)
 - [Rewrite a few files, then re-read](#rewrite-a-few-files-then-re-read)
+- [Calm review pass](#calm-review-pass)
 - [Parallelism while models run](#parallelism-while-models-run)
 
 ---
@@ -27,6 +28,8 @@ Agents are strong at **search, edits, and boilerplate**; they are weak at **taci
 | --- | --- |
 | **Plan** | Multiple valid approaches, large refactor, unclear blast radius—you want a written approach before edits. |
 | **Agent** | Approach is clear, edits are localized, tests or linters will catch mistakes. |
+
+When the task is **actually next priority**, prefer the **heavy Plan** recipe in [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md): load **as much context** as you can (`@` files, ticket text, logs), **sharpen the plan in place** until it names files, order, and verify steps—then execution needs **few** follow-up instructions.
 
 If the product UI for “agent” is still awkward for multi-file refactors, **fall back**: small agent steps, or edit critical paths yourself and use the agent for tests and docs.
 
@@ -60,6 +63,12 @@ When the agent **rewrites** several files:
 1. Open the **diff** or changed files in the editor.
 2. Check **invariants**: error handling, nil checks, API contracts, config keys.
 3. Run **targeted** tests for touched packages before the full suite.
+
+---
+
+## Calm review pass
+
+Before you call the change “ready,” use a **calm read** of the diff and test output: stop starting new work for a bounded window and read like you are on-call, not like you are prompting. Full draft ritual: [`review-calm-read.md`](review-calm-read.md) (**under research**).
 
 ---
 

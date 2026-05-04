@@ -13,9 +13,11 @@ Personal **strategies for shipping code with Cursor**, agents, and **user-scoped
 
 | You need… | Start here |
 | --- | --- |
+| **Idea → ticket → Plan mode → work** (common resolution path) | [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md) |
 | What to set up **per repo** (`.cursor/`, terminal pin, rules) | [`repo-bootstrap.md`](repo-bootstrap.md) |
 | How to **write** an issue or ticket agents can run | [`create-engineering-task.md`](create-engineering-task.md) |
 | How to **execute** a task (modes, terminal vs agent, verify) | [`work-task-with-agents.md`](work-task-with-agents.md) |
+| **Calm review** pass (read code + tests, under research) | [`review-calm-read.md`](review-calm-read.md) |
 | **Post-deploy / UI** debugging (DevTools, cloud read-only, dashboards) | [`debug-prod-ui-flows.md`](debug-prod-ui-flows.md) |
 | **Model** choice and when to escalate | [`models-and-modes.md`](models-and-modes.md) |
 | **`@` skills**, browser capture, chat patterns | [`skills-and-chat-patterns.md`](skills-and-chat-patterns.md) |
@@ -26,6 +28,22 @@ Personal **strategies for shipping code with Cursor**, agents, and **user-scoped
 - [Summary](#summary)
 - [Index](#index)
 - [How this folder relates to `device/work`](#how-this-folder-relates-to-devicework)
+- [Topic files](#topic-files)
+
+---
+
+## Topic files
+
+| File | Role |
+| --- | --- |
+| [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md) | Idea, good-enough task, then Plan mode with **max context** and **sharpened** plan before execution. |
+| [`repo-bootstrap.md`](repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal. |
+| [`create-engineering-task.md`](create-engineering-task.md) | Ticket skeleton and agent-friendly fields. |
+| [`work-task-with-agents.md`](work-task-with-agents.md) | Agent vs terminal, chunking, verify. |
+| [`review-calm-read.md`](review-calm-read.md) | Review modus operandi: stop, read code and test results calmly (draft). |
+| [`debug-prod-ui-flows.md`](debug-prod-ui-flows.md) | DevTools, cloud read-only, dashboards. |
+| [`models-and-modes.md`](models-and-modes.md) | Model policy. |
+| [`skills-and-chat-patterns.md`](skills-and-chat-patterns.md) | `@` skills and capture patterns. |
 
 ---
 

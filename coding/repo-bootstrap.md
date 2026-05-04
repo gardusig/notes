@@ -33,12 +33,13 @@ Standardize what **each** coding repo should have so **you and agents** share th
 
 ## `.cursor/` checklist
 
-Treat this as a **copy-paste scaffold** when a repo has no Cursor layout yet. Adjust names to match the project; keep files **small and specific** rather than one giant rule file.
+Treat this as a **copy-paste scaffold** when a repo has no Cursor layout yet. Adjust names to match the project; keep files **small and specific** rather than one giant rule file. For a **full map** of `.cursor/templates/` (minimal vs standard vs docs-heavy copy sets), see **[`templates/.cursor/README.md`](templates/.cursor/README.md)**.
 
 | Path / concern | Suggested content |
 | --- | --- |
 | **`.cursor/rules/`** (or project rules in app settings) | Stack-specific guardrails: test command, formatter, “do not edit generated,” security notes. |
 | **`.cursor/hooks/`** (if you use hooks) | Repo-local automation only; document what each hook does in a one-line README in that folder or in the main repo README. |
+| **`.cursor/templates/`** (optional) | Markdown pasteables: PRs, issues, git narratives, diagrams, README/wiki stubs—copy from [`templates/`](templates/README.md); layout reference [`templates/.cursor/README.md`](templates/.cursor/README.md). |
 | **Diagrams / tables / index** | If the repo has a `docs/` wiki, align with its index pattern; for graph-heavy design, keep **mermaid** in versioned docs, not only in chat. |
 | **Markdown style** | Match existing docs; prefer links to canonical runbooks over duplicating employer URLs here. |
 

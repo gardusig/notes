@@ -15,6 +15,7 @@ Personal **strategies for shipping code with Cursor**, agents, and **user-scoped
 | --- | --- |
 | **Idea → ticket → Plan mode → work** (common resolution path) | [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md) |
 | What to set up **per repo** (`.cursor/`, terminal pin, rules) | [`repo-bootstrap.md`](repo-bootstrap.md) |
+| **`.cursor/templates`** bundle map (minimal / standard / docs-heavy `cp` sets) | [`templates/.cursor/README.md`](templates/.cursor/README.md) |
 | How to **write** an issue or ticket agents can run | [`create-engineering-task.md`](create-engineering-task.md) |
 | How to **execute** a task (modes, terminal vs agent, verify) | [`work-task-with-agents.md`](work-task-with-agents.md) |
 | **Calm review** pass (read code + tests, under research) | [`review-calm-read.md`](review-calm-read.md) |
@@ -38,7 +39,7 @@ Personal **strategies for shipping code with Cursor**, agents, and **user-scoped
 | File | Role |
 | --- | --- |
 | [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md) | Idea, good-enough task, then Plan mode with **max context** and **sharpened** plan before execution. |
-| [`repo-bootstrap.md`](repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal. |
+| [`repo-bootstrap.md`](repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal; pasteables → [`templates/.cursor/README.md`](templates/.cursor/README.md). |
 | [`create-engineering-task.md`](create-engineering-task.md) | Ticket skeleton and agent-friendly fields. |
 | [`work-task-with-agents.md`](work-task-with-agents.md) | Agent vs terminal, chunking, verify. |
 | [`review-calm-read.md`](review-calm-read.md) | Review modus operandi: stop, read code and test results calmly (draft). |

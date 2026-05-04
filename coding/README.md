@@ -19,7 +19,8 @@ Personal **strategies for shipping code with Cursor**, agents, and **user-scoped
 | How to **execute** a task (modes, terminal vs agent, verify) | [`work-task-with-agents.md`](work-task-with-agents.md) |
 | **Calm review** pass (read code + tests, under research) | [`review-calm-read.md`](review-calm-read.md) |
 | **Post-deploy / UI** debugging (DevTools, cloud read-only, dashboards) | [`debug-prod-ui-flows.md`](debug-prod-ui-flows.md) |
-| **Model** choice and when to escalate | [`models-and-modes.md`](models-and-modes.md) |
+| **Model** choice, value tier (re-check pricing), when to escalate | [`models-and-modes.md`](models-and-modes.md) |
+| **Default: Plan first** (summarize + plan; pad chat; Agent after) | [`plan-first-and-ui-context.md`](plan-first-and-ui-context.md) |
 | **`@` skills**, browser capture, chat patterns | [`skills-and-chat-patterns.md`](skills-and-chat-patterns.md) |
 
 ## Index
@@ -42,7 +43,8 @@ Personal **strategies for shipping code with Cursor**, agents, and **user-scoped
 | [`work-task-with-agents.md`](work-task-with-agents.md) | Agent vs terminal, chunking, verify. |
 | [`review-calm-read.md`](review-calm-read.md) | Review modus operandi: stop, read code and test results calmly (draft). |
 | [`debug-prod-ui-flows.md`](debug-prod-ui-flows.md) | DevTools, cloud read-only, dashboards. |
-| [`models-and-modes.md`](models-and-modes.md) | Model policy. |
+| [`models-and-modes.md`](models-and-modes.md) | Model policy; routine **best value** tier (e.g. Composer 2 non-Fast—re-validate when pricing changes). |
+| [`plan-first-and-ui-context.md`](plan-first-and-ui-context.md) | Default bias: Plan before Agent; use chat context (no extra “skill” for built-in UI). |
 | [`skills-and-chat-patterns.md`](skills-and-chat-patterns.md) | `@` skills and capture patterns. |
 
 ---

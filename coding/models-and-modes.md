@@ -8,6 +8,7 @@ Stable **principles** for model choice in Cursor (or similar). Product names and
 
 - [Purpose](#purpose)
 - [Default model](#default-model)
+- [Routine tier: best value at the time](#routine-tier-best-value-at-the-time)
 - [When to escalate](#when-to-escalate)
 - [Avoid “Auto” when it hurts](#avoid-auto-when-it-hurts)
 - [Cost and latency](#cost-and-latency)
@@ -16,7 +17,7 @@ Stable **principles** for model choice in Cursor (or similar). Product names and
 
 ## Purpose
 
-Pick models **deliberately** so behavior, cost, and quality are predictable. **Planning** and **final review** often deserve a stronger model; **bulk edits and retries** may not.
+Pick models **deliberately** so behavior, cost, and quality are predictable. **Planning** and **final review** often deserve a stronger model; **bulk edits and retries** may not. For **when** to invest in Plan vs jumping to Agent (and padding the chat with context), see [`plan-first-and-ui-context.md`](plan-first-and-ui-context.md).
 
 ---
 
@@ -28,6 +29,20 @@ Pick models **deliberately** so behavior, cost, and quality are predictable. **P
 | **Match model to risk** | Payments, auth, concurrency: use the strongest model you accept for that session, or more human review. |
 
 Set the default in the product once and **reset** it after experiments so you do not leak a one-off choice into the next task.
+
+---
+
+## Routine tier: best value at the time
+
+**Principle:** the “**best cost for money**” model for everyday work **changes** whenever vendors rename tiers, adjust prices, or ship new mid-tier models. Treat your **routine default** as a **hypothesis**, not a tattoo—**re-check** the picker, billing docs, and a few real tasks on a cadence you notice (e.g. after product announcements or a bad month of invoices).
+
+| Habit | Rationale |
+| --- | --- |
+| **Prefer the value sweet spot** over flagship for bulk work | Flagship wins on hard problems; mid tier often wins on **total spend per merged change** if failures are rare. |
+| **Do not assume “Fast” = same model, better deal** | Fast variants can differ in **quality, limits, or metering**. Pick the variant that matches your tolerance for retries and mistakes. |
+| **Escalate when the ceiling shows** | If you are fighting the model on design, edge cases, or security, the cheap tier is the wrong tool—see [When to escalate](#when-to-escalate). |
+
+**Current default (example—re-validate):** **Composer 2** in the **non-Fast** variant as the usual **routine** model: among the **cheaper** options that still clears **most** tasks, with a **lower ceiling** on depth and nuance. Use Plan or a stronger model when the task needs more judgment; avoid treating “cheap” as “always sufficient.”
 
 ---
 
@@ -55,6 +70,8 @@ If you notice **inconsistent** quality or **surprising** bills in Auto, **pin** 
 ---
 
 ## Cost and latency
+
+**Price lists and “best value” picks go stale**—align spend with [Routine tier: best value at the time](#routine-tier-best-value-at-the-time), not with memory from last quarter.
 
 **Faster** models can cost **more per useful answer** if they require extra regeneration. Prefer:
 

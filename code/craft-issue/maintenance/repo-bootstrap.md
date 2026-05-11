@@ -33,13 +33,13 @@ Standardize what **each** coding repo should have so **you and agents** share th
 
 ## `.cursor/` checklist
 
-Treat this as a **copy-paste scaffold** when a repo has no Cursor layout yet. Adjust names to match the project; keep files **small and specific** rather than one giant rule file. Optional **`.cursor/templates/`** trees are per-repo: keep only what you paste from, or mirror snippets from your installed **`cursor-skills`** template skills when you want shared scaffolding.
+Treat this as a **copy-paste scaffold** when a repo has no Cursor layout yet. Adjust names to match the project; keep files **small and specific** rather than one giant rule file. Optional **`.cursor/templates/`** trees are per-repo: keep only what you paste from, and prefer the wiki-first templates under `code/templates/` in this notes repo.
 
 | Path / concern | Suggested content |
 | --- | --- |
 | **`.cursor/rules/`** (or project rules in app settings) | Stack-specific guardrails: test command, formatter, “do not edit generated,” security notes. |
 | **`.cursor/hooks/`** (if you use hooks) | Repo-local automation only; document what each hook does in a one-line README in that folder or in the main repo README. |
-| **`.cursor/templates/`** (optional) | Markdown pasteables: PRs, issues, git narratives, diagrams, README/wiki stubs—curate locally per repo or reuse patterns from **`cursor-skills`** (`skills/template/**`). |
+| **`.cursor/templates/`** (optional) | Markdown pasteables: PRs, issues, git narratives, diagrams, README/wiki stubs—curate locally per repo from this notes pack (see `code/templates/README.md` and `code/templates/md/README.md`). |
 | **Diagrams / tables / index** | If the repo has a `docs/` wiki, align with its index pattern; for graph-heavy design, keep **mermaid** in versioned docs, not only in chat. |
 | **Markdown style** | Match existing docs; prefer links to canonical runbooks over duplicating employer URLs here. |
 

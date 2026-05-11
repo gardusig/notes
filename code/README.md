@@ -28,7 +28,7 @@ flowchart LR
   deploy --> observe
 ```
 
-**Sidecar:** [`templates/README.md`](templates/README.md) — pasteables (doc/wiki/gh/git); artifact toolbox used across phases, not a separate “step” in the spine.
+**Sidecar:** [`templates/README.md`](templates/README.md) — pasteables (doc/wiki/gh/git) plus wiki-first template guidance in [`templates/md/README.md`](templates/md/README.md); artifact toolbox used across phases, not a separate “step” in the spine.
 
 ## Summary
 
@@ -76,7 +76,7 @@ flowchart LR
 | [`deploy/shipping-and-skills-hub.md`](deploy/shipping-and-skills-hub.md) | Legacy pointer into `deploy/`. |
 | [`observe/README.md`](observe/README.md) | **Production signals** hub. |
 | [`observe/prod-ui-flows.md`](observe/prod-ui-flows.md) | DevTools, cloud read-only, dashboards. |
-| [`craft-issue/maintenance/repo-bootstrap.md`](craft-issue/maintenance/repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal; optional `.cursor/templates/` pasteables per repo or from `cursor-skills`. |
+| [`craft-issue/maintenance/repo-bootstrap.md`](craft-issue/maintenance/repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal; optional `.cursor/templates/` pasteables and wiki templates from `templates/`. |
 | [`craft-issue/creativity/create-engineering-task.md`](craft-issue/creativity/create-engineering-task.md) | Ticket skeleton and agent-friendly fields. |
 | [`craft-issue/maintenance/issue-triage-and-reshape.md`](craft-issue/maintenance/issue-triage-and-reshape.md) | Read-only triage flow and issue reshape checklist before opening or editing issues. |
 | [`craft-pr/work-task-with-agents.md`](craft-pr/work-task-with-agents.md) | Agent vs terminal, chunking, verify. |

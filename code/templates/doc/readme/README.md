@@ -52,3 +52,4 @@ flowchart TD
 ## 🔗 Related
 
 - All template areas and copy instructions: [`../../README.md`](../../README.md) (this pack’s **`templates/README.md`**).
+- Wiki-first markdown guides: [`../../md/README.md`](../../md/README.md), [`../../md/wiki-templates.md`](../../md/wiki-templates.md), [`../../md/diagram-wiki-templates.md`](../../md/diagram-wiki-templates.md).

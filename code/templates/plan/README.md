@@ -7,3 +7,4 @@ Markdown plans that embed a tracked issue for execution handoff.
 ## Contents
 
 1. [`work-plan-with-issue.md`](work-plan-with-issue.md) — work plan scaffold with issue link and checkboxes.
+2. [`wiki-templates.md`](wiki-templates.md) — plan brief, pre-write QA, and domain templates.

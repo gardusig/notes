@@ -1,6 +1,6 @@
 # Template hub (`templates/`)
 
-**Pasteables** for docs, diagrams, PRs, git narratives, GitHub issues, work plans that embed issues, and generic README scaffolds. Copy into **`docs/`**, PR/issue bodies, or any repo’s **`.cursor/templates/`**—no other repository is required.
+**Pasteables** for docs, diagrams, PRs, git narratives, GitHub issues, work plans that embed issues, and generic README scaffolds. Copy into **`docs/`**, PR/issue bodies, or any repo’s **`.cursor/templates/`**—no other repository is required. Wiki-style guidance lives directly in **[`gh/wiki-templates.md`](gh/wiki-templates.md)**, **[`plan/wiki-templates.md`](plan/wiki-templates.md)**, and **[`md/`](md/README.md)**.
 
 ## Per-repo `.cursor/` (all-in-one reference)
 
@@ -9,6 +9,18 @@
 → **[`.cursor/README.md`](.cursor/README.md)** — map from this pack to `.cursor/` in any repo, plus **minimal / standard / docs-heavy** copy bundles.
 
 For a shorter **bootstrap** checklist (terminal pin, hygiene), see **[`../craft-issue/maintenance/repo-bootstrap.md`](../craft-issue/maintenance/repo-bootstrap.md)** if you keep notes next to this tree, or copy only the **`.cursor/README.md`** section into your project handbook.
+
+## Pick by repo archetype
+
+Use **[`.cursor/README.md`](.cursor/README.md)** bundles (**minimal** → **standard** → **docs-heavy**). Rough mapping:
+
+| Archetype | Primary pain | Favor under `templates/` | Start with bundle |
+| --- | --- | --- | --- |
+| **Wiki / docs-first** | Structure, indexes, cross-links, diagrams in long prose | `doc/wiki/`, `doc/`, `diagrams/`; light `gh/` if issues track doc work | **Docs-heavy** (trim unused wiki profiles) |
+| **Full stack app** | FE/BE contracts, boundaries, deploy narrative | `fullstack/`, `diagrams/`, `git/`, `gh/`, `pr/` | **Standard** |
+| **Hybrid** (product code + large handbook) | Drift between code and docs | **Standard**, then add **selective** wiki profiles (not the whole tree) | **Standard** + partial **docs-heavy** |
+
+“Minimal” fits thin-`docs/` libs and small tools—see bundle recipes in [`.cursor/README.md`](.cursor/README.md).
 
 ---
 
@@ -21,6 +33,7 @@ cd /path/to/templates   # folder that contains diagrams/, doc/, …
 DEST=/path/to/your/repo/.cursor/templates
 mkdir -p "$DEST"
 cp -R diagrams doc git gh plan pr shared fullstack "$DEST/" 2>/dev/null || true
+# Optionally include md/ if you want wiki-style markdown template guides.
 # Trim folders you do not want; see .cursor/README.md for tiered sets.
 ```
 
@@ -40,6 +53,7 @@ Keep **relative links** inside copied files valid, or use a flat copy and fix li
 8. **[`plan/`](plan/README.md)** — Local markdown plan that embeds a tracked issue.
 9. **[`pr/`](pr/README.md)** — PR body skeleton; title rules → **[`shared/title.md`](shared/title.md)**.
 10. **[`shared/`](shared/README.md)** — Cross-surface rules (PR + issue **titles**).
+11. **[`md/`](md/README.md)** — Wiki-style markdown template guidance (index/table/explanation + diagram pointers).
 
 ---
 

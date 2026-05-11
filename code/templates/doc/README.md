@@ -14,3 +14,4 @@ Skeleton pages for **`docs/`** hubs, wiki profiles, tables, explanations, and me
 6. [`markdown-and-docs-conventions.md`](markdown-and-docs-conventions.md) — markdown and tone conventions.
 7. [`merge-conflicts-playbook.md`](merge-conflicts-playbook.md) — merge conflict narrative for humans.
 8. [`table.md`](table.md) — reference-style table skeleton.
+9. [`../md/README.md`](../md/README.md) — wiki-style markdown template guides (index/table/explanation/diagrams).

@@ -28,6 +28,7 @@ Paths below name folders **inside the target repo** (e.g. `my-service/.cursor/�
     ├── fullstack/
     ├── git/
     ├── gh/
+    ├── md/
     ├── plan/
     ├── pr/
     └── shared/
@@ -65,8 +66,11 @@ All sources live under **`code/templates/`** in this notes repo.
 | **Full stack + study** | [`../fullstack/`](../fullstack/README.md) | `fullstack/` |
 | **Wiki profile stubs** | [`../doc/wiki/`](../doc/wiki/) | `doc/wiki/` (large; copy only profiles you use) |
 | **GitHub PR/issue orchestration** (long-form) | [`../gh/pr-orchestration.md`](../gh/pr-orchestration.md), [`../gh/pr/`](../gh/pr/) | `gh/` |
+| **Wiki template guides** | [`../md/`](../md/README.md) | `md/` (optional, docs-only guidance) |
 
 After copying, add one line in the target repo **README** or **CONTRIBUTING**: “Pasteables live under `.cursor/templates/`.”
+
+**Wiki vs full stack vs hybrid:** see the **Pick by repo archetype** table in [`../README.md`](../README.md#pick-by-repo-archetype) before choosing a bundle.
 
 ---
 

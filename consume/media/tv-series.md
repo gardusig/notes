@@ -12,4 +12,4 @@
 | Prison Break     | 5 seasons   | 2005–17 | ~67 hours      | [IMDb](https://www.imdb.com/title/tt0455275/)                                                |
 | Sherlock         | 4 seasons   | 2010–17 | ~18 hours      | [IMDb](https://www.imdb.com/title/tt1475582/)                                                |
 
-Display names follow [device/micro-sd.md](../../device/micro-sd.md); **Details** point at the catalog title on IMDb.
+Display names follow your curated media library naming in this folder (for example [anime.md](anime.md)); **Details** point at the catalog title on IMDb.

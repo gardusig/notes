@@ -1,12 +1,14 @@
 # Watched — movies
 
-One row per film. Franchises sort together via **`Franchise`** + **`Year`**.
+Liked titles are your curated keep-tier library. Other finished films go to **Watched (opinion pending)** in MRU order.
 
 **Upstream:** [media/README.md](README.md)
 
 ---
 
-## Harry Potter
+## Liked
+
+### Harry Potter
 
 | Franchise    | Title                                         | Year | Runtime | Watched | Details                                                                                    |
 | ------------ | --------------------------------------------- | ---- | ------- | ------- | ------------------------------------------------------------------------------------------ |
@@ -19,7 +21,7 @@ One row per film. Franchises sort together via **`Franchise`** + **`Year`**.
 | Harry Potter | Harry Potter and the Deathly Hallows – Part 1 | 2010 | 146 min | —       | [IMDb](https://www.imdb.com/title/tt0926084/)                                              |
 | Harry Potter | Harry Potter and the Deathly Hallows – Part 2 | 2011 | 130 min | —       | [IMDb](https://www.imdb.com/title/tt1201607/)                                              |
 
-## Saw
+### Saw
 
 | Franchise | Title        | Year | Runtime | Watched | Details                                       |
 | --------- | ------------ | ---- | ------- | ------- | --------------------------------------------- |
@@ -33,5 +35,11 @@ One row per film. Franchises sort together via **`Franchise`** + **`Year`**.
 | Saw       | Jigsaw       | 2017 | 89 min  | —       | [IMDb](https://www.imdb.com/title/tt3348730/)  |
 | Saw       | Spiral       | 2021 | 93 min  | —       | [IMDb](https://www.imdb.com/title/tt10342730/)  |
 | Saw       | Saw X        | 2023 | 118 min | —       | [IMDb](https://www.imdb.com/title/tt19569464/) |
+
+## Watched (opinion pending)
+
+| Title    | Year | Runtime | Watched | Notes        | Details                                      |
+| -------- | ---- | ------- | ------- | ------------ | -------------------------------------------- |
+| Superbad | 2007 | 119 min | —       | Comedy/Teen  | [IMDb](https://www.imdb.com/title/tt0829482/) |
 
 *(Runtime figures are common theatrical lengths; adjust if your files used a different cut.)*

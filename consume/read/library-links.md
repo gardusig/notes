@@ -1,6 +1,6 @@
-# Library links — read with the microSD roster
+# Library links — read with the media roster
 
-Curated **hubs** (wikis, Wikipedia) for each property listed on [device/micro-sd.md](../../device/micro-sd.md). Add bullets as you find good articles or episode guides.
+Curated **hubs** (wikis, Wikipedia) for each property in your watched media library (`consume/media/`). Add bullets as you find good articles or episode guides.
 
 **Watch log:** [media/README.md](../media/README.md)
 

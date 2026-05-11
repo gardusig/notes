@@ -69,7 +69,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 | reggae | 21 | [other/reggae.md](other/reggae.md) |
 | felix the cat | 18 | [other/felix-the-cat.md](other/felix-the-cat.md) |
 | hypnotize | 33 | [other/hypnotize.md](other/hypnotize.md) |
-| soft sex | 6 | [other/soft-sex.md](other/soft-sex.md) |
+| soft vocals | 6 | [other/soft-vocals.md](other/soft-vocals.md) |
 
 ---
 
@@ -102,5 +102,5 @@ These appeared in an older playlist draft (GitHub issue) and may be merged, rena
 - [fast/fast-dark-magician-girl.md](fast/fast-dark-magician-girl.md) · [fast/fast-happy.md](fast/fast-happy.md) · [fast/fast-math-remix.md](fast/fast-math-remix.md) · [fast/fast-rock.md](fast/fast-rock.md) · [fast/fast-sonic.md](fast/fast-sonic.md) · [fast/fast-synchronized-swim.md](fast/fast-synchronized-swim.md) · [fast/fast-white-coffee.md](fast/fast-white-coffee.md)
 - [instrumental/instrumental.md](instrumental/instrumental.md) · [instrumental/instrumental-hypnotize.md](instrumental/instrumental-hypnotize.md) · [instrumental/instrumental-soundtrack.md](instrumental/instrumental-soundtrack.md) · [instrumental/instrumental-veigar.md](instrumental/instrumental-veigar.md)
 - [naruto/naruto.md](naruto/naruto.md) · [naruto/naruto-cursed-seal.md](naruto/naruto-cursed-seal.md) · [naruto/naruto-orochimaru.md](naruto/naruto-orochimaru.md) · [naruto/naruto-uchiha.md](naruto/naruto-uchiha.md)
-- [other/felix-the-cat.md](other/felix-the-cat.md) · [other/hypnotize.md](other/hypnotize.md) · [other/rap.md](other/rap.md) · [other/reggae.md](other/reggae.md) · [other/soft-sex.md](other/soft-sex.md)
+- [other/felix-the-cat.md](other/felix-the-cat.md) · [other/hypnotize.md](other/hypnotize.md) · [other/rap.md](other/rap.md) · [other/reggae.md](other/reggae.md) · [other/soft-vocals.md](other/soft-vocals.md)
 - [slow/slow-calm.md](slow/slow-calm.md) · [slow/slow-reverb-rock.md](slow/slow-reverb-rock.md) · [slow/slow-rock.md](slow/slow-rock.md) · [slow/slow-sad.md](slow/slow-sad.md)

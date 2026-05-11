@@ -43,7 +43,7 @@ These patterns are **not recommended as always-on or idle background**. If you c
 **Intentional viewing only** (never ambient default):
 
 - **Gambling and gambling-adjacent** mechanics (loot hype, “opening,” odds language framed as entertainment).
-- **Recreational intoxication or substance glamor** (party aesthetics, consumption as personality).
+- **Party and nightlife culture framed as lifestyle identity** — high arousal, low actionable signal; use only in bounded sessions on purpose, not as ambient default.
 
 **Avoid as ambient feed** (neutral pattern labels):
 

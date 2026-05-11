@@ -2,9 +2,9 @@
 
 **Watched** titles (finished) live in **`movies.md`**, **`tv-series.md`**, and **`anime.md`**. **To watch** lives only in **[to-watch.md](to-watch.md)** — bucketed by **medium** and **kind** (same idea as [video-game domains + Kind](../../play/video-games/owned-queue.md) and [genre × situation](../../play/video-games/genre-situations.md)).
 
-Fan wikis and longform tied to the card library: **[read/library-links.md](../read/library-links.md)**. **Listening** — music: **[playlists/README.md](../playlists/README.md)** · podcasts + live: **[channels/README.md](../channels/README.md)**.
+Fan wikis and longform tied to the watched library: **[read/library-links.md](../read/library-links.md)**. **Listening** — music: **[playlists/README.md](../playlists/README.md)** · podcasts + live: **[channels/README.md](../channels/README.md)**.
 
-**Upstream:** [consume/README.md](../README.md) · **Offline inventory:** [device/micro-sd.md](../../device/micro-sd.md)
+**Upstream:** [consume/README.md](../README.md)
 
 ---
 
@@ -18,11 +18,19 @@ Use stable hubs for cast and metadata — **IMDb** (`https://www.imdb.com/title/
 
 Repeat **`Franchise`** on each row so sorts keep sequels together. Within a franchise, sort by **`Year`** ascending.
 
+### Watched buckets
+
+- **Liked** — curated keep-tier titles that belong to your endorsed library.
+- **Watched (opinion pending)** — finished titles that are not in **Liked** yet.
+- **Neutral (optional)** — settled non-liked titles you want to keep out of the pending list.
+
+Keep **Watched (opinion pending)** in **MRU order** (most recently watched on top).
+
 ### Watched tables
 
 | Medium | File | Typical columns |
 |--------|------|-----------------|
-| Movies | [movies.md](movies.md) | Franchise · Title · Year · Runtime · Watched · Details |
+| Movies | [movies.md](movies.md) | Liked: Franchise · Title · Year · Runtime · Watched · Details · Pending: Title · Year · Runtime · Watched · Notes · Details |
 | TV | [tv-series.md](tv-series.md) | Title · Coverage · Years · Total duration · Details |
 | Anime | [anime.md](anime.md) | Title · Coverage · Years · Total duration · Details |
 
@@ -41,6 +49,8 @@ Repeat **`Franchise`** on each row so sorts keep sequels together. Within a fran
 **Add:** pick medium → kind → append row → re-sort A–Z if needed.
 
 **Promote to watched:** copy the row into `movies.md` / `tv-series.md` / `anime.md`, fill **Runtime** / **Coverage** as needed, then remove the row from **to-watch**.
+
+**Promote to liked:** when a pending watched title becomes part of your keep-tier library, move it from **Watched (opinion pending)** to **Liked**.
 
 ---
 

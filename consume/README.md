@@ -6,9 +6,9 @@ Passive consumption: **watch** (film, TV, anime) and **read** (books, wikis, lon
 |------|---------|
 | **Media** — watched log + to-watch queue by kind | [media/README.md](media/README.md) |
 | **Channels & feeds** — podcasts, live follows (Twitch / YouTube Live), subscriptions + ambient policy | [channels/README.md](channels/README.md) |
-| **Read** — books (finished + queue) + links aligned to the offline library | [read/README.md](read/README.md) |
+| **Read** — books (finished + queue) + links aligned to the watched library | [read/README.md](read/README.md) |
 | **Playlists** — music playlists (one file each), likes, library habits | [playlists/README.md](playlists/README.md) |
 
-**Device inventory** (what is on the microSD card): [device/micro-sd.md](../device/micro-sd.md)
+**Media library source of truth:** [media/README.md](media/README.md) (liked + watched + to-watch)
 
 **Upstream:** [Notes root](../README.md)

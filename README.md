@@ -1,5 +1,7 @@
 # Notes
 
+This repo is a **personal wiki**: runbooks, recommendation lists, in-progress organization, and light procedural notes—not a product or advice for others.
+
 Personal runbooks: device setup, personal inventory, shopping by store, active play, listening habits, kitchen notes, diagram notes, and AI-assisted coding playbooks.
 
 ## Index
@@ -11,7 +13,7 @@ Personal runbooks: device setup, personal inventory, shopping by store, active p
 - **[play/](play/README.md)** — instruments, video games, puzzles
 - **[cook/](cook/README.md)** — kitchen operations by type (drinks, routine, tasty meals) and tool heuristics
 - **[buy/](buy/README.md)** — purchase lists by store: pharmacy, supermarket, online
-- **[wonder/](wonder/life-flow-judgment.md)** — conceptual models: lifecycle, metaphors, **life arc / HUD** ([life-arc.md](wonder/life-arc.md)), **tactical HUD** ([life-game-structure.md#tactical-hud](wonder/life-game-structure.md#tactical-hud)), [philosophical-vigilance.md](wonder/philosophical-vigilance.md), [metaphors.md](wonder/metaphors.md), [opposite-comparisons.md](wonder/opposite-comparisons.md); mermaid where useful
+- **[wonder/](wonder/README.md)** — conceptual models hub (lifecycle, metaphors, life arc / HUD, tactical HUD, philosophical vigilance); entry points include [life-flow-judgment.md](wonder/life-flow-judgment.md), [life-arc.md](wonder/life-arc.md), [life-game-structure.md](wonder/life-game-structure.md#tactical-hud)
 - **[plan/](plan/README.md)** — practical task system: surfaces, recurring mirror, **routine** (sleep, meals, weekly rhythm); **rules** ([`plan/rules/README.md`](plan/rules/README.md): governance, priority P0–P4, plan-making, emotional routing, risk A–E)
 
 ## Daily capture and modes

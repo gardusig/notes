@@ -1,8 +1,8 @@
-# Watched — movies
+# Movies — watched library
 
-Liked titles are your curated keep-tier library. Other finished films go to **Watched (opinion pending)** in MRU order.
+Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **Unopinionated queue** (MRU on top in the queue). Under **Liked**, repeat **Franchise** on each row so sorts keep sequels together; within a franchise, sort by **Year** ascending.
 
-**Upstream:** [media/README.md](README.md)
+**Upstream:** [Media hub](../README.md)
 
 ---
 
@@ -36,7 +36,12 @@ Liked titles are your curated keep-tier library. Other finished films go to **Wa
 | Saw       | Spiral       | 2021 | 93 min  | —       | [IMDb](https://www.imdb.com/title/tt10342730/)  |
 | Saw       | Saw X        | 2023 | 118 min | —       | [IMDb](https://www.imdb.com/title/tt19569464/) |
 
-## Watched (opinion pending)
+## Disliked
+
+| Franchise | Title | Year | Runtime | Watched | Notes | Details |
+| --------- | ----- | ---- | ------- | ------- | ----- | ------- |
+
+## Unopinionated queue
 
 | Title    | Year | Runtime | Watched | Notes        | Details                                      |
 | -------- | ---- | ------- | ------- | ------------ | -------------------------------------------- |

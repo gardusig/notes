@@ -39,7 +39,7 @@ Metaphor only: names **flexible mimicry** vs **stable, legible typing**.
 
 ## Buffs anyone can hold (coffee, items) and long-run recoil
 
-In Pokémon, **held items and consumables** can **buff anyone**: X Speed, vitamins, a berry—**you do not need** a privileged IV to **pop a temporary modifier**. Real life has the same shape: **coffee**, stimulants, all-nighters, prestige, anger—**short-term +2 to something you need right now**.
+In Pokémon, **held items and consumables** can **buff anyone**: X Speed, vitamins, a berry—**you do not need** a privileged IV to **pop a temporary modifier**. Real life has the same shape: **coffee**, deadline adrenaline, all-nighters, prestige, anger—**short-term +2 to something you need right now**.
 
 Two notes, same as good game design:
 

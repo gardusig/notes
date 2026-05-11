@@ -31,15 +31,15 @@ Keep **relative links** inside copied files valid, or use a flat copy and fix li
 ## Template areas
 
 1. **[`diagrams/`](diagrams/README.md)** — Fenced mermaid scaffolds and palette.
-2. **[`doc/`](doc/index.md)** — Page indexes, explanations, reference tables, merge playbook, diagram conventions.
+2. **[`doc/`](doc/README.md)** — Folder index; page indexes, explanations, reference tables, merge playbook, diagram conventions (pasteable index skeleton in **[`doc/index.md`](doc/index.md)**).
 3. **[`doc/readme/`](doc/readme/README.md)** — Generic README, note, archive, comparison-table starters for any repo.
-4. **[`doc/wiki/`](doc/wiki/)** — Profile-based wiki stubs (coding, knowledge, **tooling-pack**).
+4. **[`doc/wiki/`](doc/wiki/README.md)** — Profile-based wiki stubs (coding, knowledge, **tooling-pack**).
 5. **[`fullstack/`](fullstack/README.md)** — Split app layout, FE/BE contracts, study sheets; pairs with `diagrams/`.
-6. **[`git/`](git/diff-summary.md)** — Commit / range narrative helpers and [full-tree zip backup naming](git/zip-git-project-backup.md).
-7. **[`gh/`](gh/pr-orchestration.md)** — GitHub CLI orchestration and issue templates.
-8. **[`plan/`](plan/work-plan-with-issue.md)** — Local markdown plan that embeds a tracked issue.
-9. **[`pr/`](pr/body-skeleton.md)** — PR body skeleton; title rules → **[`shared/title.md`](shared/title.md)**.
-10. **[`shared/`](shared/title.md)** — Cross-surface rules (PR + issue **titles**).
+6. **[`git/`](git/README.md)** — Commit / range narrative helpers and [full-tree zip backup naming](git/zip-git-project-backup.md).
+7. **[`gh/`](gh/README.md)** — GitHub CLI orchestration and issue templates.
+8. **[`plan/`](plan/README.md)** — Local markdown plan that embeds a tracked issue.
+9. **[`pr/`](pr/README.md)** — PR body skeleton; title rules → **[`shared/title.md`](shared/title.md)**.
+10. **[`shared/`](shared/README.md)** — Cross-surface rules (PR + issue **titles**).
 
 ---
 

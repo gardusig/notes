@@ -1,6 +1,22 @@
-# Watched — anime
+# Anime — watched library
 
-**Upstream:** [media/README.md](README.md)
+Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **Unopinionated queue** (MRU on top in the queue).
+
+**Upstream:** [Media hub](../README.md)
+
+---
+
+## Liked
+
+| Title | Coverage | Release years | Total duration | Details |
+| ----- | -------- | ------------- | -------------- | ------- |
+
+## Disliked
+
+| Title | Coverage | Release years | Total duration | Notes | Details |
+| ----- | -------- | ------------- | -------------- | ----- | ------- |
+
+## Unopinionated queue
 
 | Title       | Coverage                       | Release years | Total duration | Details                                                                                    |
 | ----------- | ------------------------------ | ------------- | -------------- | ------------------------------------------------------------------------------------------ |

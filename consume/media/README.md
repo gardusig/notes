@@ -1,6 +1,6 @@
 # Media — watch log and queue
 
-**Watched** titles (finished) live in **`movies.md`**, **`tv-series.md`**, and **`anime.md`**. **To watch** lives only in **[to-watch.md](to-watch.md)** — bucketed by **medium** and **kind** (same idea as [video-game domains + Kind](../../play/video-games/owned-queue.md) and [genre × situation](../../play/video-games/genre-situations.md)).
+**Watched** (finished) titles live under **[watched/](watched/README.md)** — one file per medium, each using **Liked**, **Disliked**, and **Unopinionated queue** tables. **To watch** lives only in **[to-watch.md](to-watch.md)** — bucketed by **medium** and **kind** (same idea as [video-game domains + Kind](../../play/video-games/owned-queue.md) and [genre × situation](../../play/video-games/genre-situations.md)).
 
 Fan wikis and longform tied to the watched library: **[read/library-links.md](../read/library-links.md)**. **Listening** — music: **[playlists/README.md](../playlists/README.md)** · podcasts + live: **[channels/README.md](../channels/README.md)**.
 
@@ -18,23 +18,21 @@ Use stable hubs for cast and metadata — **IMDb** (`https://www.imdb.com/title/
 
 Repeat **`Franchise`** on each row so sorts keep sequels together. Within a franchise, sort by **`Year`** ascending.
 
-### Watched buckets
+### Watched library (`watched/`)
 
-- **Liked** — curated keep-tier titles that belong to your endorsed library.
-- **Watched (opinion pending)** — finished titles that are not in **Liked** yet.
-- **Neutral (optional)** — settled non-liked titles you want to keep out of the pending list.
+Each of **[movies.md](watched/movies.md)**, **[tv-series.md](watched/tv-series.md)**, **[anime.md](watched/anime.md)** is **finished-only** and has:
 
-Keep **Watched (opinion pending)** in **MRU order** (most recently watched on top).
+1. **Liked** — keep-tier titles you endorse (optional `###` franchise blocks under **Liked** for films).
+2. **Disliked** — finished titles you did not want to keep in rotation.
+3. **Unopinionated queue** — finished titles you have not sorted into like/dislike yet; keep **MRU order** (most recently watched on top).
 
-### Watched tables
+**`Watched`** column on films — optional completion date or `—`.
 
 | Medium | File | Typical columns |
 |--------|------|-----------------|
-| Movies | [movies.md](movies.md) | Liked: Franchise · Title · Year · Runtime · Watched · Details · Pending: Title · Year · Runtime · Watched · Notes · Details |
-| TV | [tv-series.md](tv-series.md) | Title · Coverage · Years · Total duration · Details |
-| Anime | [anime.md](anime.md) | Title · Coverage · Years · Total duration · Details |
-
-**`Watched`** — optional completion date or `—`.
+| Movies | [watched/movies.md](watched/movies.md) | **Liked:** Franchise · Title · Year · Runtime · Watched · Details · **Disliked:** Franchise · Title · Year · Runtime · Watched · Notes · Details · **Queue:** Title · Year · Runtime · Watched · Notes · Details |
+| TV | [watched/tv-series.md](watched/tv-series.md) | **Liked / Disliked / Queue:** Title · Coverage · Years · Total duration · Details (Disliked adds **Notes**) |
+| Anime | [watched/anime.md](watched/anime.md) | **Liked / Disliked / Queue:** Title · Coverage · Release years · Total duration · Details (Disliked adds **Notes**) |
 
 ### To-watch queue ([to-watch.md](to-watch.md))
 
@@ -42,21 +40,19 @@ Keep **Watched (opinion pending)** in **MRU order** (most recently watched on to
 2. **`### Kind`** — e.g. Horror, Documentary, Action, Sci-fi, Thriller, Drama (add headings as you like; no fixed list).
 3. One **markdown table** per `### Kind`; only rows for that kind.
 
-**Columns:** `Title` · `Year` (or `—`) · `Notes` · `Details` (link).
+**Columns:** `Title` · `Year` (or `—`) · `Notes` · `Details` (link). Optional **`Because`** — short tie to something in **[watched/](watched/README.md)** (e.g. `Potter · YA fantasy`) so the backlog doubles as a **similar-to** suggestion list.
 
 **Sort:** default **title A–Z** within each table. Optional **`Order`** column if you want manual priority without alphabetical order.
 
 **Add:** pick medium → kind → append row → re-sort A–Z if needed.
 
-**Promote to watched:** copy the row into `movies.md` / `tv-series.md` / `anime.md`, fill **Runtime** / **Coverage** as needed, then remove the row from **to-watch**.
+**Promote to watched:** copy the row into **[watched/movies.md](watched/movies.md)** / **[watched/tv-series.md](watched/tv-series.md)** / **[watched/anime.md](watched/anime.md)** (usually **Unopinionated queue** first), fill **Runtime** / **Coverage** as needed, then remove the row from **to-watch**.
 
-**Promote to liked:** when a pending watched title becomes part of your keep-tier library, move it from **Watched (opinion pending)** to **Liked**.
+**Move between buckets:** when you know how you feel about a finished title, move the row from **Unopinionated queue** to **Liked** or **Disliked** (or the reverse if you change your mind).
 
 ---
 
 ## Index
 
-- [movies.md](movies.md) — watched films
-- [tv-series.md](tv-series.md) — watched TV
-- [anime.md](anime.md) — watched anime
+- [watched/README.md](watched/README.md) — watched hub (films, TV, anime)
 - [to-watch.md](to-watch.md) — queue by medium and kind

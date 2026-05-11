@@ -8,7 +8,7 @@ Domain-per-store **purchase lists**: one file you open while you are physically 
 
 | File | Purpose |
 | --- | --- |
-| **[pharmacy.md](pharmacy.md)** | Vitamins, emergency meds, personal care, skin — what to grab when you walk into a pharmacy. |
+| **[pharmacy.md](pharmacy.md)** | Supplements, common-aisle relief, personal care, skin — category checklist for a pharmacy run. |
 | **[supermarket.md](supermarket.md)** | Cleaning, hygiene, grocery (perishable + non-perishable) and the **weekly batch** coverage table for kitchen routines. |
 | **[ecommerce.md](ecommerce.md)** | Online-only buys (electronics accessories, durables, niche items) — placeholder structure. |
 

@@ -1,4 +1,4 @@
-## Where to start
+## 🧭 Where to start
 
 - **Developer** — <link to operations/setup and main modules>
 - **Reviewer / CI** — <link to workflows and conventions>

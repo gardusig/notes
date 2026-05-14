@@ -1,6 +1,6 @@
-# Windows PC — Gaming & Media (no dev stack)
+# 🪟 Windows PC — Gaming & Media (no dev stack)
 
-## Purpose
+## 🎯 Purpose
 
 This note is **software and workflow** for a **Windows 11 64-bit** desktop used as a **gaming and media station**: **games**, **movies**, and **torrents**. It is **not** a primary developer machine—no emphasis on Docker or a full coding stack (see **[parity.md](./parity.md)** for work/dev parity on Windows).
 
@@ -8,7 +8,7 @@ This note is **software and workflow** for a **Windows 11 64-bit** desktop used 
 
 ---
 
-## Summary
+## 📌 Summary
 
 - **Role:** Play games, watch local or streamed media, handle torrents and large libraries—**without** treating the box as your primary dev environment.
 - **OS target:** **Windows 11** on the **AM5 APU tower** described in **desktop.md** (or any similar PC).
@@ -17,7 +17,7 @@ This note is **software and workflow** for a **Windows 11 64-bit** desktop used 
 
 ---
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Summary](#summary)
@@ -34,13 +34,13 @@ This note is **software and workflow** for a **Windows 11 64-bit** desktop used 
 
 ---
 
-## Setup & installation
+## ⚙️ Setup & installation
 
-### Before you boot (hardware)
+### 📌 Before you boot (hardware)
 
 If you are **assembling** the tower, follow **[Physical build](./desktop.md#physical-build-short-checklist)** in **desktop.md**, then return here for **Windows** and **apps**.
 
-### First boot & Windows install
+### 🪟 First boot & Windows install
 
 1. Create **Windows 11** install media (**Microsoft** media creation tool) on a **USB** drive.  
 2. Boot from **USB**; install **Windows** on the **NVMe** (not the **HDD**).  
@@ -48,7 +48,7 @@ If you are **assembling** the tower, follow **[Physical build](./desktop.md#phys
 4. Install **AMD** **chipset** drivers from **AMD** or the **board** vendor page, then **Adrenalin** for the **APU** graphics.  
 5. **Format** the **HDD** in **Disk Management** if it is **raw**; assign a **drive letter** for **games / torrents / media**.
 
-### Windows tuning (gaming-focused)
+### 🪟 Windows tuning (gaming-focused)
 
 1. **Power** — **High performance** or **Balanced**; avoid **aggressive** eco modes while gaming.  
 2. **Game Mode** — **Settings → Gaming → Game Mode** **on**.  
@@ -58,7 +58,7 @@ If you are **assembling** the tower, follow **[Physical build](./desktop.md#phys
 
 No **WSL** / **Docker** unless you change your mind.
 
-### Terminal & command-line installs
+### 📌 Terminal & command-line installs
 
 Use the terminal when you want **repeatable** installs, **scripted** setup, or to match docs that show **CLI** commands.
 
@@ -99,7 +99,7 @@ winget install qBittorrent.qBittorrent
 
 **PATH** — After installing **Python** or other dev tools for experiments (see below), reopen the terminal so **PATH** updates from the installer take effect. Prefer **“Add Python to PATH”** on the official **python.org** Windows installer if you use that route.
 
-### Optional: training an AI agent on games
+### ➕ Optional: training an AI agent on games
 
 Sketch of **what this PC might need** if you go beyond casual play and try **reinforcement learning**, **imitation learning**, or **bots** that **sense** the screen. This is **not** a full ML tutorial.
 
@@ -134,7 +134,7 @@ Sketch of **what this PC might need** if you go beyond casual play and try **rei
 
 Assume **blocked** on competitive online games. **Single-player** / **local** sandboxes and **open** games are the realistic training ground unless you have a **commercial** or **research** agreement.
 
-### Games & launchers
+### 📌 Games & launchers
 
 | App / platform | Description |
 | -------------- | ----------- |
@@ -146,7 +146,7 @@ Assume **blocked** on competitive online games. **Single-player** / **local** sa
 
 **Discord** for voice if you play online.
 
-### Movies & torrents
+### 🎬 Movies & torrents
 
 | App | Description |
 | --- | ----------- |
@@ -159,6 +159,6 @@ Assume **blocked** on competitive online games. **Single-player** / **local** sa
 
 ---
 
-## Hardware assumptions
+## 📌 Hardware assumptions
 
 This guide assumes a **gaming-oriented desktop** similar to the **AM5 APU** reference build in **[desktop.md](./desktop.md)** (parts list, peripherals, **GPU** upgrade tiers, BRL notes). If your machine differs, keep the **same disk split** idea: **fast SSD** for **Windows** and heavy games, **HDD** (or second SSD) for **media** and **torrents**.

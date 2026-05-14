@@ -1,4 +1,4 @@
-# Quick shipping pattern
+# 📦 Quick shipping pattern
 
 **Upstream:** [`README.md`](README.md)
 

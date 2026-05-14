@@ -1,8 +1,8 @@
-# Brazil playlists
+# 🎵 Brazil playlists
 
 **Upstream:** [Music — playlists](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`brazil-funk.md`](brazil-funk.md) — funk playlist stub and track table.
 2. [`brazil-piseiro.md`](brazil-piseiro.md) — piseiro playlist stub and track table.

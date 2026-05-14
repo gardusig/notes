@@ -1,207 +1,99 @@
-# Supermarket
+# 🏬 Supermarket
 
-Cleaning, hygiene, grocery, and the **weekly batch** coverage table that backs recipe planning. Open this while walking the aisles.
+**Perishable foods only** — produce, meat, eggs, frozen fruit: the short-life run (in-store aisles, pickup, or delivery fresh lane). Pantry, cleaning, hygiene, and most other staples live in [`ecommerce.md`](ecommerce.md).
 
-**Upstream:** [Stores](README.md) · **Kitchen notes:** [`../cook/README.md`](../cook/README.md)
+**Upstream:** [Stores](README.md) · **Kitchen notes:** [`../cook/README.md`](../cook/README.md) · **Pantry / dry batch:** [E-commerce — Online supermarket](ecommerce.md#1-online-supermarket)
 
-## Index
+## 📊 Calories summary
 
-1. [Cleaning](#1-cleaning)
-   1. [Trash Bags](#11-trash-bags)
-   2. [Dishwashing](#12-dishwashing)
-   3. [Bathroom & Surface Cleaning](#13-bathroom--surface-cleaning)
-   4. [Laundry](#14-laundry)
-2. [Hygiene](#2-hygiene)
-   1. [Oral Care](#21-oral-care)
-   2. [Shaving](#22-shaving)
-   3. [Bathroom](#23-bathroom)
-3. [Grocery](#3-grocery)
-   1. [Perishable](#31-perishable)
-   2. [Non Perishable](#32-non-perishable)
-4. [Weekly Batch](#4-weekly-batch)
-5. [Notes](#5-notes)
+Approximate **total from this list: ~6,050 kcal** (raw/edible portions; see footnotes in each section).
 
----
+| Section             | kcal (approx.) |
+| ------------------- | -------------: |
+| Vegetables          |         ~1,750 |
+| Low-calorie fruits  |         ~1,600 |
+| High-calorie fruits |         ~1,475 |
+| Protein (eggs)      |           ~865 |
+| Frozen fruits       |           ~360 |
+| **Total**           |     **~6,050** |
 
-## 1. Cleaning
+**How many days?** Pick how many daily kilocalories you want this basket to cover (produce + fruit + eggs + frozen fruit only; oils, grains, dairy, etc. are extra).
 
-### 1.1 Trash Bags
+| Daily kcal from this basket | Calendar days (total ÷ daily) |
+| --------------------------: | ----------------------------: |
+|                         400 |                           ~15 |
+|                         600 |                           ~10 |
+|                         800 |                          ~7–8 |
+|                       1,000 |                            ~6 |
 
-- Kitchen trash bags (core)
-- Toilet trash bags
+Adjust the per-day number to match your plan; totals are rounded.
 
-### 1.2 Dishwashing
+## 📑 Index
 
-- Kitchen sponge
-- Dish detergent
+- [🏬 Supermarket](#-supermarket)
+  - [📊 Calories summary](#-calories-summary)
+  - [📑 Index](#-index)
+  - [🥕 Vegetable](#-vegetable)
+  - [🍐 Low calorie fruits](#-low-calorie-fruits)
+  - [🍌 High calorie fruits](#-high-calorie-fruits)
+  - [🥩 Protein (meat \& eggs)](#-protein-meat--eggs)
+  - [❄️ Frozen fruits](#️-frozen-fruits)
 
-### 1.3 Bathroom & Surface Cleaning
 
-- Bathroom cleaner
-- Disinfectant wipes
+## 🥕 Vegetable
 
-### 1.4 Laundry
+| Item        | Qty    | Calories (kcal) |
+| ----------- | ------ | --------------: |
+| Carrot      | 10     |            ~250 |
+| Spinach     | 1 sack |             ~80 |
+| Kale        | 1      |            ~110 |
+| Beets       | 4      |            ~140 |
+| Zucchini    | 1      |             ~35 |
+| Chayote     | 1      |             ~35 |
+| Potato      | 10     |          ~1,100 |
+| **Section** |        |      **~1,750** |
 
-- Fabric detergent
-- Fabric softener
+*Per medium carrot ~25 kcal; potato ~110 kcal each (medium, with skin); spinach sack ~10 oz / 280 g.*
 
----
+## 🍐 Low calorie fruits
 
-## 2. Hygiene
+| Item        | Qty | Calories (kcal) |
+| ----------- | --- | --------------: |
+| Apple       | 7   |            ~665 |
+| Melon       | 3   |            ~240 |
+| Watermelon  | 1   |            ~450 |
+| Strawberry  | 1   |            ~145 |
+| Pear        | 1   |            ~100 |
+| **Section** |     |      **~1,600** |
 
-### 2.1 Oral Care
+*Apple ~95 kcal each; melon line assumes three modest portions (not three whole large melons); watermelon one typical grocery size; strawberry “1” = one retail punnet.*
 
-- Toothbrush
-- Toothpaste
-- Mouthwash
+## 🍌 High calorie fruits
 
-### 2.2 Shaving
+| Item        | Qty | Calories (kcal) |
+| ----------- | --- | --------------: |
+| Banana      | 7   |            ~735 |
+| Papaya      | 1   |            ~120 |
+| Mango       | 1   |            ~200 |
+| Pineapple   | 1   |            ~420 |
+| **Section** |     |      **~1,475** |
 
-- Disposable razors
-- Shaving cream
-- After-shave lotion
+*Banana ~105 kcal each; pineapple whole edible portion rounded.*
 
-### 2.3 Bathroom
+## 🥩 Protein (meat & eggs)
 
-- Toilet paper (core)
-- Deodorant
-- Liquid hand soap
-- Solid soap bar
-- Shampoo
-- Conditioner
+| Item        | Qty | Calories (kcal) |
+| ----------- | --- | --------------: |
+| Eggs        | 12  |            ~865 |
+| **Section** |     |        **~865** |
 
----
+*Large egg ~72 kcal each.*
 
-## 3. Grocery
+## ❄️ Frozen fruits
 
-### 3.1 Perishable
+| Item         | Qty       | Calories (kcal) |
+| ------------ | --------- | --------------: |
+| Frozen fruit | 7 acerola |            ~360 |
+| **Section**  |           |        **~360** |
 
-#### 3.1.1 Vegetable
-
-- Onion (core, used everywhere)
-- Garlic (core, used everywhere)
-- Carrot
-- Spinach
-- Kale
-- Beets
-- Broccoli
-- Cabbage
-- Tomato
-- Zucchini
-- Chayote
-- Pumpkin / squash
-- Potato
-- Cassava
-
-#### 3.1.2 Low Calorie Fruits
-
-- Melon
-- Watermelon
-- Strawberry
-- Pear
-
-#### 3.1.3 High Calorie Fruits
-
-- Banana
-- Mango
-- Pineapple
-- Papaya
-
-#### 3.1.4 Protein (Meat & Eggs)
-
-- Eggs (core, flexible protein)
-- Pork (batch cooking)
-- Ground beef (core)
-- Beef (cubed / muscle)
-- Turkey
-
-#### 3.1.5 Frozen Fruits
-
-- Acerola (core for juice)
-- Mixed berries (optional)
-
----
-
-### 3.2 Non Perishable
-
-#### 3.2.1 Seasoning
-
-- Salt (core)
-- Black pepper (core)
-- Red pepper
-- Olive oil (core)
-- Vinegar
-- Bay leaves
-- Paprika
-- Cumin
-- Turmeric
-
-#### 3.2.2 Powder
-
-- Garlic powder
-- Onion powder
-- Curry
-- Oat
-
-#### 3.2.3 Canned
-
-- Sardine
-
-#### 3.2.4 Seeds
-
-- Chia
-- Pumpkin seeds
-
-#### 3.2.5 Tea
-
-- Chamomile
-- Ginger
-- Lemon / lime
-- Mint
-- Hibiscus
-
-#### 3.2.6 Coffee
-
-- Coffee powder (core)
-- Coffee filter
-
-#### 3.2.7 Legumes
-
-- Black beans (core)
-- Lentils (core)
-- Chickpeas
-- Peas
-
-#### 3.2.8 Grains & Pasta
-
-- Pasta (core)
-
----
-
-## 4. Weekly Batch
-
-| Item           | Qty (approx)  | Used In                 |
-| -------------- | ------------- | ----------------------- |
-| Onion          | 6–8 units     | All soups, pasta, beans |
-| Garlic         | 2 heads       | All recipes             |
-| Black beans    | 1–2 kg        | Bean soup, pork + beans |
-| Lentils        | 500 g         | Vegetable soup          |
-| Pork           | 1 kg          | Pork + beans            |
-| Ground beef    | 1 kg          | Pasta, soup             |
-| Vegetables mix | ~3–4 kg total | Vegetable soup          |
-| Potatoes       | 3–6 units     | Vegetable soup          |
-| Pasta          | 500 g         | Pasta                   |
-| Tomatoes       | 4–6 units     | Soup, pasta             |
-| Leafy greens   | 2–3 packs     | Juice, soup             |
-| Frozen fruit   | 500 g – 1 kg  | Juice                   |
-| Olive oil      | 1 bottle      | All                     |
-
----
-
-## 5. Notes
-
-- **Core items** = always keep stocked.
-- **Batch items** = buy when cooking for multiple days.
-- Vegetables can be swapped based on availability.
-- Prefer buying in bulk for legumes and proteins.
-- Frozen items help reduce waste and increase consistency.
+*Assumes seven small retail packs or seven ~100 g portions of frozen acerola; adjust if your packs are larger.*

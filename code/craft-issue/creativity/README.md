@@ -1,10 +1,10 @@
-# Craft issue — creativity
+# 🛠️ Craft issue — creativity
 
 How to **shape** engineering work so agents and humans can execute it: ticket quality, planning workflow, model tiers.
 
 **Upstream:** [Craft issue](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`create-engineering-task.md`](create-engineering-task.md) — issue body patterns agents can run.
 2. [`models-and-modes.md`](models-and-modes.md) — model choice, escalation, value tier reminders.

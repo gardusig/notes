@@ -1,13 +1,13 @@
-# [brazil] funk
+# 🕺 [brazil] funk
 
 **YouTube Music:** https://music.youtube.com/playlist?list=PLusr4A2STBB5cWYuDjckvv3PiJkY_pVvv
 
-## Meta
+## 📌 Meta
 
 - **Tracks (app, rough):** 11 — update when you export.
 - **Last checked:**
 
-## Tracks
+## 📌 Tracks
 
 | # | Artist | Title | Album / mix | Length |
 |---|--------|-------|-------------|--------|

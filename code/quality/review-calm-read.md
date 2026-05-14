@@ -1,10 +1,10 @@
-# Review: calm read (modus operandi)
+# 🌙 Review: calm read (modus operandi)
 
 **Upstream:** [`../README.md`](../README.md) · [`README.md`](README.md) (this folder)
 
 **Status — under research.** This page captures an **intentional** review style: not rushing to the next prompt, not “rubber-stamp the diff,” but a **quiet pass** over code and test evidence. Refine it as you learn what actually catches bugs for you.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [What this is not](#what-this-is-not)
@@ -14,13 +14,13 @@
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 After implementation—or before you ask for human review—you want a **different mode** than building: **slower**, **wider attention**, **no new features**. The hypothesis (still being validated) is that **stopping everything else** and **reading** code and test output **calmly** catches classes of mistakes that fast scanning and chat do not.
 
 ---
 
-## What this is not
+## 📌 What this is not
 
 | Not this | Instead |
 | --- | --- |
@@ -30,7 +30,7 @@ After implementation—or before you ask for human review—you want a **differe
 
 ---
 
-## Suggested ritual (draft)
+## 📌 Suggested ritual (draft)
 
 1. **Close or minimize** unrelated tabs and chats if you can; silence notifications for a bounded window (e.g. 20–40 minutes).
 2. **Do not start** the next task or a new plan in the same block.
@@ -42,7 +42,7 @@ Adjust durations to your team; the point is **contiguous attention**, not a fixe
 
 ---
 
-## What to read, in order (draft)
+## 📌 What to read, in order (draft)
 
 | Layer | Ask |
 | --- | --- |
@@ -56,7 +56,7 @@ If something still feels off after this pass, schedule a **second** calm block o
 
 ---
 
-## Links
+## 📌 Links
 
 - SDE2 **review bar** reminders: [`../../setup/work.md`](../../setup/work.md) *Code review cheat sheet*.
 - **Giving** reviews to others stays in team norms; this page is about **your** pre-flight read.

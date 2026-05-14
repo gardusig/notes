@@ -1,10 +1,10 @@
-# Routine Cooking
+# 🍲 Routine Cooking
 
 Pressure-cooker and one-pot recipes that **feed several days** in a single session: soups, beans, slow proteins. Optimized for batch volume, freezer-friendliness, and nutrition density rather than peak flavor.
 
-**Upstream:** [Kitchen](README.md) · **Shopping:** [Supermarket — Weekly Batch](../buy/supermarket.md#4-weekly-batch)
+**Upstream:** [Kitchen](README.md) · **Shopping:** [Supermarket — weekly batch (perishable)](../buy/supermarket.md#2-weekly-batch-perishable) · [E-commerce — pantry weekly batch](../buy/ecommerce.md#pantry-weekly-batch)
 
-## Index
+## 📑 Index
 
 1. [Bean Soup (Batch)](#1-bean-soup-batch)
 2. [Vegetable + Meat Soup (7 portions)](#2-vegetable--meat-soup-7-portions)
@@ -12,11 +12,11 @@ Pressure-cooker and one-pot recipes that **feed several days** in a single sessi
 
 ---
 
-## 1. Bean Soup (Batch)
+## 🫘 1. Bean Soup (Batch)
 
 **Goal:** ~8–10 servings, thick, creamy, high protein, freezes well.
 
-### Ingredients
+### 🥗 Ingredients
 
 - 1 kg black beans (or pinto)
 - 3 to 3.5 liters water
@@ -32,7 +32,7 @@ Pressure-cooker and one-pot recipes that **feed several days** in a single sessi
 - 1 carrot (adds sweetness + nutrients)
 - 1 teaspoon cumin or paprika
 
-### Instructions
+### 📝 Instructions
 
 1. Prep:
    - Rinse beans thoroughly.
@@ -63,11 +63,11 @@ Pressure-cooker and one-pot recipes that **feed several days** in a single sessi
 
 ---
 
-## 2. Vegetable + Meat Soup (7 portions)
+## 🍲 2. Vegetable + Meat Soup (7 portions)
 
 **Goal:** daily lunch, low calorie, very high micronutrients, high satiety.
 
-### Ingredients
+### 🥗 Ingredients
 
 **Base**
 
@@ -109,7 +109,7 @@ Pressure-cooker and one-pot recipes that **feed several days** in a single sessi
 - Salt + black pepper
 - Optional: paprika, turmeric, cumin
 
-### Instructions
+### 📝 Instructions
 
 1. Base flavor:
    - Heat oil in large pot.
@@ -148,9 +148,9 @@ Pressure-cooker and one-pot recipes that **feed several days** in a single sessi
 
 ---
 
-## 3. Pork + Beans
+## 🐖 3. Pork + Beans
 
-### Ingredients
+### 🥗 Ingredients
 
 - 1 kg pork
 - 2 cups black beans
@@ -160,7 +160,7 @@ Pressure-cooker and one-pot recipes that **feed several days** in a single sessi
 - 1–2 bay leaves
 - Salt + pepper
 
-### Instructions
+### 📝 Instructions
 
 1. Brown pork.
 2. Add onion + garlic.

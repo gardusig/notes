@@ -1,13 +1,13 @@
-# Setup
+# ⚙️ Setup
 
-## Prerequisites
+## 📌 Prerequisites
 
 <Runtimes, tools, secrets layout.>
 
-## Local run
+## 📌 Local run
 
 <Commands from README or package scripts.>
 
-## Verify
+## ✅ Verify
 
 <Link to CI or the repo’s documented test/lint matrix.>

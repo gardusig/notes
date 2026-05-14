@@ -1,4 +1,4 @@
-# Close one issue as duplicate of another
+# 🎫 Close one issue as duplicate of another
 
 GitHub does not merge issue bodies; use **duplicate** semantics.
 

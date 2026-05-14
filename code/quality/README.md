@@ -1,4 +1,4 @@
-# Quality: evidence before merge
+# ✨ Quality: evidence before merge
 
 **Upstream:** [`../README.md`](../README.md)
 
@@ -6,11 +6,11 @@
 
 Room later for testing / CI interpretation notes without duplicating bodies that already live under [`../templates/`](../templates/README.md).
 
-## Contents
+## 📌 Contents
 
 - [`review-calm-read.md`](review-calm-read.md) — intentional slow read of code and test output before PR or human review (draft).
 
-## Neighbors
+## 📌 Neighbors
 
 - **Implementation loop:** [`../craft-pr/work-task-with-agents.md`](../craft-pr/work-task-with-agents.md)
 - **Ship:** [`../deploy/README.md`](../deploy/README.md)

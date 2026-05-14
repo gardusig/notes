@@ -1,15 +1,15 @@
-# AI-assisted coding
+# 💻 AI-assisted coding
 
 Personal **strategies for shipping code with Cursor**, agents, and **user-scoped** skills and rules—not hardware setup. For **machine and editor install**, see **[`../setup/macOS.md`](../setup/macOS.md)** (and parity). For **employer SDE2** norms, bookmarks, and team runbook *stubs*, see **[`../setup/work.md`](../setup/work.md)**. For **personal life tasks** (P0–P4, governance), see **[`../plan/README.md`](../plan/README.md)**.
 
 **Upstream:** [Notes root](../README.md)
 
-## Purpose
+## 🎯 Purpose
 
 - Keep **one topic per file** so you can link a ticket or chat to a single runbook.
 - Separate **how to frame and execute engineering work with AI** from device shopping notes and from the personal task mirror.
 
-## Delivery spine (folders)
+## 📌 Delivery spine (folders)
 
 ```mermaid
 flowchart LR
@@ -30,7 +30,7 @@ flowchart LR
 
 **Sidecar:** [`templates/README.md`](templates/README.md) — pasteables (doc/wiki/gh/git) plus wiki-first template guidance in [`templates/md/README.md`](templates/md/README.md); artifact toolbox used across phases, not a separate “step” in the spine.
 
-## Summary
+## 📌 Summary
 
 | You need… | Start here |
 | --- | --- |
@@ -48,7 +48,7 @@ flowchart LR
 | **Default: Plan first** (summarize + plan; pad chat; Agent after) | [`craft-issue/creativity/plan-first-and-ui-context.md`](craft-issue/creativity/plan-first-and-ui-context.md) |
 | **`@` skills**, browser capture, chat patterns | [`craft-pr/skills-and-chat-patterns.md`](craft-pr/skills-and-chat-patterns.md) |
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Delivery spine](#delivery-spine-folders)
@@ -59,7 +59,7 @@ flowchart LR
 
 ---
 
-## Topic files
+## 📌 Topic files
 
 | File | Role |
 | --- | --- |
@@ -86,7 +86,7 @@ flowchart LR
 
 ---
 
-## How this folder relates to `setup/work`
+## ⚙️ How this folder relates to `setup/work`
 
 [`setup/work.md`](../setup/work.md) holds **your** SDE2-oriented **personal work document** outline: deploy runbook, **debug** stub, **on-call** stub, verify deployed results, test locally. Put **team-specific URLs, service names, and escalation paths** there.
 

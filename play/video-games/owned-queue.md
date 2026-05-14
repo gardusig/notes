@@ -1,4 +1,4 @@
-# Queue — in progress & owned
+# 📀 Queue — in progress & owned
 
 Single place for games you **own**: what is **active** right now and what is **not started** (backlog). **Wishlist / not owned** stays in **[to-buy.md](to-buy.md)**. **Finished** rows move to **`completed/`** using **Archive shelf** / **Done →**.
 
@@ -6,7 +6,7 @@ Single place for games you **own**: what is **active** right now and what is **n
 
 ---
 
-## In progress
+## 📌 In progress
 
 Everything you are **playing now** (any presentation style). When you **finish**, append the row to the right file under **`completed/`** per **Done →**, then remove it from this section.
 
@@ -22,7 +22,7 @@ Everything you are **playing now** (any presentation style). When you **finish**
 
 ---
 
-## Owned — not started yet
+## 📀 Owned — not started yet
 
 Long-term backlog before you promote a row to **In progress** (same columns as before; **Archive shelf** is the completion target).
 

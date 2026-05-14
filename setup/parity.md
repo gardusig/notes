@@ -1,16 +1,16 @@
-# Dev setup — parity by domain
+# ⚖️ Dev setup — parity by domain
 
 Maps **what you need** (by concern) to **typical Mac vs Windows** choices. Same job, different product—pick your column. **Install order and Mac-only detail:** **[macOS.md](./macOS.md)**. **How you work day to day:** **[work.md](./work.md)**.
 
 **Related:** **[windows.md](./windows.md)** is **gaming/media software** on Windows (not a dev image); **[desktop.md](./desktop.md)** is the **tower hardware** for that build. All **device** guides share a common outline; see **[README.md](README.md)**.
 
-# Index
+# 📑 Index
 
 - [Dev setup — parity by domain](#dev-setup--parity-by-domain)
 - [Index](#index)
 - [Basic and desktop](#basic-and-desktop)
 
-# Basic and desktop
+# 🖥️ Basic and desktop
 
 Everyday machine surface: how you arrange windows, keep the screen on, install apps, browse, and join calls.
 

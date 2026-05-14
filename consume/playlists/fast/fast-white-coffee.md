@@ -1,13 +1,13 @@
-# [fast] white coffee
+# ☕ [fast] white coffee
 
 **YouTube Music:** https://music.youtube.com/playlist?list=PLusr4A2STBB5fKFVa3CnemtHMZHl81_WW
 
-## Meta
+## 📌 Meta
 
 - **Playlist (app snapshot):** Public · **291** views · **10** tracks · ~**42** minutes · dated **2026** in app.
 - **Last checked:** (fill when you re-sync)
 
-## Tracks
+## 📌 Tracks
 
 | # | Artist | Title | Album / mix | Length |
 |---|--------|-------|-------------|--------|

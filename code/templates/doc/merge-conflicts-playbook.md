@@ -1,4 +1,4 @@
-# Merge conflict playbook (after `git merge` / `git pull`)
+# 🔀 Merge conflict playbook (after `git merge` / `git pull`)
 
 Use when a merge stops with **conflicted** files. Adapt to your team’s review rules.
 

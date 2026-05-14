@@ -1,4 +1,4 @@
-# Channels & live feeds
+# 📺 Channels & live feeds
 
 **Versatile feeds** that are not quite “watch a film” or “read a book”: podcasts (audio-first), **live** (Twitch, YouTube Live, IRL), and the **habit runbook** for how you use subscriptions and ambient video. Same spirit as indie dev “always something on” channels—useful when you want company, texture, or a live clock on the world.
 

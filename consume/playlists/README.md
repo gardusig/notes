@@ -1,4 +1,4 @@
-# Music — playlists and library
+# 🎵 Music — playlists and library
 
 **Likes**, **playlists**, and **library cleanup** for listening. Separate from **[play/instruments](../../play/instruments/README.md)** (what you perform or practice). **Podcasts**, **live channels**, and the **online feed runbook** live under **[channels/](../channels/README.md)**.
 
@@ -8,7 +8,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 
 ---
 
-## Brazil
+## 📌 Brazil
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
@@ -16,13 +16,13 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 | [brazil] piseiro | 17 | [brazil/brazil-piseiro.md](brazil/brazil-piseiro.md) |
 | [brazil] sertanejo | 16 | [brazil/brazil-sertanejo.md](brazil/brazil-sertanejo.md) |
 
-## Blues
+## 🎸 Blues
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
 | blues | 13 | [blues/blues.md](blues/blues.md) |
 
-## Naruto
+## 🍥 Naruto
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
@@ -31,7 +31,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 | [naruto] orochimaru | 16 | [naruto/naruto-orochimaru.md](naruto/naruto-orochimaru.md) |
 | [naruto] uchiha | 20 | [naruto/naruto-uchiha.md](naruto/naruto-uchiha.md) |
 
-## Instrumental
+## 🎹 Instrumental
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
@@ -40,7 +40,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 | [instrumental] soundtrack | 42 | [instrumental/instrumental-soundtrack.md](instrumental/instrumental-soundtrack.md) |
 | [instrumental] veigar | 18 | [instrumental/instrumental-veigar.md](instrumental/instrumental-veigar.md) |
 
-## Fast
+## 📌 Fast
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
@@ -52,7 +52,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 | [fast] synchronized-swim | 20 | [fast/fast-synchronized-swim.md](fast/fast-synchronized-swim.md) |
 | [fast] white coffee | 10 | [fast/fast-white-coffee.md](fast/fast-white-coffee.md) |
 
-## Slow
+## 📌 Slow
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
@@ -61,7 +61,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 | [slow] sad | 6 | [slow/slow-sad.md](slow/slow-sad.md) |
 | [slow+reverb] rock | 23 | [slow/slow-reverb-rock.md](slow/slow-reverb-rock.md) |
 
-## Other
+## 📌 Other
 
 | Playlist | Tracks (app) | File |
 |----------|--------------|------|
@@ -73,14 +73,14 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 
 ---
 
-## Auto playlists (no stub files)
+## 🎵 Auto playlists (no stub files)
 
 - **Liked Music** — managed in YouTube Music only unless you add a dedicated note file later.
 - **Episodes for Later** — podcast queue; see **[channels/podcasts.md](../channels/podcasts.md)**.
 
 ---
 
-## Legacy / not in current app list
+## 📌 Legacy / not in current app list
 
 These appeared in an older playlist draft (GitHub issue) and may be merged, renamed, or removed in YouTube Music. Links kept for recovery; **verify or flag dead** when you open them.
 
@@ -95,7 +95,7 @@ These appeared in an older playlist draft (GitHub issue) and may be merged, rena
 
 ---
 
-## A–Z by file
+## 📌 A–Z by file
 
 - [blues/blues.md](blues/blues.md)
 - [brazil/brazil-funk.md](brazil/brazil-funk.md) · [brazil/brazil-piseiro.md](brazil/brazil-piseiro.md) · [brazil/brazil-sertanejo.md](brazil/brazil-sertanejo.md)

@@ -1,4 +1,4 @@
-# <Folder Name> hub
+# 🗂️ <Folder Name> hub
 
 Use this template for **generic non-root folder hubs** (for example: `docs/`, `src/`, `packages/`).
 

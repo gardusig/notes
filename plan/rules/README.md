@@ -1,10 +1,10 @@
-# Rules
+# 📌 Rules
 
 **Life and task rules** in one folder: **principles and execution** ([governance.md](governance.md), [priority.md](priority.md)), **how to plan efficiently** ([plan-making.md](plan-making.md)), **emotional routing**, **risk ladder (A–E)**, and **decision / moral framing**.
 
 **Upstream:** [Tasks hub](../README.md) · [Notes root](../../README.md)
 
-## Files
+## 📌 Files
 
 | File | Role |
 | --- | --- |
@@ -15,7 +15,7 @@
 | **[risk-tiers.md](risk-tiers.md)** | Tier A–E ladder for new choices (travel, spend, gray areas). |
 | **[decisions.md](decisions.md)** | Moral framing, people/self rules, when unsure / optimizing life, repeat vs new, delayed complexity. |
 
-## Boundaries
+## 📌 Boundaries
 
 - **Task hub narrative** (where things live, employer vs personal) — [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context).  
 - **Body clock and habits** — [`../routine/README.md`](../routine/README.md).  

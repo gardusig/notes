@@ -1,8 +1,8 @@
-# GitHub wiki templates
+# 📋 GitHub wiki templates
 
 Wiki-first issue and pull request drafting templates.
 
-## Hub
+## 🗂️ Hub
 
 Use these templates when drafting GitHub issues or pull requests.
 
@@ -10,9 +10,9 @@ Use these templates when drafting GitHub issues or pull requests.
 - Put emoji in section headings only (not in titles).
 - Prefer concise structure over long narrative filler.
 
-## Issue templates
+## 📋 Issue templates
 
-### Issue body template
+### 📋 Issue body template
 
 Use [`issues/body-skeleton.md`](issues/body-skeleton.md) as the base body scaffold.
 
@@ -20,7 +20,7 @@ Use [`issues/body-skeleton.md`](issues/body-skeleton.md) as the base body scaffo
 - Include risks and open questions only when relevant.
 - Add examples table when behavior is ambiguous.
 
-### Issue crafting checklist
+### 🛠️ Issue crafting checklist
 
 1. Check for duplicates before drafting.
 2. Draft title/body with measurable acceptance criteria.
@@ -28,7 +28,7 @@ Use [`issues/body-skeleton.md`](issues/body-skeleton.md) as the base body scaffo
 4. Resolve open questions before mutation.
 5. Create/edit/close issue only after scope is explicit.
 
-### Issue review report template
+### 📋 Issue review report template
 
 Use this structure for read-only issue reshaping:
 
@@ -38,7 +38,7 @@ Use this structure for read-only issue reshaping:
 - Ambiguities and missing acceptance criteria
 - Proposed rewritten title/body
 
-### Issue work plan template
+### 📐 Issue work plan template
 
 Use [`../plan/work-plan-with-issue.md`](../plan/work-plan-with-issue.md) for execution handoff with:
 
@@ -47,9 +47,9 @@ Use [`../plan/work-plan-with-issue.md`](../plan/work-plan-with-issue.md) for exe
 - Ordered plan steps
 - Verification checklist
 
-## Pull request templates
+## 📋 Pull request templates
 
-### PR title rules
+### 🏷️ PR title rules
 
 Use [`../pr/title-rules.md`](../pr/title-rules.md) and [`../shared/title.md`](../shared/title.md).
 
@@ -57,7 +57,7 @@ Use [`../pr/title-rules.md`](../pr/title-rules.md) and [`../shared/title.md`](..
 - Summarize branch outcome, not process.
 - Include issue/ticket prefix only when it is explicit and useful.
 
-### PR body template
+### 📋 PR body template
 
 Use [`../pr/body-skeleton.md`](../pr/body-skeleton.md).
 
@@ -68,7 +68,7 @@ Recommended order:
 3. Choices and tradeoffs
 4. Caveats
 
-### PR crafting checklist
+### 🛠️ PR crafting checklist
 
 1. Review branch delta and intended merge outcome.
 2. Draft title and body.
@@ -76,7 +76,7 @@ Recommended order:
 4. Confirm risk statement and caveats.
 5. Create or edit PR.
 
-### PR section templates
+### 📋 PR section templates
 
 Canonical sections to keep consistent across large PRs:
 
@@ -85,7 +85,7 @@ Canonical sections to keep consistent across large PRs:
 - Choices and tradeoffs
 - Caveats
 
-## Related
+## 📌 Related
 
 - [`README.md`](README.md)
 - [`issues/README.md`](issues/README.md)

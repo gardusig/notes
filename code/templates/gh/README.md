@@ -1,10 +1,10 @@
-# Template hub — GitHub CLI pasteables
+# 📋 Template hub — GitHub CLI pasteables
 
 Issue and PR orchestration snippets for `gh` workflows and bodies.
 
 **Upstream:** [Template hub `templates/`](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. **[`issues/`](issues/README.md)** — issue create/edit/dedupe/close helpers.
 2. **[`pr/`](pr/README.md)** — PR list view helper.

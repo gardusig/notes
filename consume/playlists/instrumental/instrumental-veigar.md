@@ -1,13 +1,13 @@
-# [instrumental] veigar
+# 🎹 [instrumental] veigar
 
 **YouTube Music:** https://music.youtube.com/playlist?list=PLusr4A2STBB7QAGGjQcWxUajeIjd2oos4
 
-## Meta
+## 📌 Meta
 
 - **Tracks (app, rough):** 18 — update when you export.
 - **Last checked:**
 
-## Tracks
+## 📌 Tracks
 
 | # | Artist | Title | Album / mix | Length |
 |---|--------|-------|-------------|--------|

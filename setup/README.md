@@ -1,6 +1,6 @@
-# Device notes
+# 📝 Device notes
 
-## Purpose & summary
+## 🎯 Purpose & summary
 
 This folder holds **personal setup, hardware, and shopping notes** for **computers** (desktop and laptop) and **phones / accessories**, in one flat list below.
 
@@ -8,7 +8,7 @@ This folder holds **personal setup, hardware, and shopping notes** for **compute
 
 ---
 
-## Index
+## 📑 Index
 
 - [Purpose & summary](#purpose--summary)
 - [Recommended template for a device guide](#recommended-template-for-a-device-guide)
@@ -32,7 +32,7 @@ This folder holds **personal setup, hardware, and shopping notes** for **compute
 
 ---
 
-## Recommended template for a device guide
+## 📋 Recommended template for a device guide
 
 Mirror **[`windows.md`](windows.md)** (software) and/or **[`desktop.md`](desktop.md)** (hardware for that PC):
 

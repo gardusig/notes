@@ -1,4 +1,4 @@
-# Signals and stops (return to Plan or ticket)
+# 📡 Signals and stops (return to Plan or ticket)
 
 **Upstream:** [`README.md`](README.md)
 

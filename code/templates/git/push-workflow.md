@@ -1,4 +1,4 @@
-# Commit and push (after local review)
+# ⬆️ Commit and push (after local review)
 
 Use after **format, lint, and tests** pass (or whatever your repo documents). **Confirm** with a human or your team’s checklist before **`git commit`** / **`git push`** when the change is large or destructive.
 

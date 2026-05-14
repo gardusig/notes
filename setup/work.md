@@ -1,4 +1,4 @@
-# Work setup (SDE2): onboard → daily usage
+# ☀️ Work setup (SDE2): onboard → daily usage
 
 This guide sits **on top of** a **dev-oriented** OS setup. **Every local install this workflow assumes** is mapped in **[parity.md](./parity.md)** (by domain: [Basic and desktop](./parity.md#basic-and-desktop), [Code, repos, and shipping](./parity.md#code-repos-and-shipping)). On **Mac**, follow **[macOS.md](./macOS.md)** — **Setup & installation** through **Privacy & permissions** (see that file’s **Index**)—same concerns as **parity**, with Mac-specific commands. Device note layout: **[README.md](README.md)**. On **Windows**, use **parity** directly. The **[windows.md](./windows.md)** (**software**) and **[desktop.md](./desktop.md)** (**hardware**) pair here is a **gaming** PC guide, not dev. It is tuned for **SDE2-level** work: you **own** medium-sized changes end to end, **review** others’ code with consistent quality, and **operate** services you touch (deploy, debug, on-call where applicable)—not just “stay organized.”
 
@@ -14,7 +14,7 @@ This guide sits **on top of** a **dev-oriented** OS setup. **Every local install
 
 ---
 
-# Index
+# 📑 Index
 
 - [Work setup (SDE2): onboard → daily usage](#work-setup-sde2-onboard--daily-usage)
 - [Index](#index)
@@ -47,7 +47,7 @@ This guide sits **on top of** a **dev-oriented** OS setup. **Every local install
 
 ---
 
-# 1. Baseline: terminal, editor, and review loop
+# 📌 1. Baseline: terminal, editor, and review loop
 
 **Install reference (all rows):** **[parity.md](./parity.md)** — [Code, repos, and shipping](./parity.md#code-repos-and-shipping) for the table below; **Mac**-specific steps also in **[macOS.md](./macOS.md)** §2.3–§2.8.
 
@@ -65,7 +65,7 @@ Track **repos you must have** (service, infra, shared libraries) in your persona
 
 ---
 
-# 2. Browser: work-only profile
+# 👤 2. Browser: work-only profile
 
 Install the **work browser** (and keep it updated) per **[parity.md](./parity.md)** [Basic and desktop](./parity.md#basic-and-desktop). Use a **dedicated work profile** so sessions, extensions, and bookmarks stay professional and searchable.
 
@@ -81,13 +81,13 @@ Install the **work browser** (and keep it updated) per **[parity.md](./parity.md
 
 ---
 
-# 3. Bookmarks: folder layout
+# 📖 3. Bookmarks: folder layout
 
-## Why separate folders
+## 💡 Why separate folders
 
 Folders mirror **mental modes**: implementing (**code**), judging others’ diffs (**reviews**), operating (**tools**, **debug**), learning (**wiki**). At SDE2 you switch modes often; a flat bar hides cost until you are late for standup.
 
-## Example tree (bookmark bar)
+## 📖 Example tree (bookmark bar)
 
 ```text
 Bookmarks Bar
@@ -123,7 +123,7 @@ Bookmarks Bar
 
 **Flat alternative:** merge **reviews** into **code** until the bar feels crowded.
 
-## Folder reference
+## 📌 Folder reference
 
 | Folder | Put here | SDE2-oriented example |
 | ------ | -------- | ---------------------- |
@@ -141,7 +141,7 @@ Bookmarks Bar
 
 ---
 
-# 4. Personal work document
+# 📌 4. Personal work document
 
 One **primary** place for *your* operational memory: meeting scraps, **team-specific** SDE2 expectations, and links that would otherwise die in Slack.
 
@@ -173,7 +173,7 @@ Personal work doc
 └── Activity
 ```
 
-### Quick notes
+### 📝 Quick notes
 
 **Purpose.** Default landing; raw capture during meetings and threads.
 
@@ -184,7 +184,7 @@ Personal work doc
 
 **Tip.** Promote or delete anything older than ~2 weeks.
 
-### Important notes
+### 📝 Important notes
 
 **Purpose.** Durable **decisions** and ownership, not procedures.
 
@@ -193,7 +193,7 @@ Personal work doc
 - “Trunk + flags for release X; EM signed off 3/10.”
 - “DBA rotation—#infra pinned message.”
 
-### Team norms & SDE2 bar
+### 📌 Team norms & SDE2 bar
 
 **Purpose.** What *your* team expects from someone at **mid-level**: review turnaround, when a **design** is required, who approves risky changes, how async updates work.
 
@@ -206,17 +206,17 @@ Personal work doc
 
 **Tip.** If it is written in the team wiki, **link** it and keep only deltas (“we actually do X in practice”).
 
-### Acronyms
+### 📌 Acronyms
 
 **Purpose.** Org vocabulary.
 
 **Store (examples).** “**SLO** — …; doc: …”
 
-### Laptop apps
+### 📌 Laptop apps
 
 **Purpose.** Reproducible setup: VPN, editors, meeting stack, phone policy. Align names with **[parity.md](./parity.md)** (and **[macOS.md](./macOS.md)** on Mac) so “what’s installed” matches how you actually provisioned the machine.
 
-### Current team architecture (minimap)
+### 🏗️ Current team architecture (minimap)
 
 **Purpose.** **Your** mental model: services, stores, queues, **which repo** maps to what, rough ownership.
 
@@ -224,7 +224,7 @@ Personal work doc
 
 **Tip.** Update after migrations; SDE2s get asked “how does this fit together?”
 
-### Cross-team dependencies
+### 📌 Cross-team dependencies
 
 **Purpose.** **Who to ping** for APIs, shared platforms, and approvals outside your squad.
 
@@ -233,19 +233,19 @@ Personal work doc
 - “Identity API — #identity-eng; SLA for breaking changes: …”
 - “Data platform — pipeline X owned by …”
 
-### Code runbook
+### 📖 Code runbook
 
 **Purpose.** Zero → **running tests** on your machine. **OS-level prereqs** (Git, Docker, editor, language runtimes): **[parity.md](./parity.md)** [Code, repos, and shipping](./parity.md#code-repos-and-shipping).
 
-### Deploy runbook
+### 📖 Deploy runbook
 
 **Purpose.** How **your** team ships and rolls back; release roles if any.
 
-### Debug runbook
+### 📖 Debug runbook
 
 **Purpose.** Logs, traces, top failure patterns for services you **own or on-call for**.
 
-### Starting a new task (SDE2)
+### 📋 Starting a new task (SDE2)
 
 **Purpose.** Checklist so medium work does not skip **clarity** or **risk** steps.
 
@@ -257,7 +257,7 @@ Personal work doc
 - **Dependencies:** other teams, flags, migrations—note in ticket.
 - **Estimate / risk** to EM or PM if deadlines exist.
 
-### Code review cheat sheet
+### 📌 Code review cheat sheet
 
 **Purpose.** **Your** consistent bar when **giving** reviews (and reminders when **receiving**).
 
@@ -267,23 +267,23 @@ Personal work doc
 - “Nit vs must-fix—use team convention.”
 - Link to org **style guide** or **dangerous patterns** doc.
 
-### On-call
+### 📌 On-call
 
 **Purpose.** Paging paths, escalation, dashboard bundle—**read-only** links for tired-you.
 
-### Verify deployed results
+### 🚀 Verify deployed results
 
 **Purpose.** Smoke checks and flags after **your** ship.
 
-### Test locally
+### 📌 Test locally
 
 **Purpose.** Minimum bar before **you** request review (`make test`, targeted `pytest`, etc.).
 
-### Personal task board (optional)
+### ➕ Personal task board (optional)
 
 **Purpose.** Growth, tech debt you personally want to drive, **prep for perf** conversations.
 
-### Activity
+### 📌 Activity
 
 **Purpose.** One-line **dated** log: ships, reviews you unblocked, incidents, designs you wrote—feeds **perf** and self-review.
 
@@ -291,7 +291,7 @@ Personal work doc
 
 ---
 
-# 5. Onboard checklist (SDE2-first weeks)
+# ☑️ 5. Onboard checklist (SDE2-first weeks)
 
 **Access & repos**
 
@@ -321,7 +321,7 @@ Personal work doc
 
 ---
 
-# 6. Daily rhythm
+# ☀️ 6. Daily rhythm
 
 Use this as a **lightweight** default; adapt to your team’s timezone and async rules.
 

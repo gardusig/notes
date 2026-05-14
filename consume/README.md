@@ -1,4 +1,4 @@
-# Consume
+# 📌 Consume
 
 Passive consumption: **watch** (film, TV, anime) and **read** (books, wikis, longform). **Music** (playlists, likes, library cleanup) lives under **[playlists/](playlists/README.md)**. **Channels & feeds**—podcasts, Twitch/live anchors, and the online habit runbook—live together in **[channels/](channels/README.md)** (versatile YouTube/live/audio, not the same lane as logged media).
 

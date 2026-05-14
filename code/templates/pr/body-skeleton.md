@@ -1,4 +1,4 @@
-# PR body skeleton (paste and fill)
+# 📄 PR body skeleton (paste and fill)
 
 **Title:** plain text only — [`../shared/title.md`](../shared/title.md) (no emoji in the PR **title**). **Section headings** below use a **single leading emoji** on each `##` line.
 

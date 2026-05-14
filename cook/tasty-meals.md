@@ -1,18 +1,18 @@
-# Tasty Meals
+# 🍽️ Tasty Meals
 
 Higher-pleasure mains: pasta, rice + meat, and similar dishes you cook for taste rather than weekly batching. Smaller portions, quicker turnaround.
 
-**Upstream:** [Kitchen](README.md) · **Shopping:** [Supermarket — Grocery](../buy/supermarket.md#3-grocery)
+**Upstream:** [Kitchen](README.md) · **Shopping:** [Supermarket — perishable](../buy/supermarket.md#1-perishable) · [E-commerce — online supermarket](../buy/ecommerce.md#1-online-supermarket)
 
-## Index
+## 📑 Index
 
 1. [Pasta](#1-pasta)
 
 ---
 
-## 1. Pasta
+## 🍝 1. Pasta
 
-### Ingredients
+### 🥗 Ingredients
 
 - 500 g pasta
 - 500 g ground beef
@@ -21,7 +21,7 @@ Higher-pleasure mains: pasta, rice + meat, and similar dishes you cook for taste
 - 2 tomatoes or sauce
 - Salt + pepper
 
-### Instructions
+### 📝 Instructions
 
 1. Cook pasta.
 2. Brown beef.

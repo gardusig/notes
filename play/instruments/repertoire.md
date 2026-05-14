@@ -1,4 +1,4 @@
-# Repertoire
+# 📜 Repertoire
 
 **What this file is for:** pieces you **learn or perform** on an instrument—what you know, what you’re working on, and how you label it.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## How entries are structured
+## 📌 How entries are structured
 
 **Instruments** (use these labels only in metadata; comma-separate when a piece uses several):
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Led Zeppelin — Stairway to Heaven
+## 📌 Led Zeppelin — Stairway to Heaven
 
 | Field | Value |
 |--------|--------|
@@ -34,7 +34,7 @@
 | **Album** | *Led Zeppelin IV* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Acoustic guitar**
   - Intro / picking sections — *(fill in)*; famous progression; lock tempo
@@ -45,7 +45,7 @@
 
 ---
 
-## Iron Maiden — Fear of the Dark
+## 📌 Iron Maiden — Fear of the Dark
 
 | Field | Value |
 |--------|--------|
@@ -54,7 +54,7 @@
 | **Album** | *Fear of the Dark* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar**
   - Main riffs / rhythm — *(fill in)*; often arranged for one guitar
@@ -63,7 +63,7 @@
 
 ---
 
-## Guns N’ Roses — Sweet Child O’ Mine
+## 📌 Guns N’ Roses — Sweet Child O’ Mine
 
 | Field | Value |
 |--------|--------|
@@ -72,7 +72,7 @@
 | **Album** | *Appetite for Destruction* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar**
   - Overall piece — rough / sketchy; whole song still shaky
@@ -82,7 +82,7 @@
 
 ---
 
-## Guns N’ Roses — Paradise City
+## 📌 Guns N’ Roses — Paradise City
 
 | Field | Value |
 |--------|--------|
@@ -91,7 +91,7 @@
 | **Album** | *Appetite for Destruction* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar**
   - Intro / main riffs — *(fill in)*
@@ -100,7 +100,7 @@
 
 ---
 
-## Flaherty Brotherhood — Death Valley Blues
+## 🎸 Flaherty Brotherhood — Death Valley Blues
 
 | Field | Value |
 |--------|--------|
@@ -109,14 +109,14 @@
 | **Album / single** | *(fill if you know)* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which you use)*
   - *(structure)* — *(fill in)*; less known catalog—label sections as you like
 
 ---
 
-## Flaherty Brotherhood — Valley Heat
+## 📌 Flaherty Brotherhood — Valley Heat
 
 | Field | Value |
 |--------|--------|
@@ -125,14 +125,14 @@
 | **Album / single** | *(fill if you know)* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which you use)*
   - *(structure)* — *(fill in)*
 
 ---
 
-## Flaherty Brotherhood — The Castle
+## 📌 Flaherty Brotherhood — The Castle
 
 | Field | Value |
 |--------|--------|
@@ -141,14 +141,14 @@
 | **Album / single** | *(fill in)* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which you use)*
   - *(structure)* — *(fill in)*
 
 ---
 
-## Khruangbin — August 10
+## 📌 Khruangbin — August 10
 
 | Field | Value |
 |--------|--------|
@@ -157,7 +157,7 @@
 | **Album** | *Con Todo El Mundo* |
 | **Instruments** | Electric guitar, bass *(band is guitar + bass + drums—note what you actually play)* |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar**
   - Main theme / groove — *(fill in)*; good for feel & tone practice
@@ -166,7 +166,7 @@
 
 ---
 
-## Muse — Bliss
+## 📌 Muse — Bliss
 
 | Field | Value |
 |--------|--------|
@@ -176,7 +176,7 @@
 | **Instruments** | Piano / keyboard, electric guitar |
 | **Notes** | Piano-led on record; guitar covers arrange to guitar—optionally track keys separately |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Piano / keyboard**
   - Intro / arpeggios — *(fill in)*; as on record or adapted
@@ -186,11 +186,11 @@
 
 ---
 
-## Video game & anime arrangements
+## 🇯🇵 Video game & anime arrangements
 
 Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinct.
 
-### Super Mario World — Bowser theme
+### 📌 Super Mario World — Bowser theme
 
 | Field | Value |
 |--------|--------|
@@ -200,14 +200,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab *(note which version you use)* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Main theme — *(fill in)*
 
 ---
 
-### Super Mario World — Ending theme
+### 📌 Super Mario World — Ending theme
 
 | Field | Value |
 |--------|--------|
@@ -217,14 +217,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Super Mario World — Bowser castle theme
+### 📌 Super Mario World — Bowser castle theme
 
 | Field | Value |
 |--------|--------|
@@ -234,14 +234,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Main theme — *(fill in)*
 
 ---
 
-### Super Mario 64 — Bowser theme
+### 📌 Super Mario 64 — Bowser theme
 
 | Field | Value |
 |--------|--------|
@@ -251,14 +251,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Main riff / sections — *(fill in)*
 
 ---
 
-### Super Mario 64 — Slide (Rainbow Ride)
+### 📌 Super Mario 64 — Slide (Rainbow Ride)
 
 | Field | Value |
 |--------|--------|
@@ -268,14 +268,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Cuphead — Floral Fury
+### 📌 Cuphead — Floral Fury
 
 | Field | Value |
 |--------|--------|
@@ -285,14 +285,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Main sections — *(fill in)*; busy big-band idiom on OST
 
 ---
 
-### Naruto — Sadness and Sorrow
+### 🍥 Naruto — Sadness and Sorrow
 
 | Field | Value |
 |--------|--------|
@@ -302,14 +302,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Acoustic guitar** *(typical for this cue—change if you play it on electric)*
   - Melody / accompaniment — *(fill in)*
 
 ---
 
-### Naruto — Grief and Sorrow
+### 🍥 Naruto — Grief and Sorrow
 
 | Field | Value |
 |--------|--------|
@@ -319,14 +319,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Acoustic guitar** *(or electric—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Naruto — Main theme (slowed)
+### 🍥 Naruto — Main theme (slowed)
 
 | Field | Value |
 |--------|--------|
@@ -336,14 +336,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Your tempo / backing *(YouTube “slowed” style, etc.)* |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Naruto — Main theme
+### 🍥 Naruto — Main theme
 
 | Field | Value |
 |--------|--------|
@@ -353,14 +353,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Naruto — Pain theme
+### 🍥 Naruto — Pain theme
 
 | Field | Value |
 |--------|--------|
@@ -370,14 +370,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Naruto — Sasuke theme
+### 🍥 Naruto — Sasuke theme
 
 | Field | Value |
 |--------|--------|
@@ -387,14 +387,14 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*
 
 ---
 
-### Naruto — Orochimaru theme
+### 🍥 Naruto — Orochimaru theme
 
 | Field | Value |
 |--------|--------|
@@ -404,7 +404,7 @@ Short headers use **source title — track** so *SMW* vs *Mario 64* stay distinc
 | **Arrangement** | Guitar cover / tab |
 | **Instruments** | Acoustic guitar, electric guitar |
 
-### Parts I know
+### 📌 Parts I know
 
 - **Electric guitar** *(or acoustic—note which)*
   - Full piece — *(fill in)*

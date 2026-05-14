@@ -1,10 +1,10 @@
-# Work a task with agents
+# 📋 Work a task with agents
 
 **Upstream:** [`code/README.md`](../README.md)
 
 How to **execute** work after [`../craft-issue/creativity/create-engineering-task.md`](../craft-issue/creativity/create-engineering-task.md) is written. Complements [`../../setup/work.md`](../../setup/work.md) (review, deploy, verify) with **Cursor-specific** habits.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Plan vs Agent mode](#plan-vs-agent-mode)
@@ -17,13 +17,13 @@ How to **execute** work after [`../craft-issue/creativity/create-engineering-tas
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 Agents are strong at **search, edits, and boilerplate**; they are weak at **tacit policy** and **production truth**. Structure work so **you** own decisions and **the agent** owns mechanical steps—with frequent verification.
 
 ---
 
-## Plan vs Agent mode
+## 📌 Plan vs Agent mode
 
 | Mode | Use when |
 | --- | --- |
@@ -36,7 +36,7 @@ If the product UI for “agent” is still awkward for multi-file refactors, **f
 
 ---
 
-## Chunking and verification
+## 📌 Chunking and verification
 
 1. **Smallest shippable slice** — e.g. one endpoint, one flag path, one failing test fixed first.
 2. **Run verify after each slice** — same command you would use before PR (see [`../../setup/work.md`](../../setup/work.md) *Test locally*).
@@ -44,7 +44,7 @@ If the product UI for “agent” is still awkward for multi-file refactors, **f
 
 ---
 
-## Test design and scenario creativity
+## 🎨 Test design and scenario creativity
 
 For meaningful confidence, design tests as a set, not a single happy-path command:
 
@@ -61,7 +61,7 @@ Reference contract:
 
 ---
 
-## Agent vs terminal
+## 📌 Agent vs terminal
 
 | Situation | Prefer |
 | --- | --- |
@@ -74,7 +74,7 @@ Keep a **pinned** terminal in the repo root; see [`../craft-issue/maintenance/re
 
 ---
 
-## Rewrite a few files, then re-read
+## 📌 Rewrite a few files, then re-read
 
 When the agent **rewrites** several files:
 
@@ -84,12 +84,12 @@ When the agent **rewrites** several files:
 
 ---
 
-## Calm review pass
+## 🌙 Calm review pass
 
 Before you call the change “ready,” use a **calm read** of the diff and test output: stop starting new work for a bounded window and read like you are on-call, not like you are prompting. Full draft ritual: [`../quality/review-calm-read.md`](../quality/review-calm-read.md) (**under research**).
 
 ---
 
-## Parallelism while models run
+## 🧩 Parallelism while models run
 
 Slower models are acceptable if **your** time is not idle: kick off a plan or long test run, then triage email, update the ticket, or draft the PR description. **Planning** with a cheaper or faster model and **reviewing** with a stronger one is a valid split; see [`../craft-issue/creativity/models-and-modes.md`](../craft-issue/creativity/models-and-modes.md).

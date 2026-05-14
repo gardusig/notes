@@ -1,8 +1,8 @@
-# Repo layout — domain modules + split architecture
+# 🏗️ Repo layout — domain modules + split architecture
 
 Suggested **monorepo** (or polyrepo mirror) shape for a **full stack** product with **clear boundaries** and **domain-first** folders. Rename to match your stack (`apps/`, `services/`, `packages/` are interchangeable conventions).
 
-## Example tree
+## 💡 Example tree
 
 ```text
 .
@@ -23,7 +23,7 @@ Suggested **monorepo** (or polyrepo mirror) shape for a **full stack** product w
 └── README.md
 ```
 
-## Principles
+## 📌 Principles
 
 | Choice | Why |
 | --- | --- |
@@ -32,11 +32,11 @@ Suggested **monorepo** (or polyrepo mirror) shape for a **full stack** product w
 | **One bounded context per `domain-*` folder** | Avoids a single “god” `src/models` dump unless the product is tiny. |
 | **`apps/api` wires infrastructure** | DB clients, queues, config live at the edge; domain receives interfaces/ports if you use ports style. |
 
-## When to simplify
+## ❓ When to simplify
 
 - **Single deployable** (e.g. Next.js full stack): collapse to `src/` with `features/<domain>/` and still keep **feature folders**—same idea, fewer roots.
 
-## Related
+## 📌 Related
 
 - Folder README picks: [`../doc/readme/README_AND_FOLDER_SCAFFOLD.md`](../doc/readme/README_AND_FOLDER_SCAFFOLD.md)
 - Module hub: [`../doc/wiki/profiles/coding/modules-README.md`](../doc/wiki/profiles/coding/modules-README.md)

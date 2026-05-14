@@ -1,4 +1,4 @@
-# Markdown templates
+# 📋 Markdown templates
 
 ## 📇 Index
 

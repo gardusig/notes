@@ -1,10 +1,10 @@
-# Full stack & study templates (`fullstack/`)
+# 📋 Full stack & study templates (`fullstack/`)
 
 **Upstream:** [`../README.md`](../README.md)
 
 Domain-shaped **pasteables** for **full stack applications** (split front/back, shared packages, contracts) and **structured study** pages that pair well with [`../diagrams/`](../diagrams/). For generic wiki depth (operations, data, conventions), still use [`../doc/wiki/profiles/coding/`](../doc/wiki/profiles/coding/).
 
-## Index
+## 📑 Index
 
 1. [`repo-layout-domain-split.md`](repo-layout-domain-split.md) — monorepo-style tree: domains, apps, packages
 2. [`frontend-backend-contract-checklist.md`](frontend-backend-contract-checklist.md) — API, types, env, versioning
@@ -12,7 +12,7 @@ Domain-shaped **pasteables** for **full stack applications** (split front/back, 
 
 ---
 
-## Coverage map (what you already had vs this folder)
+## 📌 Coverage map (what you already had vs this folder)
 
 | Use case | Prefer |
 | --- | --- |
@@ -28,7 +28,7 @@ This folder does **not** replace API endpoint stubs—those stay under [`../doc/
 
 ---
 
-## Intentionally light (add in-repo when needed)
+## 📌 Intentionally light (add in-repo when needed)
 
 | Area | Where to grow |
 | --- | --- |

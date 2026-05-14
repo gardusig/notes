@@ -1,4 +1,4 @@
-# Opposite comparisons — poles and middle spaces
+# ↔️ Opposite comparisons — poles and middle spaces
 
 **What this is:** paired **tensions** named as opposites, with an explicit **middle** or **third** zone—useful for steering without pretending life is one boolean. Metaphor and vocabulary, not a claim that everyone “should” land in the center on every axis.
 
@@ -6,34 +6,34 @@
 
 ---
 
-## Pattern
+## 📌 Pattern
 
 For each line: **two poles** and a **middle** that is not “zero” but **another quality**—often slower, more contextual, or more accountable than either pole alone.
 
 ---
 
-## Happy and sad
+## 😊 Happy and sad
 
 - **Poles:** euphoria-chasing ↔ numb collapse.
 - **Middle:** **sustainable satisfaction** — room for real sadness and friction without treating contrast as failure. Echoes the balance idea in [life-arc.md](life-arc.md).
 
 ---
 
-## Fear and courage
+## 📌 Fear and courage
 
 - **Poles:** panic / freeze ↔ reckless bravado.
 - **Middle:** **calm agency** — act with information, pacing, and proportion; courage without contempt for risk.
 
 ---
 
-## Rich and poor (resource framing)
+## 📌 Rich and poor (resource framing)
 
 - **Poles:** shame about means ↔ flex / contempt for constraint.
 - **Middle:** **clear-eyed optionality** — honest about runway and tradeoffs without tying dignity to a single scoreboard. Tactical numbers belong in [life-game-structure.md § Tactical HUD](life-game-structure.md#tactical-hud).
 
 ---
 
-## Fix and vengeance
+## 📌 Fix and vengeance
 
 - **Poles:** **Fix** — repair what can be repaired, compensate where possible, change systems that failed. **Vengeance** — hurt back as the main dish; escalation as identity.
 - **Middle:** **justice** — proportion, accountability, truth where it matters, consequences that **reduce future harm** more than they **feed the loop**. Often overlaps with **fix-first** instincts but can include **hard boundaries** where repair is refused.
@@ -42,7 +42,7 @@ For each line: **two poles** and a **middle** that is not “zero” but **anoth
 
 ---
 
-## Sketch: fix — justice — vengeance
+## 📌 Sketch: fix — justice — vengeance
 
 ```mermaid
 flowchart LR

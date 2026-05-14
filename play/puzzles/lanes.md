@@ -1,8 +1,8 @@
-# Completion puzzles *(non-ranked)*
+# 🧩 Completion puzzles *(non-ranked)*
 
 **Purpose:** puzzle types **without** a rating. Progress is **finishing** grids or issues—accuracy still matters, but there is **no global ladder**. Track **lifetime totals** per type and optional **weekly throughput** so rotation stays honest.
 
-## Lane catalog
+## 📌 Lane catalog
 
 | Lane                | One-line description                                                                                                                |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@
 
 ---
 
-## Lifetime completed *(increment when you fully finish one puzzle / grid / issue)*
+## 🏁 Lifetime completed *(increment when you fully finish one puzzle / grid / issue)*
 
 | Lane            | Completed (lifetime) | Last updated (YYYY-MM-DD) |
 | --------------- | -------------------: | ------------------------- |
@@ -28,7 +28,7 @@
 | Logic           |                    0 |                           |
 | Word (optional) |                    0 |                           |
 
-## Related
+## 📌 Related
 
 - [Puzzles runbook](README.md).
 - [Chess](chess.md).

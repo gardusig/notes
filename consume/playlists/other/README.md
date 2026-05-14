@@ -1,8 +1,8 @@
-# Other playlists
+# 🎵 Other playlists
 
 **Upstream:** [Music — playlists](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`felix-the-cat.md`](felix-the-cat.md) — playlist stub and track table.
 2. [`hypnotize.md`](hypnotize.md) — playlist stub and track table.

@@ -1,36 +1,24 @@
-# Pharmacy
+# 💊 Pharmacy
 
 What to grab when you walk into a pharmacy. Keep core items in stock; rotate the rest as needed. **Categories only**—pick familiar products in each slot with a pharmacist when unsure.
 
 **Upstream:** [Stores](README.md)
 
-## Index
+## 📑 Index
 
-1. [Supplements](#1-supplements)
-2. [Common ailments](#2-common-ailments)
-3. [Personal care](#3-personal-care)
-4. [Skin](#4-skin)
+- [💊 Pharmacy](#-pharmacy)
+  - [📑 Index](#-index)
+  - [💊 Capsules](#-capsules)
+  - [📌 Personal care](#-personal-care)
 
----
 
-## 1. Supplements
+## 💊 Capsules
 
-- Daily multivitamin (core)
-- Essential fatty acid supplement — fish- or plant-based omega blend (core)
-- Mineral for sleep or recovery support — ask for a well-tolerated form (core)
+- Multivitamin (Centrum)
+- Anti allergic (Loratadina 10mg)
+- Anti inflammatory (Ibuprofen 400 mg)
 
-## 2. Common ailments
+## 📌 Personal care
 
-- Fever and body aches — fever reducer from the cold-and-flu section (single-ingredient box you already tolerate)
-- Daytime allergy relief — non-drowsy allergy aisle option (tablet or nasal spray)
-- Headache or muscle soreness — mild oral pain relief or topical rub from the pain-care shelf
-
-## 3. Personal care
-
-- Lubricating eye drops (screen fatigue)
-- Saline nasal rinse or isotonic spray (dry or irritated passages)
-
-## 4. Skin
-
-- Body lotion
-- Broad-spectrum daily sunscreen (baseline protection)
+- Lubricating eye drops
+- Saline nasal rinse or isotonic spray

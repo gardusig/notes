@@ -1,4 +1,4 @@
-# Template: user journey (usability / product)
+# 📋 Template: user journey (usability / product)
 
 **Portable copy:** When pasting only the **`mermaid`** block, remove this header and links. Colors: [`palette.md`](palette.md) (`ux*` family). Rules: [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md).
 

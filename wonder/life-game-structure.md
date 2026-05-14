@@ -1,4 +1,4 @@
-# Life game structure
+# 🌿 Life game structure
 
 **Metaphor only** unless you explicitly treat it as a claim: life described as **nested game instances**, **parallel runs on shared hardware** (machine **onion** flowchart below), *Matrix*- and anime-shaped **story rhymes**, a **daily Dark Souls loop**, and an **online** ruleset (League of Legends–style). This doc does **not** add a separate “heaven” layer in the **inner** onion—only **game / control / factions / pill bands**.
 
@@ -6,7 +6,7 @@
 
 **Harm and penalty** (human-involved acts, coarse time bands): if you keep that table, it lives **outside this repo**—not linked here (previously referenced a missing `runbook/` path).
 
-## Machine onion: computer, power, display, instances, you
+## 📌 Machine onion: computer, power, display, instances, you
 
 Two onions stack conceptually: this section is the **outer** one (**where** the run lives). The [inner onion](#nested-instance-onion-no-heaven) (pills / factions) is **inside** a **single instance**—the layer labeled **one instance you inhabit** below.
 
@@ -46,19 +46,19 @@ flowchart TB
 
 **Ring 6 — Your life.** Not the whole instance—**one bot** (or **character**, **agent**, **thread**) **inside** that instance: **you** as a **small automaton** following local inputs, one of **many** such units in the same world slot.
 
-## Default play (blue pill)
+## 📌 Default play (blue pill)
 
 You start in a world where **most things feel truthful**. **Someone authored the rules** (parents, history, institutions, physics) and you **play inside** without constantly questioning the frame. That is **blue pill** in this vocabulary: **consensual, on-rails** play—the story the instance presents as “just how life is.”
 
-## Friction and a guide (Morpheus-shaped)
+## 📌 Friction and a guide (Morpheus-shaped)
 
 When friction stacks—contradictions, limits, unfair maps—you may meet a **mentor figure** who names the frame. Think **Morpheus as a story shape**, or the calm explainer tone of a **Morgan Freeman** archetype: not a literal casting or religious claim, just **“you are shown there is a game.”**
 
-## Red pill (this doc’s meaning)
+## 📌 Red pill (this doc’s meaning)
 
 Here **red pill** is **not** moral endorsement and **not** “the one true reality.” It means **going beyond** the default script through **radical reframing**, **vivid imagination of alternatives**, and **treating the handed map as revisable** (other roles, other timelines, other rulesets). In story terms: you **step out of one machine** and **land in another game instance**—**another ruleset**, not a guaranteed upgrade.
 
-## Nested instance (onion, no heaven)
+## 📌 Nested instance (onion, no heaven)
 
 **Inside [ring 5](#machine-onion-computer-power-display-instances-you)** (one instance you inhabit): a **second onion** for social layers. **Heaven omitted** on purpose.
 
@@ -68,7 +68,7 @@ Here **red pill** is **not** moral endorsement and **not** “the one true reali
 4. **Pink group** — **inside** the red-pill band: **border work** between **blue** (immersed default) and **red** (beyond the script)—scenes, customs, brokers, and subcultures that **touch both**; rename labels to match your own “crew / gate / liminal” group.
 5. **Blue pill matrix** — **core**: trusting the presented world and playing the handed quest.
 
-### What lives in the blue pill matrix
+### 📌 What lives in the blue pill matrix
 
 **Blue pill** here is **not** one ideology. It means you **trust the presented world** and take **quests from the local menu** of stories—parents, schools, nations, myths—without constantly auditing the frame. **Many incompatible quest lines** can still sit in that core at once.
 
@@ -93,7 +93,7 @@ flowchart TB
   style bluePill fill:#bbdefb,stroke:#1565c0,color:#0d47a1,stroke-width:3px
 ```
 
-## Spectra inside one instance (lines, not one score)
+## 📌 Spectra inside one instance (lines, not one score)
 
 Many moods, traits, and outcomes behave like **positions on a line**: one direction trends toward **what you would call very good** (informally **toward +∞**), the other toward **very bad** (**toward −∞**). Treat that as a **cartoon axis**, not literal math.
 
@@ -111,11 +111,11 @@ Many moods, traits, and outcomes behave like **positions on a line**: one direct
 
 **Bridge to pills:** **Blue-pill** characters still **spread out** on all of these lines. **Red pill** in this doc is about **questioning or leaving the default frame**—not an automatic ticket to the “+∞” side of every mood axis.
 
-## One game, many stages
+## 📌 One game, many stages
 
 It can still be **one** continuous game: you **spawn in a stage** (childhood, country, class) and **unlock or fall into** others. Possibilities **feel** infinite but stay **bounded by what operators surface**—curriculum, feeds, borders, money, visibility.
 
-## Stories that rhyme (simulation, trainer, continuity)
+## 📌 Stories that rhyme (simulation, trainer, continuity)
 
 Different IPs reuse the **same moves**:
 
@@ -125,7 +125,7 @@ Different IPs reuse the **same moves**:
 
 None of this requires believing in literal writers in the sky—it is a **map of recurring plot grammar** you can overlay on how cultures tell **life**.
 
-## Cycles, kids, and the researcher’s problem
+## 📌 Cycles, kids, and the researcher’s problem
 
 Life **feels cyclic**: some pressures are **hard to dodge** (need for food, care, belonging, meaning, reproduction as a species-level drumbeat). Cultures argue about **how many** kids, **when**, **with whom**—not too many, not too few—but the **theme** keeps returning. In the full world there is **room for almost everything**; in a **stripped game abstraction** the engine does not **need** any particular content—empty maps are valid—which is why **interesting** runs add **stakes, variety, and loose rules** instead of a single long checklist everyone obeys without friction.
 
@@ -135,58 +135,58 @@ If you model reality as a **video game**, the **operator** can look like a **res
 
 The **Architect** is whoever you imagine **with write access** ([ring 2](#machine-onion-computer-power-display-instances-you)—few can change the game; many only **watch** the display). In metaphor they **have access** to the run: **pause, fork, delete, restart**—useful for thought experiments about **agency**, **finitude**, and **why the next generation is never the last episode**.
 
-## Dark Souls loop (psychological)
+## 📌 Dark Souls loop (psychological)
 
 **Bosses** and **hostile others** read as encounters whose job is to **stop your run**. You **respawn** near where you fell.
 
 On a **day scale**: **wake** ≈ **load checkpoint**; you push until you are spent; **sleep** ≈ **soft death**—you **resume** tomorrow close to where you stopped. **Repeat** until **permanent death**.
 
-## Continuity and judgment
+## 📌 Continuity and judgment
 
 After **permanent death**, ask about **continuity** in [life-flow-judgment.md](life-flow-judgment.md): **summarize → evaluate debt → pay / branch → re-queue** (or whatever you take from that diagram). This file is **structure and daily feel**; that file is **accounting and the long loop**.
 
-## Why people follow rules (online server)
+## 💡 Why people follow rules (online server)
 
 Locally you could imagine **spawn/delete** and **free metadata edits**. In practice, coordination looks more like an **online** game: **shared server**, **same build** for everyone.
 
 **League of Legends analogy:** **Riot** ≈ operator with **little incentive to sabotage its own ruleset**; the client is **common**; you **pick a champion** with **almost no access to their hardware**. You **play the instance** they maintain.
 
-## Corruption and unprovable targeting
+## 📌 Corruption and unprovable targeting
 
 Even with **security**, **probability** and **bad actors** exist. Picture **one account** getting **rigged crits** in **one match**, then never again—**looks random**, **hard to prove**. Metaphor for **selective harm, bad luck, or institutional caprice** without a smoking gun.
 
-## Tactical HUD
+## 📌 Tactical HUD
 
 **What this is:** the **current-state** sheet for this metaphor stack: where you live and work, runway shape, and **active branches** you are weighing. **No invented numbers here**—fill from your real sources (bank app, employer, calendar).
 
 **Design doc (slow):** [life-arc.md](life-arc.md) · **Metaphor routing:** [metaphors.md](metaphors.md) · **Execution:** [../plan/README.md](../plan/README.md) · [../plan/rules/priority.md](../plan/rules/priority.md) · [../plan/rules/governance.md](../plan/rules/governance.md)
 
-### Geography and work mode
+### 🎤 Geography and work mode
 
 - **Living / base:** *(city, housing situation — optional to write)*
 - **Work arrangement:** *(employer / remote / hybrid — optional)*
 
-### Runway and money rhythm
+### 📌 Runway and money rhythm
 
 - **Runway / cushion (qualitative):** *(e.g. comfortable / tight / emergency — update when it shifts)*
 - **Net worth or detailed figures:** keep in **your** spreadsheet or bank tooling; this section can stay **non-numeric** if you prefer.
 
-### Active branches
+### 📌 Active branches
 
 Short bullets for **decisions in flight** (job offers, moves, visa threads, etc.). When a branch closes, **archive** the bullet or move detail out of this repo.
 
 - *(branch one)*
 - *(branch two)*
 
-### Re-spec notes
+### 📝 Re-spec notes
 
 When reality changes, name **what actually moved** (constraint or opportunity)—same spirit as [life-arc.md](life-arc.md) “timing beats perfect planning.”
 
-### When to update
+### ❓ When to update
 
 Touch this section when **money**, **work**, or **geography** changes enough that your **next actions** change—not every mood swing. For emotional firefighting and P0 triage, use [../plan/rules/governance.md#when-emotional](../plan/rules/governance.md#when-emotional) and [../plan/rules/priority.md](../plan/rules/priority.md).
 
-## Where to read what
+## 📌 Where to read what
 
 | Topic | Doc |
 |--------|-----|

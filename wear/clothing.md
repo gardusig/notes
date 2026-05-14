@@ -1,10 +1,10 @@
-# Clothing
+# 👕 Clothing
 
 Wardrobe roster. Update counts when you buy or retire items; **Qty 0** means restock candidate.
 
 **Upstream:** [Inventory](README.md)
 
-## Roster
+## 📌 Roster
 
 | Item           | Description             | Qty | Notes                 |
 | -------------- | ----------------------- | --- | --------------------- |

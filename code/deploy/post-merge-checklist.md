@@ -1,4 +1,4 @@
-# Post-merge checklist (stub)
+# ☑️ Post-merge checklist (stub)
 
 **Upstream:** [`README.md`](README.md)
 

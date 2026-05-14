@@ -1,10 +1,10 @@
-# Data flow
+# 🌊 Data flow
 
-## Typical path
+## 📌 Typical path
 
 <Describe request/event → processing → output or persistence.>
 
-## Diagram
+## 📊 Diagram
 
 ```mermaid
 flowchart LR
@@ -12,6 +12,6 @@ flowchart LR
   proc --> out[Output]
 ```
 
-## Failure and retries
+## 📌 Failure and retries
 
 <Where failures surface and how the system recovers.>

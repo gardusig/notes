@@ -1,4 +1,4 @@
-# Movies — watched library
+# 📚 Movies — watched library
 
 Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **Unopinionated queue** (MRU on top in the queue). Under **Liked**, repeat **Franchise** on each row so sorts keep sequels together; within a franchise, sort by **Year** ascending.
 
@@ -6,9 +6,9 @@ Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **
 
 ---
 
-## Liked
+## 📌 Liked
 
-### Harry Potter
+### 📌 Harry Potter
 
 | Franchise    | Title                                         | Year | Runtime | Watched | Details                                                                                    |
 | ------------ | --------------------------------------------- | ---- | ------- | ------- | ------------------------------------------------------------------------------------------ |
@@ -21,7 +21,7 @@ Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **
 | Harry Potter | Harry Potter and the Deathly Hallows – Part 1 | 2010 | 146 min | —       | [IMDb](https://www.imdb.com/title/tt0926084/)                                              |
 | Harry Potter | Harry Potter and the Deathly Hallows – Part 2 | 2011 | 130 min | —       | [IMDb](https://www.imdb.com/title/tt1201607/)                                              |
 
-### Saw
+### 📌 Saw
 
 | Franchise | Title        | Year | Runtime | Watched | Details                                       |
 | --------- | ------------ | ---- | ------- | ------- | --------------------------------------------- |
@@ -36,12 +36,12 @@ Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **
 | Saw       | Spiral       | 2021 | 93 min  | —       | [IMDb](https://www.imdb.com/title/tt10342730/)  |
 | Saw       | Saw X        | 2023 | 118 min | —       | [IMDb](https://www.imdb.com/title/tt19569464/) |
 
-## Disliked
+## 📌 Disliked
 
 | Franchise | Title | Year | Runtime | Watched | Notes | Details |
 | --------- | ----- | ---- | ------- | ------- | ----- | ------- |
 
-## Unopinionated queue
+## 📋 Unopinionated queue
 
 | Title    | Year | Runtime | Watched | Notes        | Details                                      |
 | -------- | ---- | ------- | ------- | ------------ | -------------------------------------------- |

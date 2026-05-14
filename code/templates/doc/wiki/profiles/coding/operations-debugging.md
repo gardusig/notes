@@ -1,9 +1,9 @@
-# Debugging
+# 🐛 Debugging
 
-## Common issues
+## 🎫 Common issues
 
 <Symptoms, causes, fixes.>
 
-## Logs and traces
+## 📌 Logs and traces
 
 <Where to look when things fail.>

@@ -1,14 +1,14 @@
-# Skeleton: data table (reference section only)
+# 💾 Skeleton: data table (reference section only)
 
 **Conventions:** [`markdown-and-docs-conventions.md`](markdown-and-docs-conventions.md)
 
 Use **inside** a **`docs/`** page **after** the index—**never** as the **Contents** list. **Sort rows** by the **first column lexicographically**. After the table, add a **short callout** for the **largest** row(s).
 
-## When to use
+## ❓ When to use
 
 - Many sibling **types** (DTOs, models, messages, config keys) where **per-row size or cost** helps reviewers.
 
-## Column pattern (adapt labels)
+## 📌 Column pattern (adapt labels)
 
 | Type / name | Required payload (avg) | Optional (est.) | Notes |
 | --- | --- | --- | --- |

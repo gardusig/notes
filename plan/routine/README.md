@@ -1,15 +1,15 @@
-# Routine
+# 🔁 Routine
 
 Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bounded daily practice** (puzzles, language apps). **How you pick work** (P0–P4, surfaces) stays in [`../rules/priority.md`](../rules/priority.md) and [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context). **Principles and risk framing** — [`../rules/governance.md`](../rules/governance.md) · [`../rules/README.md`](../rules/README.md).
 
 **Upstream:** [Notes root](../../README.md) · [Tasks hub](../README.md)
 
-## When to update
+## ❓ When to update
 
 1. When times, cadences, or targets in any routine file stop matching reality.
 2. When you add or drop a recurring habit and need the index below to stay honest.
 
-## Index
+## 📑 Index
 
 | File | Role |
 | --- | --- |
@@ -21,7 +21,7 @@ Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bou
 | **[maintenance.md](maintenance.md)** | Weekly / monthly / long-term home tasks; pointers to recurring mirror. |
 | **[daily-practice.md](daily-practice.md)** | Chess, puzzles, LinkedIn, Duolingo — bounded habits, lagging metrics. |
 
-## Core flow (summary)
+## 🌊 Core flow (summary)
 
 1. Night routine → sleep  
 2. Morning routine  
@@ -29,7 +29,7 @@ Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bou
 4. Nutrition and hydration  
 5. Repeat  
 
-## Mandatory daily rules
+## ☀️ Mandatory daily rules
 
 - Brush teeth after every meal  
 - Morning drink (e.g. juice you use as a habit anchor) every morning  
@@ -42,7 +42,7 @@ Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bou
 - Top task defined before starting work — [`../../README.md#daily-capture-and-modes`](../../README.md#daily-capture-and-modes)  
 - Water before any meal  
 
-## Core activities (at a glance)
+## 📌 Core activities (at a glance)
 
 | Activity | Frequency / note |
 | --- | --- |

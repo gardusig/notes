@@ -1,12 +1,12 @@
-# Plan wiki templates
+# 📋 Plan wiki templates
 
 Wiki-first templates for plan shaping and execution handoff.
 
-## Hub
+## 🗂️ Hub
 
 Use these templates to shape execution plans before coding.
 
-## Plan brief template
+## 📋 Plan brief template
 
 ```markdown
 ## Goal
@@ -47,7 +47,7 @@ Use these templates to shape execution plans before coding.
 - [ ] ...
 ```
 
-## Pre-write QA template
+## 📋 Pre-write QA template
 
 ```markdown
 ## Assumptions
@@ -67,7 +67,7 @@ Use these templates to shape execution plans before coding.
 - Execute the confirmed write operations.
 ```
 
-## Domain templates
+## 📋 Domain templates
 
 Use the same shape across domains:
 
@@ -97,7 +97,7 @@ Apply this to:
 - integration tests
 - unit tests
 
-## Related
+## 📌 Related
 
 - [`README.md`](README.md)
 - [`work-plan-with-issue.md`](work-plan-with-issue.md)

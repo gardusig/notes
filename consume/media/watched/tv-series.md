@@ -1,4 +1,4 @@
-# TV series — watched library
+# 📚 TV series — watched library
 
 Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **Unopinionated queue** (MRU on top in the queue).
 
@@ -6,17 +6,17 @@ Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **
 
 ---
 
-## Liked
+## 📌 Liked
 
 | Title | Coverage | Years | Total duration | Details |
 | ----- | -------- | ----- | -------------- | ------- |
 
-## Disliked
+## 📌 Disliked
 
 | Title | Coverage | Years | Total duration | Notes | Details |
 | ----- | -------- | ----- | -------------- | ----- | ------- |
 
-## Unopinionated queue
+## 📋 Unopinionated queue
 
 | Title            | Coverage    | Years   | Total duration | Details                                                                                    |
 | ---------------- | ----------- | ------- | -------------- | ------------------------------------------------------------------------------------------ |

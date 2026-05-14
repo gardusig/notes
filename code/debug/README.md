@@ -1,4 +1,4 @@
-# Debug: task readiness (idea → plan → work)
+# 🐛 Debug: task readiness (idea → plan → work)
 
 **Upstream:** [`../README.md`](../README.md)
 
@@ -12,7 +12,7 @@ For **production** tracing (DevTools, dashboards, post-deploy UI), use **[`../ob
 
 Team-specific dashboard URLs, service names, and escalation live in [`../../setup/work.md`](../../setup/work.md).
 
-## Task resolution (idea → plan → work)
+## 📋 Task resolution (idea → plan → work)
 
 | Page | Role |
 | --- | --- |
@@ -25,7 +25,7 @@ Team-specific dashboard URLs, service names, and escalation live in [`../../setu
 
 **Short overview:** Most friction comes from **under-specified intent** or **under-loaded context**. Capture intent early, invest in **plan quality** when the task surfaces, then let implementation be mostly **mechanical**.
 
-## See also
+## 📌 See also
 
 - [`task-resolution-lifecycle.md`](task-resolution-lifecycle.md) — one-line index of the phase pages above
 - [`../craft-issue/creativity/create-engineering-task.md`](../craft-issue/creativity/create-engineering-task.md) — ticket shape

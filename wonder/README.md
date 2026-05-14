@@ -1,10 +1,10 @@
-# Wonder — conceptual notes
+# ✨ Wonder — conceptual notes
 
 Personal wiki pages for **metaphors, life framing, and judgment models**. All content here is **for future-you**, not prescriptive for others.
 
 **Upstream:** [Notes root](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`life-arc.md`](life-arc.md) — long-arc goals, HUD, north-star questlines.
 2. [`life-flow-judgment.md`](life-flow-judgment.md) — birth–death flow, optional judgment nodes, mermaid maps.

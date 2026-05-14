@@ -1,4 +1,4 @@
-# Governance — principles
+# 🏛️ Governance — principles
 
 Philosophy and **ordered life priorities** live here. **Procedures** (P0–P4, surfaces, pick-one-task) live in [`priority.md`](priority.md); task surfaces and context in [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context); recurring mirror in [`../recurring.md`](../recurring.md). **Expanded operating rules, emotional routing, risk ladder (A–E), and decision timing** — [Rules hub](README.md) · [emotional-routing.md](emotional-routing.md) · [risk-tiers.md](risk-tiers.md) · [decisions.md](decisions.md).
 
@@ -13,13 +13,13 @@ Philosophy and **ordered life priorities** live here. **Procedures** (P0–P4, s
 7. **Achievement** — direction
 8. **Reflection** — avoid repeated mistakes
 
-## When emotional
+## 💭 When emotional
 
 If mood is unstable or the day is “on fire,” **triage P0** (health/safety) first, then **one** smallest concrete step on the next allowed task. Do not optimize the whole board while spun up — stabilize, then re-open [`priority.md`](priority.md).
 
 **Fast map** (what to open, stabilization sequence) — [emotional-routing.md](emotional-routing.md).
 
-## Risk tiers
+## ⚡ Risk tiers
 
 **Coarse filter** (not legal advice) — use this for day-to-day weighting:
 
@@ -31,13 +31,13 @@ When unsure, bias toward **writing the next step on a board** instead of holding
 
 **Expanded ladder (Tier A–E)** for new travel, spend, and gray-area choices — [risk-tiers.md](risk-tiers.md). **Moral framing, repeat vs new, delayed complexity** — [decisions.md](decisions.md).
 
-## Thoughts vs execution
+## 📌 Thoughts vs execution
 
 Conceptual framing only: if something is **not** the next physical step of your current top task and it keeps looping, **externalize** (name it, put it on the right queue), then **return** to the task you already chose. **Which surface and which step** — [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context) and [`priority.md`](priority.md).
 
 Queues hold the **backlog**; `plan/rules/priority.md` holds **how you pick**.
 
-## Long arc
+## 📌 Long arc
 
 Milestones, build ladder, and multi-month intent — **meaning and ordering** live here as you extend this section. **Idle weighting and surfaces** — [`../README.md#long-arc-execution-tie-in`](../README.md#long-arc-execution-tie-in).
 

@@ -1,8 +1,8 @@
-# Naruto playlists
+# 🎵 Naruto playlists
 
 **Upstream:** [Music — playlists](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`naruto-cursed-seal.md`](naruto-cursed-seal.md) — playlist stub and track table.
 2. [`naruto-orochimaru.md`](naruto-orochimaru.md) — playlist stub and track table.

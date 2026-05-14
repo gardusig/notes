@@ -1,6 +1,6 @@
-# Android phone — street carry (battery-first)
+# 🎒 Android phone — street carry (battery-first)
 
-## Purpose
+## 🎯 Purpose
 
 This note is for a **daily-carry Android phone** used **outside the home**: maps, transit, chat, shopping, and **Pix** / banking **apps** on a **SIM** with mobile data. **Battery life** is the main hardware priority—**SoC tier and flagship specs are optional**; mid-range phones with a **large battery** and efficient screen often win over thin flagships.
 
@@ -8,7 +8,7 @@ This note is for a **daily-carry Android phone** used **outside the home**: maps
 
 ---
 
-## Summary
+## 📌 Summary
 
 - **Hardware:** Choose phones known for **endurance** (big battery mAh, sane display resolution/refresh, efficient chip). **Any** spec tier that meets your performance floor is fine—do not overbuy for CPU benchmarks.
 - **Battery (ballpark):** On a **new** **battery-first** handset (~**4500–6000 mAh**, efficient SoC, 1080p-class display), expect about **6–10 h screen-on** on a **light** street day or **4–7 h** on a **heavy** day (long maps, cellular video)—see **[Battery life (rough estimates)](#battery-life-rough-estimates)**.
@@ -19,7 +19,7 @@ This note is for a **daily-carry Android phone** used **outside the home**: maps
 
 ---
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Summary](#summary)
@@ -43,11 +43,11 @@ This note is for a **daily-carry Android phone** used **outside the home**: maps
 
 ---
 
-## Setup & installation
+## ⚙️ Setup & installation
 
-### Initial setup
+### ⚙️ Initial setup
 
-#### Basic configuration
+#### 📌 Basic configuration
 
 1. Connect to Wi-Fi
 2. Sign in with your Google account
@@ -55,12 +55,12 @@ This note is for a **daily-carry Android phone** used **outside the home**: maps
 
 **Settings → System → Software Update**
 
-#### SIM and mobile data
+#### 📌 SIM and mobile data
 
 - **Get a SIM** (chip) with a data plan that matches how you move: maps, ride-hail, Pix, and messaging should work when you are off Wi‑Fi.
 - After install, confirm **mobile data** and (if you want) **VoLTE / Wi‑Fi Calling** in **Settings → Network & internet → SIMs** (wording varies by manufacturer).
 
-#### Video quality (battery and data)
+#### ✨ Video quality (battery and data)
 
 Street use is easier when video apps are not always pegged at the highest bitrate.
 
@@ -68,26 +68,26 @@ Street use is easier when video apps are not always pegged at the highest bitrat
 - **Other streaming** (Netflix, Twitch, Kick, etc.): set **Standard** or **data-saving** quality for cellular (and optionally for Wi‑Fi if you want less heat and drain).
 - **System display:** If your phone offers a **resolution** or **FHD+ / HD+** toggle under **Settings → Display**, stepping down can help a bit with GPU load and battery on long days.
 
-#### Google Wallet — voter ID only, no payment cards
+#### 📌 Google Wallet — voter ID only, no payment cards
 
 - **Do not** add **credit or debit cards** to **Google Wallet** / **Google Pay** for **contactless payment** on this phone—pay with **Pix** and banking **apps** instead, and keep cards off the device if it is lost or stolen.
 - **Do** install **e-Título** (Government below) and, if the system offers it, add **only** **elector / voter** credentials to the wallet so you still have **proof of identity** if you lose your physical **RG** or wallet—treat it as an emergency document layer, not a payment stack.
 
-#### Security
+#### 📌 Security
 
 **Settings → Security**
 
 - Enable **Fingerprint / Face Unlock**
 - Set **Screen Lock (PIN or password)**
 
-#### Backup
+#### 📌 Backup
 
 **Settings → Google → Backup**
 
 - Enable automatic backup
 - Ensures recovery of apps, contacts, and settings
 
-### Home screen layout
+### 📌 Home screen layout
 
 Everything below fits **one home screen** with a few folders; other apps may stay installed for **rare** needs (Authenticator, Chrome, camera tools, etc.) without sitting on the grid.
 
@@ -111,7 +111,7 @@ Everything below fits **one home screen** with a few folders; other apps may sta
 
 Other installs (e.g. **Moovit**, **Waze**, **Mercado Livre**, **Bitwarden**) are optional: use when needed, keep limits and lock screen strict.
 
-### Google account & services
+### 📌 Google account & services
 
 Your Google account enables:
 
@@ -122,28 +122,28 @@ Your Google account enables:
 - Google Photos backup
 - Device tracking (Find My Device)
 
-### Banking & payments
+### 📌 Banking & payments
 
 Banks and **Pix**—**only** **Itaú** and **Nubank** on this phone so the handset stays **easy to replace**: reinstall two apps, restore limits, move on. Do **not** add cards to **Google Wallet** here (see Initial setup).
 
-#### Why two banks only
+#### 💡 Why two banks only
 
 You carry this device **in public** every day. A stolen or **shoulder-surfed** unlock hurts less with **two** institutions and **low** caps than with a full mirror of your financial life. **CAIXA**, **C6**, **brokerages**, **Tesouro**, and **extra** wallets live on **desktop**, **branch**, or a **home iPhone** if you use one.
 
-#### Policy — low limits, alerts
+#### 📌 Policy — low limits, alerts
 
 - In **Itaú** and **Nubank**, set the **lowest daily outgoing limit** you can live with for **Pix / TED / transfers** (and **card-out**, if exposed). Treat **~R$ 10.000/day** as an **upper** ceiling some banks offer—not a **target**; many people stay at **R$ 500–R$ 2.000/day** and raise temporarily from **home** when needed.
 - Turn on **SMS / push / email** for **Pix** out, **TED**, new devices, and **large** debits.
 - **Emergency:** need another bank for one transaction—use **home iPhone**, **web**, or install a third app **temporarily**, then remove it.
 
-#### Apps on this phone
+#### 📌 Apps on this phone
 
 | App    | Description |
 | ------ | ----------- |
 | **Itaú** | Traditional banking and Pix. |
 | **Nubank** | Digital bank (Pix, account, card **in-app**—not as a Wallet tap-to-pay token). |
 
-### Travel
+### 📌 Travel
 
 Lodging, maps, ride-hail, long-distance bus, and food delivery in one folder.
 
@@ -157,7 +157,7 @@ Lodging, maps, ride-hail, long-distance bus, and food delivery in one folder.
 | **iFood**      | Restaurant and grocery delivery. |
 | **99**         | Taxis and ride-hail (Brazil). |
 
-### Government
+### 📌 Government
 
 Wallet policy stays **voter ID only** in **Google Wallet** (Initial setup); these apps handle **transactions and proofs** in their own ecosystems.
 
@@ -170,7 +170,7 @@ Wallet policy stays **voter ID only** in **Google Wallet** (Initial setup); thes
 
 Other **gov** apps (**Receita**, **INSS**, **CDT**, state **Detran**, etc.) stay on **home iPhone** or desktop unless you deliberately add them for a trip.
 
-### Entertainment
+### 📌 Entertainment
 
 | App               | Description |
 | ----------------- | ----------- |
@@ -183,14 +183,14 @@ Other **gov** apps (**Receita**, **INSS**, **CDT**, state **Detran**, etc.) stay
 
 **Backup storage:** If your phone supports removable storage, keep **large downloads**, **offline** music/video, and **Stremio** cache there so internal storage stays light. Track what you keep in the media library at **[consume/media/README.md](../consume/media/README.md)**.
 
-### Communication
+### 📌 Communication
 
 | App          | Description |
 | ------------ | ----------- |
 | **Duolingo** | Language practice (daily streak fits street downtime). |
 | **WhatsApp** | Messaging and calls (default for Brazil). |
 
-### Google apps suite
+### 📌 Google apps suite
 
 Google apps **beyond** the home row and folder list—often installed, opened less often.
 
@@ -209,7 +209,7 @@ Google apps **beyond** the home row and folder list—often installed, opened le
 
 **Gemini**, **Gmail**, **Keep**, **Maps**, **Files**, **YouTube**, and **YouTube Music** are covered in **[Home screen layout](#home-screen-layout)** and **[Travel](#travel)** / **[Entertainment](#entertainment)**.
 
-### Utilities & tools
+### 📌 Utilities & tools
 
 Third-party tools useful but **not** on the main grid by default.
 
@@ -221,11 +221,11 @@ Third-party tools useful but **not** on the main grid by default.
 | Telegram   | Backup chat / large groups if **WhatsApp** is down. |
 | VLC        | Odd video formats offline or from links. |
 
-### Games
+### 📌 Games
 
 **Puzzle-first** list: **low** GPU load, good for **queues** and **battery**. Skip **gacha** / **idle** **grinders** on this device if you want the phone to stay **boring** and **safe**. Names vary on the Play Store—pick **well-rated** listings with **few** intrusive ads.
 
-#### Classic and paper-era puzzles
+#### 🧩 Classic and paper-era puzzles
 
 | App / style   | Description |
 | ------------- | ----------- |
@@ -240,7 +240,7 @@ Third-party tools useful but **not** on the main grid by default.
 | **Number Sums** | **KenKen**-style arithmetic cages (or similar **sum** puzzles). |
 | **Sudoku**    | **9×9** (and variants); dozens of **clean** apps—choose **no-account** if possible. |
 
-#### Modern puzzle games
+#### 🧩 Modern puzzle games
 
 | App / title        | Description |
 | ------------------ | ----------- |
@@ -255,9 +255,9 @@ Third-party tools useful but **not** on the main grid by default.
 
 ---
 
-## What to buy & price expectations
+## 🛒 What to buy & price expectations
 
-### Battery and endurance first
+### 📌 Battery and endurance first
 
 When choosing a handset:
 
@@ -265,7 +265,7 @@ When choosing a handset:
 - **Mid-range** models from reputable brands often beat **last year’s flagship** on **time off charger** for the same money.
 - **Charging:** **fast charge** is convenient; **battery health** over **years** still favors not living at 100% heat all day if your ROM exposes charge limits.
 
-### Battery life (rough estimates)
+### 🌿 Battery life (rough estimates)
 
 Numbers are **order-of-magnitude** for a **healthy** battery on phones **matching this guide’s “big battery / sane screen” idea**. Real life swings with **brightness**, **5G**, **temperature**, **rogue apps**, and **age** (after **1–2 years** you might see **~15–25%** less endurance than when new).
 
@@ -278,11 +278,11 @@ Numbers are **order-of-magnitude** for a **healthy** battery on phones **matchin
 
 **Thin flagships** (~**3500–4000 mAh**) can land **~20–40%** below these **screen-on** bands unless you are careful with settings.
 
-### Specs are flexible
+### 📌 Specs are flexible
 
 - You do **not** need the latest flagship **CPU** for the app set in this note; prioritize **RAM** (6–8 GB+ for comfortable multitasking), **storage** (128 GB minimum for photos + offline media, especially if you keep large downloads), and **LTE/5G** band support for your carrier.
 - **Software support:** favor vendors with a **clear update policy** if you plan to keep the phone **3+ years**.
 
-### Money
+### 📌 Money
 
 - **Prices in Brazil** swing with promos—check **Kabum**, **Pichau**, **Amazon.com.br**, carrier **installment** deals, and **used** markets if you accept battery wear risk.

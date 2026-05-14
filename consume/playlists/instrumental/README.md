@@ -1,8 +1,8 @@
-# Instrumental playlists
+# 🎵 Instrumental playlists
 
 **Upstream:** [Music — playlists](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`instrumental-hypnotize.md`](instrumental-hypnotize.md) — playlist stub and track table.
 2. [`instrumental-soundtrack.md`](instrumental-soundtrack.md) — playlist stub and track table.

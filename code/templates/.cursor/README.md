@@ -1,10 +1,10 @@
-# Per-repo `.cursor/` bundle (reference)
+# 📌 Per-repo `.cursor/` bundle (reference)
 
 **Upstream:** [`../README.md`](../README.md) (template hub)
 
 This path is **documentation only**: it does **not** duplicate the markdown under [`../`](../). Use it as an **all-in-one map** for what to create under **another repo’s** `.cursor/` so agents, rules, and pasteables stay predictable.
 
-## Purpose
+## 🎯 Purpose
 
 | Goal | How this helps |
 | --- | --- |
@@ -16,7 +16,7 @@ Paths below name folders **inside the target repo** (e.g. `my-service/.cursor/�
 
 ---
 
-## Recommended tree (target repo)
+## 📌 Recommended tree (target repo)
 
 ```text
 .cursor/
@@ -38,7 +38,7 @@ Paths below name folders **inside the target repo** (e.g. `my-service/.cursor/�
 
 ---
 
-## What goes where
+## 📌 What goes where
 
 | Location in target repo | Role | Populate how |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Paths below name folders **inside the target repo** (e.g. `my-service/.cursor/�
 
 ---
 
-## Map: template pack → `.cursor/templates/`
+## 📋 Map: template pack → `.cursor/templates/`
 
 All sources live under **`code/templates/`** in this notes repo.
 
@@ -74,9 +74,9 @@ After copying, add one line in the target repo **README** or **CONTRIBUTING**: �
 
 ---
 
-## Bundles (minimal → standard → docs-heavy)
+## 📌 Bundles (minimal → standard → docs-heavy)
 
-### Minimal (issues + PRs only)
+### 🎫 Minimal (issues + PRs only)
 
 Good for small libs: fast PR/issue hygiene without doc wiki weight.
 
@@ -91,7 +91,7 @@ cp code/templates/shared/title.md "$T/shared/"
 
 Adjust `code/templates/` prefix if your clone layout differs.
 
-### Standard (minimal + git + diagrams + readme/doc helpers)
+### 📊 Standard (minimal + git + diagrams + readme/doc helpers)
 
 Good default for services you ship from often.
 
@@ -113,7 +113,7 @@ mkdir -p "$T/fullstack"
 cp code/templates/fullstack/*.md "$T/fullstack/"
 ```
 
-### Docs-heavy (+ wiki profiles + API stubs)
+### 🔌 Docs-heavy (+ wiki profiles + API stubs)
 
 Copy only the **profiles** you need from [`../doc/wiki/profiles/`](../doc/wiki/profiles/) to avoid noise.
 
@@ -127,7 +127,7 @@ Trim unused profile folders after copy.
 
 ---
 
-## Rules of thumb
+## 📌 Rules of thumb
 
 1. **Prefer small rule files** over one megabyte rule—match [`../../craft-issue/maintenance/repo-bootstrap.md`](../../craft-issue/maintenance/repo-bootstrap.md).
 2. **Templates are optional**; rules matter more for consistent agent behavior.
@@ -136,7 +136,7 @@ Trim unused profile folders after copy.
 
 ---
 
-## See also
+## 📌 See also
 
 - [`../../craft-issue/maintenance/repo-bootstrap.md`](../../craft-issue/maintenance/repo-bootstrap.md) — full `.cursor/` checklist, terminal pin, `AGENTS.md`.
 - [`../README.md`](../README.md) — numbered **template areas** and human-oriented index of pasteables.

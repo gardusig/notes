@@ -1,8 +1,8 @@
-# Workflows
+# 🔁 Workflows
 
 End-to-end flows that explain how the system behaves in real scenarios.
 
-## Contents
+## 📌 Contents
 
 <!-- Add one doc per important flow -->
 

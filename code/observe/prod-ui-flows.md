@@ -1,10 +1,10 @@
-# Debug prod and UI flows (post-deploy / on-call style)
+# 🐛 Debug prod and UI flows (post-deploy / on-call style)
 
 **Upstream:** [`../README.md`](../README.md)
 
 **Method** for tracing failures across **browser**, **APIs**, and **cloud** without duplicating **team-specific** links. Put **dashboard URLs, service names, log queries, and escalation** in [`../../setup/work.md`](../../setup/work.md) (*Debug runbook*, *On-call*, *Verify deployed results*).
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [End-to-end flow](#end-to-end-flow)
@@ -15,13 +15,13 @@
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 After a deploy or during an incident, you need a **repeatable** way to decide: **client bug**, **backend bug**, **config**, or **data**. This page is the generic recipe; your **private** runbook holds the bookmarks.
 
 ---
 
-## End-to-end flow
+## 🌊 End-to-end flow
 
 ```mermaid
 flowchart LR
@@ -42,7 +42,7 @@ flowchart LR
 
 ---
 
-## Chrome DevTools: Network
+## 📌 Chrome DevTools: Network
 
 | Step | What to do |
 | --- | --- |
@@ -57,7 +57,7 @@ Use this to answer: “Did the front end send the wrong thing?” vs “Did the 
 
 ---
 
-## Cloud console (read-only)
+## 📌 Cloud console (read-only)
 
 Use **read-only** roles where possible.
 
@@ -72,13 +72,13 @@ Paste **no secrets** into agent chat; describe symptoms and use **redacted** sni
 
 ---
 
-## Dashboards
+## 📌 Dashboards
 
 Bookmark a **small** set per service: **RPS / errors / latency**, **SLO** or burn, **logs** or **traces** with a deep link template. During an incident, prefer **one** dashboard you know over ten half-familiar ones. Maintain the actual list under [`../../setup/work.md`](../../setup/work.md).
 
 ---
 
-## Handoff to incident or ticket
+## 📌 Handoff to incident or ticket
 
 When you escalate:
 

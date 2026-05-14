@@ -1,4 +1,4 @@
-# <Repository Name>
+# 📌 <Repository Name>
 
 > Use for the **repository root** `README.md` on a typical software project. Adjust sections your team does not need.
 

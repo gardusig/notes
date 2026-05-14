@@ -1,4 +1,4 @@
-# Anime — watched library
+# 📚 Anime — watched library
 
 Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **Unopinionated queue** (MRU on top in the queue).
 
@@ -6,17 +6,17 @@ Everything here is **finished**. Each row sits in **Liked**, **Disliked**, or **
 
 ---
 
-## Liked
+## 📌 Liked
 
 | Title | Coverage | Release years | Total duration | Details |
 | ----- | -------- | ------------- | -------------- | ------- |
 
-## Disliked
+## 📌 Disliked
 
 | Title | Coverage | Release years | Total duration | Notes | Details |
 | ----- | -------- | ------------- | -------------- | ----- | ------- |
 
-## Unopinionated queue
+## 📋 Unopinionated queue
 
 | Title       | Coverage                       | Release years | Total duration | Details                                                                                    |
 | ----------- | ------------------------------ | ------------- | -------------- | ------------------------------------------------------------------------------------------ |

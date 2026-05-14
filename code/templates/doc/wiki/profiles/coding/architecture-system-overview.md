@@ -1,20 +1,20 @@
-# System overview
+# 🏗️ System overview
 
-## Purpose
+## 🎯 Purpose
 
 <What the system does for users or callers.>
 
-## Major components
+## 📌 Major components
 
 | Component | Responsibility |
 | --- | --- |
 | <name> | <one line> |
 
-## Boundaries
+## 📌 Boundaries
 
 <What is in scope vs delegated to external systems.>
 
-## Diagram
+## 📊 Diagram
 
 ```mermaid
 flowchart TB

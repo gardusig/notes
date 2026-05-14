@@ -1,4 +1,4 @@
-# Align local `main` to canonical remote
+# 📌 Align local `main` to canonical remote
 
 Make **`main`** match the **canonical** remote branch your team treats as source of truth. **Destructive** (`reset`, `clean`): confirm with the repo owner or runbook before proceeding.
 

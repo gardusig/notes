@@ -1,4 +1,4 @@
-# Branch naming (git-only)
+# 🔀 Branch naming (git-only)
 
 Derive **`BRANCH`** from user context. If you need the **live** GitHub issue title, run **`gh issue view N`** (or the web UI) before naming the branch.
 

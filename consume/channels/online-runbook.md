@@ -1,4 +1,4 @@
-# Online feeds — habit runbook
+# 📖 Online feeds — habit runbook
 
 How to use **live and algorithmic feeds** (YouTube, Twitch, broadcast streams) as a **habit**, not as a substitute for logged film/TV. For watched titles and queues, see **[media/README.md](../media/README.md)**. For **concrete Twitch/live follows**, see **[live-channels.md](live-channels.md)**.
 
@@ -6,18 +6,18 @@ How to use **live and algorithmic feeds** (YouTube, Twitch, broadcast streams) a
 
 ---
 
-## IRL reset
+## ↩️ IRL reset
 
 When you feel **too far from reality**, bias toward **what is happening now**: live streams (Twitch, YouTube Live), esports broadcasts (for example regional leagues or international events), or speedrun marathons. Treat them as a **time anchor** and a sample of current culture—not as your default “always on” entertainment. Pair with real-world contact or errands when possible so the feed is not the only tether.
 
-## Subscriptions
+## 📌 Subscriptions
 
 - **Prune on purpose.** Many subscriptions are from earlier phases; they shape the home feed whether you watch them or not.
 - **Add when there is a recurring need**, not on impulse mid-scroll.
 - **Review removals** on a simple cadence (calendar or recurring task): if a channel has not earned a slot in months, unsubscribe or move it to a list outside the algorithm (saved playlist, note, “investigate later” in Keep).
 - **Defer investigation:** if something might be useful later, capture the name/link for later search instead of subscribing immediately.
 
-## Background feed policy
+## 📌 Background feed policy
 
 - **Ambient use is allowed** when the goal is company, texture, or low-focus stimulation—not when you need deep work unless you have tested that pairing.
 - **Match audio to the moment:** sometimes voices help; sometimes music-only or visuals-only works better. Switch instead of tolerating friction.
@@ -25,7 +25,7 @@ When you feel **too far from reality**, bias toward **what is happening now**: l
 - **If it truly matters**, wait a few days and watch deliberately; do not treat urgency in the feed as a moral emergency.
 - **Movies** are a poor default for this lane (heavy commitment, less “habit” signal). **TV series** (especially rewatches) can support **flow** and comfort; keep long-form fiction mostly in **[media/README.md](../media/README.md)**.
 
-## English vs PT/ES stream
+## 📌 English vs PT/ES stream
 
 Split **by job**, not by snobbery:
 
@@ -36,7 +36,7 @@ Split **by job**, not by snobbery:
 
 **Entertainment that crosses languages:** sports finals, gaming events, speedruns—pick the commentary track that keeps you grounded, not the one that pulls you into rage-bait.
 
-## Deny list (ambient feed)
+## 📌 Deny list (ambient feed)
 
 These patterns are **not recommended as always-on or idle background**. If you choose them, treat that as **intentional viewing** (seated, bounded session), same rule as below for high-risk categories.
 
@@ -62,7 +62,7 @@ These patterns are **not recommended as always-on or idle background**. If you c
 
 Phrasing is about **categories**, not individuals.
 
-## Seek list
+## 📌 Seek list
 
 What to **actively** hunt when you open the app on purpose:
 
@@ -75,7 +75,7 @@ What to **actively** hunt when you open the app on purpose:
 - **YouTube works best when you already know the target** (channel, playlist, or search string). The recommendation bubble is hard to escape once you are inside it.
 - **Live** can answer “what are people doing **now**?” for ideas and cultural temperature—**optional**, not mandatory homework.
 
-## Emergency calm content
+## 🌙 Emergency calm content
 
 When you need **regulation** (anxiety spike, insomnia spiral, “too much internet brain”):
 

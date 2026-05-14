@@ -1,10 +1,10 @@
-# Template hub — wiki profile: coding
+# 📋 Template hub — wiki profile: coding
 
 Application-facing documentation stubs: architecture, modules, data layer, ops runbooks, coding standards.
 
 **Upstream:** [Wiki profiles](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`architecture-README.md`](architecture-README.md) — architecture hub README pattern.
 2. [`architecture-data-flow.md`](architecture-data-flow.md) — data movement narrative.

@@ -1,4 +1,4 @@
-# Books
+# 📖 Books
 
 **Upstream:** [read/README.md](README.md)
 
@@ -6,7 +6,7 @@ Sort each section **title A–Z** unless you use an explicit **`Order`** column.
 
 ---
 
-## Finished
+## 📌 Finished
 
 | Title              | Author           | Notes                                                                 |
 | ------------------ | ---------------- | --------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ Sort each section **title A–Z** unless you use an explicit **`Order`** column.
 
 ---
 
-## To read
+## 📌 To read
 
 | Title | Author | Notes | Details |
 | ----- | ------ | ----- | ------- |

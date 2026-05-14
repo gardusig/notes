@@ -1,4 +1,4 @@
-# Hydration
+# 💧 Hydration
 
 **Upstream:** [Routine hub](README.md) · [diet.md](diet.md)
 

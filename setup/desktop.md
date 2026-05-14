@@ -1,6 +1,6 @@
-# Desktop PC — AM5 gaming tower (hardware)
+# 🖥️ Desktop PC — AM5 gaming tower (hardware)
 
-## Purpose
+## 🎯 Purpose
 
 This note is the **hardware and shopping** companion to **[windows.md](./windows.md)**. It covers **assembly**, **parts**, **peripherals**, and **GPU upgrade tiers** for a **self-assembled Windows 11–ready tower** built around **AM5** and a **Ryzen APU** (CPU + integrated graphics) so the machine **posts without** a discrete GPU, with a free **PCIe x16** slot for a **dGPU** later.
 
@@ -10,7 +10,7 @@ This note is the **hardware and shopping** companion to **[windows.md](./windows
 
 ---
 
-## Summary
+## 📌 Summary
 
 - **Platform:** **AM5** + **Ryzen 7 8700G** or **Ryzen 5 8600G**, **32 GB DDR5**, **1 TB NVMe** + **4 TB HDD**, **750 W 80+ Gold** PSU, **Wi‑Fi** on the **motherboard**.
 - **Spend (very rough):** **Tower only** about **R$ 6.200 – R$ 9.500**; **full desk** depends on monitor tier and a future **GPU**—see **[Sensible combinations](#sensible-combinations)** and **[What to buy & price expectations](#what-to-buy--price-expectations)**.
@@ -18,7 +18,7 @@ This note is the **hardware and shopping** companion to **[windows.md](./windows
 
 ---
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Summary](#summary)
@@ -33,7 +33,7 @@ This note is the **hardware and shopping** companion to **[windows.md](./windows
 
 ---
 
-## Physical build (short checklist)
+## ☑️ Physical build (short checklist)
 
 1. **Read** the **motherboard** manual for **RAM** slots, **M.2** order, and **front-panel** headers.  
 2. **Install** CPU (careful with **orientation** / **lever**), **M.2 SSD**, **RAM**, then **motherboard** in the **case**; **HDD** in a **cage** with **SATA data + SATA power**.  
@@ -46,9 +46,9 @@ Then follow **[First boot & Windows install](./windows.md#first-boot--windows-in
 
 ---
 
-## What to buy & price expectations
+## 🛒 What to buy & price expectations
 
-### Sensible combinations
+### 📌 Sensible combinations
 
 Use these as **shopping bundles**, not rigid SKUs. Totals **exclude** surge strips, software, and random cables unless noted.
 
@@ -62,13 +62,13 @@ Use these as **shopping bundles**, not rigid SKUs. Totals **exclude** surge stri
 
 **Price sanity:** **Combination A** is the **tower** row only. **B–E** **add** peripherals and/or **GPU** on top—sums overlap with sales; always **re-quote** parts.
 
-### Desktop — tower, storage, PSU, cables
+### 🗄️ Desktop — tower, storage, PSU, cables
 
 **Reference platform:** **AM5** + **Ryzen 7 8700G** or **Ryzen 5 8600G** (**APU**) so the PC **posts without** a video card. One free **PCIe x16** slot waits for a **dGPU**.
 
 **Storage (fixed layout for this guide):** exactly **one NVMe SSD** and **one HDD**. Put **Windows**, launchers, patches, and **heavy / competitive** games on the **SSD**. Use the **HDD** for **backups**, **torrent / media** libraries, and **lighter** games where long load times are OK—**not** for the OS or your main **AAA** stack if you care about snappy loads.
 
-#### Parts list (tower only, indicative BRL)
+#### 📌 Parts list (tower only, indicative BRL)
 
 | Part | Example / spec | Indicative BRL | Notes |
 | ---- | -------------- | -------------- | ----- |
@@ -83,7 +83,7 @@ Use these as **shopping bundles**, not rigid SKUs. Totals **exclude** surge stri
 
 **Rough tower total (no GPU, no monitor, no peripherals):** about **R$ 6.200 – R$ 9.500** with **1 SSD + 1 HDD**, **Wi‑Fi** **motherboard**, and a **solid** PSU—depends on sales and **8600G** vs **8700G**.
 
-#### Cables and small extras (often bought separately)
+#### 📌 Cables and small extras (often bought separately)
 
 The case, board, and PSU include **a lot**, but builds still stall on missing **bits**—or on **one** **scratched** / **lost** small part. Budget these **in addition** to the parts table if needed.
 
@@ -101,7 +101,7 @@ The case, board, and PSU include **a lot**, but builds still stall on missing **
 
 **Usually included with PSU / board (no separate buy):** **IEC** power cord, **SATA power** pigtails from the **PSU** for the **HDD**, **M.2** fastener on the **board** (still buy the **spare kit** above if you lose it), **EPS** and **PCIe** **6+2** modular leads for a future **GPU**.
 
-### While you use only the APU (no discrete GPU yet)
+### 📌 While you use only the APU (no discrete GPU yet)
 
 | Topic | **8700G (780M)** | **8600G (760M)** |
 | ----- | ---------------- | ---------------- |
@@ -113,11 +113,11 @@ The case, board, and PSU include **a lot**, but builds still stall on missing **
 
 **Rule of thumb:** **2D** → almost always **yes** at **1080p**. **Modern AAA 3D** → **low** settings or add a **card** (see **[Discrete GPU upgrades](#discrete-gpu-upgrades)**).
 
-### Peripherals and desk
+### 📌 Peripherals and desk
 
 Everything **outside** the case: display, input, audio. **Networking** is handled by **Wi‑Fi + Bluetooth** on the **motherboard**—screw the **rear antennas** on and route them **above** the **I/O** so they are not **flush** against a **wall**.
 
-#### Monitors (standard vs ultrawide)
+#### 📌 Monitors (standard vs ultrawide)
 
 | Style | Example / spec | Indicative BRL | Notes |
 | ----- | -------------- | -------------- | ----- |
@@ -128,7 +128,7 @@ Everything **outside** the case: display, input, audio. **Networking** is handle
 
 Use a **DisplayPort** cable that matches **bandwidth** (**DP 1.4** typical for **high Hz** **1440p** / **UW**).
 
-#### Keyboard, mouse, mousepad, audio
+#### 📌 Keyboard, mouse, mousepad, audio
 
 | Piece | Example / spec | Indicative BRL | Notes |
 | ----- | -------------- | -------------- | ----- |
@@ -137,7 +137,7 @@ Use a **DisplayPort** cable that matches **bandwidth** (**DP 1.4** typical for *
 | **Mouse (good pick)** | **Logitech G Pro X Superlight 2** (light **esports**), **Razer DeathAdder V3** / **Viper V3** (ergo / ambi), **Glorious Model O 2** (light, wired **or** **wireless**) | R$ 350 – R$ 900 | **Sensor** (**PixArt**-class), **wireless** **2.4 GHz** dongle, **PTFE** feet; wired saves money (**G502 X**, **DeathAdder V3** wired ~**R$ 250–450**). |
 | **Mousepad** | **Large** cloth (**SteelSeries QcK Large** / **XXL**), **Logitech G640**, or **desk**-sized **900×400 mm** generic **stitched** pad | R$ 90 – R$ 280 | **Low** **DPI** **flick** needs **room**; **fast** **pads** (**hard** / **hybrid**) are taste—start **control**-biased **cloth**. |
 
-### Discrete GPU upgrades
+### 📌 Discrete GPU upgrades
 
 After you install a **video card**, plug the **monitor** into the **GPU**, install **NVIDIA** or **AMD** drivers, and use this as a **planning** guide. **BRL** swings wildly—compare **tiers**, not exact reais.
 

@@ -1,4 +1,4 @@
-# To watch — queue by medium and kind
+# 👀 To watch — queue by medium and kind
 
 Only **backlog** rows live here. **Finished** titles belong in **[watched/movies.md](watched/movies.md)**, **[watched/tv-series.md](watched/tv-series.md)**, or **[watched/anime.md](watched/anime.md)** (usually start in **Unopinionated queue**).
 
@@ -8,7 +8,7 @@ Only **backlog** rows live here. **Finished** titles belong in **[watched/movies
 
 ---
 
-## Suggestions vs [watched/](watched/README.md)
+## ✅ Suggestions vs [watched/](watched/README.md)
 
 Use **`Because`** as a **similar-to** hint: it points at a **finished** row or vibe in your watched logs (not a promise you will like the pick).
 
@@ -26,9 +26,9 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 
 ---
 
-## Movies
+## 🎬 Movies
 
-### Fantasy / YA adventure *(echo: [Harry Potter — watched](watched/movies.md))*
+### 🎬 Fantasy / YA adventure *(echo: [Harry Potter — watched](watched/movies.md))*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -44,7 +44,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | The Golden Compass | 2007 | Parallel worlds, armored bears, dust | — | Potter · alternate institutions + kid vs system |
 | The Mortal Instruments: City of Bones | 2013 | NYC shadowhunters, urban fantasy | — | Potter · hidden society + young cast |
 
-### Horror *(echo: [Saw — watched](watched/movies.md); mix with general horror)*
+### 🎬 Horror *(echo: [Saw — watched](watched/movies.md); mix with general horror)*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -65,7 +65,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | The Purge | 2013 | One night legal crime | — | Horror · ruleset night |
 | Would You Rather | 2012 | Dinner party torture choices | — | Saw · forced choice game |
 
-### Documentary *(general; pair with [true crime TV](#true-crime-echo-monster-dahmer--watched) when you want facts not dramatization)*
+### ✅ Documentary *(general; pair with [true crime TV](#true-crime-echo-monster-dahmer--watched) when you want facts not dramatization)*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -82,7 +82,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | Tiger King | 2020 | Docuseries, larger-than-life figures | — | Doc · crime-adjacent spectacle |
 | Won't You Be My Neighbor? | 2018 | Fred Rogers profile | — | Doc · counterweight to dark queues |
 
-### Comedy *(echo: [Superbad — watched](watched/movies.md))*
+### 🎬 Comedy *(echo: [Superbad — watched](watched/movies.md))*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -99,7 +99,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | The Hangover | 2009 | Vegas blackout mystery | — | Superbad · “one night ruined” comedy |
 | This Is the End | 2013 | Celebrities play themselves, apocalypse | — | Superbad · ensemble raunch |
 
-### Action
+### 📌 Action
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -116,7 +116,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | Nobody | 2021 | — | — | Action · mild-mannered violence reveal |
 | The Raid: Redemption | 2011 | Jakarta tower, martial arts | — | Action · single-location siege |
 
-### Sci-fi
+### 📌 Sci-fi
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -138,7 +138,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | The Matrix | 1999 | Reality layer reveal | — | Sci-fi · systems + kung fu (Mr. Robot echo) |
 | The Prestige | 2006 | — | — | Sci-fi · rivalry + twist craft |
 
-### Thriller
+### 📌 Thriller
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -160,9 +160,9 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 
 ---
 
-## TV series
+## 📺 TV series
 
-### Drama *(echo: Breaking Bad · Narcos · Mr. Robot · Prison Break — [watched](watched/tv-series.md); puzzle tone: Sherlock · Inside Man)*
+### ✅ Drama *(echo: Breaking Bad · Narcos · Mr. Robot · Prison Break — [watched](watched/tv-series.md); puzzle tone: Sherlock · Inside Man)*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -182,7 +182,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | The Wire | 2002 | Baltimore institutions | — | Narcos · systems-level crime story |
 | True Detective | 2014 | Season 1 especially — time + cult | — | Sherlock · mystery as character study |
 
-### True crime *(echo: Monster: The Jeffrey Dahmer Story — [watched](watched/tv-series.md))*
+### ✅ True crime *(echo: Monster: The Jeffrey Dahmer Story — [watched](watched/tv-series.md))*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -199,7 +199,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | Tiger King | 2020 | Big cats + feuds | — | True crime · spectacle docuseries |
 | Wild Wild Country | 2018 | Rajneeshpuram cult | — | True crime · group psychology |
 
-### Comedy
+### 📌 Comedy
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -217,9 +217,9 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 
 ---
 
-## Anime
+## 🇯🇵 Anime
 
-### Shonen *(echo: Naruto · Dragon Ball · Yu-Gi-Oh! — [watched](watched/anime.md); long runs + power scaling)*
+### 🇯🇵 Shonen *(echo: Naruto · Dragon Ball · Yu-Gi-Oh! — [watched](watched/anime.md); long runs + power scaling)*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -242,7 +242,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | Seven Deadly Sins | 2014 | Knights, sins as powers | — | Shonen · fantasy party fights |
 | Sword Art Online | 2012 | VR death game → wider worlds | — | Yu-Gi-Oh! · game rules as reality |
 
-### Slice of life
+### 📌 Slice of life
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |
@@ -261,7 +261,7 @@ Use **`Because`** as a **similar-to** hint: it points at a **finished** row or v
 | Toradora! | 2008 | Tsundere romcom high school | — | Slice · character chemistry |
 | Violet Evergarden | 2018 | Post-war letter ghostwriter | — | Slice · melodrama craft |
 
-### Other *(psychological / seinen-adjacent; echo Death Note in queue + darker cousins of finished shonen)*
+### 📝 Other *(psychological / seinen-adjacent; echo Death Note in queue + darker cousins of finished shonen)*
 
 | Title | Year | Notes | Details | Because |
 | ----- | ---- | ----- | ------- | ------- |

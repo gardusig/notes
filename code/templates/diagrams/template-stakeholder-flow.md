@@ -1,4 +1,4 @@
-# Template: stakeholder / lane flow (service view)
+# 📋 Template: stakeholder / lane flow (service view)
 
 **Portable copy:** When pasting only the **`mermaid`** block, remove this header and links. Colors: [`palette.md`](palette.md) (`op*` spine, `uxOff` / `opOff` for side lanes). Rules: [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md).
 

@@ -1,4 +1,4 @@
-# Genre × situation — what to play when
+# 🎭 Genre × situation — what to play when
 
 Personal runbook: **which genre fits which mood and context**, then **which row in the queue** to touch. Inventory lives in one file:
 
@@ -10,7 +10,7 @@ Puzzle-first titles you track as *hobbies* rather than “game sessions” may f
 
 ---
 
-## Picking from the queue (one option per domain)
+## 📋 Picking from the queue (one option per domain)
 
 **Goal:** across **In progress** + **Owned — not started** in [owned-queue.md](owned-queue.md), keep **at least one owned title you’d happily play next** for each **archive domain** — **`2d`**, **`3d`**, **`emulation`** — so rotation never dead-ends (e.g. you always have a Steam 2D pick, a 3D pick, and something on emu / handheld when you want that texture).
 
@@ -30,7 +30,7 @@ Puzzle-first titles you track as *hobbies* rather than “game sessions” may f
 
 ---
 
-## Quick map — situation → reach for
+## 🎬 Quick map — situation → reach for
 
 | Situation | Good genre / vibe | Often a poor fit |
 |-----------|-------------------|------------------|
@@ -44,7 +44,7 @@ Puzzle-first titles you track as *hobbies* rather than “game sessions” may f
 
 ---
 
-## Boss rush / precision / soulslike
+## 📌 Boss rush / precision / soulslike
 
 These games **compress feedback**: you fail visibly, adjust, and earn the next inch of progress. They reward **patience and execution** more than luck. They can **ground ego** because the game does not care about your resume—only whether you learned the pattern.
 
@@ -54,7 +54,7 @@ These games **compress feedback**: you fail visibly, adjust, and earn the next i
 
 ---
 
-## Licensed collectathon / LEGO-style checklist
+## ☑️ Licensed collectathon / LEGO-style checklist
 
 Straightforward **loops**, **collectibles**, and **humor**—good when you want **structure** without emotional heavy lifting. **100%** can be its own satisfying project when you like **clear completion bars**.
 
@@ -64,7 +64,7 @@ Straightforward **loops**, **collectibles**, and **humor**—good when you want 
 
 ---
 
-## 4X / grand strategy
+## 📌 4X / grand strategy
 
 **Long horizons**: tech trees, diplomacy, and “where will I be in ten turns?” thinking. Matches **spread across days** feel natural.
 
@@ -74,7 +74,7 @@ Straightforward **loops**, **collectibles**, and **humor**—good when you want 
 
 ---
 
-## Simulators (“job fantasy”)
+## 📌 Simulators (“job fantasy”)
 
 **Systems-heavy** experiences—routes, physics, schedules—played for **calm focus** or **role-play**. A good chair and wheel can turn truck sim into **physical** play, not just screen time.
 
@@ -82,7 +82,7 @@ Straightforward **loops**, **collectibles**, and **humor**—good when you want 
 
 ---
 
-## Open-world exploration + puzzle
+## 🧩 Open-world exploration + puzzle
 
 **Traversal fantasy** plus **environmental puzzles** or stealth puzzles—good when you want **wonder** and **mild friction** (not a pure boss gate).
 
@@ -92,7 +92,7 @@ Straightforward **loops**, **collectibles**, and **humor**—good when you want 
 
 ---
 
-## Survival / psychological horror
+## 📌 Survival / psychological horror
 
 Horror is often **best when the room matches the fiction**: **night**, **quiet house**, **cool air**, headphones—**presence** over distraction. If you are **trying to fix insomnia**, treat horror like **caffeine**: sometimes it **settles** the brain via adrenaline; sometimes it **delays** sleep—**pick short sessions** and know your pattern.
 
@@ -102,7 +102,7 @@ Horror is often **best when the room matches the fiction**: **night**, **quiet h
 
 ---
 
-## Light / comic / short-session 2D
+## 📌 Light / comic / short-session 2D
 
 **Jokes, bright art, low stakes**—great when you are **already up** and want **playfulness** without a huge narrative commitment.
 
@@ -112,7 +112,7 @@ Horror is often **best when the room matches the fiction**: **night**, **quiet h
 
 ---
 
-## Pairing with your lists
+## 📌 Pairing with your lists
 
 Use **this runbook** to **name the mood**, then filter **[owned-queue.md](owned-queue.md)** by **Kind** and by **domain** so you satisfy **[§ Picking from the queue](#picking-from-the-queue-one-option-per-domain)**. Active rows live under **In progress** in that file until you append them to **`completed/`**.
 

@@ -1,10 +1,10 @@
-# Lifecycle map and cursor-skills
+# ♻️ Lifecycle map and cursor-skills
 
 **Upstream:** [`README.md`](README.md) · [`../README.md`](../README.md)
 
 Maps delivery phases to runbook pages in `code/` and to the **[cursor-skills](https://github.com/gardusig/cursor-skills)** pack (canonical `SKILL.md` on `main`). Install the pack locally for `@` invokes. Skill **names** can change; match by **lane** (plan, Git, GitHub) via the pack [`README.md`](https://github.com/gardusig/cursor-skills/blob/main/README.md) and [`docs/README.md`](https://github.com/gardusig/cursor-skills/blob/main/docs/README.md).
 
-## Lifecycle map
+## ♻️ Lifecycle map
 
 | Phase | Start in notes | Optional cursor-skills references |
 | --- | --- | --- |

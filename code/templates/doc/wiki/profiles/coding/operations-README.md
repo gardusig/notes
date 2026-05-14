@@ -1,6 +1,6 @@
-# Operations
+# ⚙️ Operations
 
-## Contents
+## 📌 Contents
 
 1. [Setup](setup.md)
 2. [Deployment](deployment.md)

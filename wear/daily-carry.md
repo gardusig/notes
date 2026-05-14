@@ -1,10 +1,10 @@
-# Daily Carry
+# ☀️ Daily Carry
 
 Shoulder bag — what leaves the house every day. Generalized labels only; no card numbers, no document numbers.
 
 **Upstream:** [Inventory](README.md)
 
-## Roster
+## 📌 Roster
 
 | Item         | Description       | Notes              |
 | ------------ | ----------------- | ------------------ |

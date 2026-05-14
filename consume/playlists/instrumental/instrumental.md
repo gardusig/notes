@@ -1,13 +1,13 @@
-# [instrumental]
+# 🎹 [instrumental]
 
 **YouTube Music:** https://music.youtube.com/playlist?list=PLusr4A2STBB4xPCn08oM7HXK5GbUTEXwa
 
-## Meta
+## 📌 Meta
 
 - **Tracks (app, rough):** 40 — update when you export.
 - **Last checked:**
 
-## Tracks
+## 📌 Tracks
 
 | # | Artist | Title | Album / mix | Length |
 |---|--------|-------|-------------|--------|

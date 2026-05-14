@@ -1,4 +1,4 @@
-# Phase 2 — It is the next priority
+# ⬆️ Phase 2 — It is the next priority
 
 **Upstream:** [`README.md`](README.md)
 

@@ -1,4 +1,4 @@
-# <Leaf Folder Name>
+# 📄 <Leaf Folder Name>
 
 Short purpose statement for this folder (what is stored here and why it exists).
 

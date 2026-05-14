@@ -1,10 +1,10 @@
-# Chess — puzzles vs matches
+# 🧩 Chess — puzzles vs matches
 
 **Live puzzle stats:** [gardusig — Chess.com puzzle stats](https://www.chess.com/member/gardusig/stats/puzzles) · [member profile](https://www.chess.com/member/gardusig) for **play** ratings and games.
 
 ---
 
-## How this differs from “completion” puzzles
+## 🧩 How this differs from “completion” puzzles
 
 **Rated puzzles** (Chess.com) reward **accuracy** over volume. Mistakes are **expensive** in rating; going slow is fine. The habit is **a few puzzles most days** and honest tracking—not optimizing for streak speed or average time.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Snapshot *(paste updates from the site when you care to refresh)*
+## 📌 Snapshot *(paste updates from the site when you care to refresh)*
 
 **As of 2026-05-03** (from profile UI):
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Long-term targets
+## 📌 Long-term targets
 
 **Puzzles:** **stable ~1750** (quality over volume; no rush).
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Rating & ranking tracker
+## 📌 Rating & ranking tracker
 
 | Metric | As of (YYYY-MM-DD) | Current | Next milestone | Long-term |
 | --- | --- | --- | --- | --- |
@@ -47,12 +47,12 @@
 
 **Week-over-week deltas** *(optional — from Chess.com or your notes)*:
 
-## Session shape
+## 📌 Session shape
 
 1. **Puzzles — 3 per day** when you sit for chess practice. About **~5 minutes each** if you like a cap; aim for **no mistakes** (slow is fine). Do **not** optimize for streak speed.
 2. **Play — one rated / serious game** after the puzzle block when possible so **play rating** keeps trending up.
 
-## Related
+## 📌 Related
 
 - [Puzzles runbook](README.md) — physical vs app, jigsaw, printed puzzles.
 - [Completion puzzles](lanes.md) — non-ranked lanes, lifetime solve counts.

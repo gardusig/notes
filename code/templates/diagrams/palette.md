@@ -1,4 +1,4 @@
-# Mermaid color palette (copy-paste `classDef` ramps)
+# 🎨 Mermaid color palette (copy-paste `classDef` ramps)
 
 **Portable copy:** If you paste only a **`mermaid`** block into another repo, omit the links below. Layout rules: [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md).
 
@@ -6,14 +6,14 @@ This file is the **single table of named ramps** for this pack: **hero** (flashi
 
 ---
 
-## How to use
+## 📌 How to use
 
 1. Pick **one spine** (`A → … → B`). Put the **strongest** fill on the node that must win attention (user “aha”, risk, or primary outcome).
 2. Assign **2–5** `classDef` steps along that spine; **middle** nodes should visibly **shift** hue/lightness—not identical boxes.
 3. Use **`color:#fff`** on dark fills and **`color:#111`** on light fills for label contrast. Preview in Cursor and GitHub.
 4. **Leaf-strong variant** — When the story is **convergent** (“done” at the end of the spine), put the **strongest** token on the **terminal** node and **lighter** tokens on ancestors (**same hue**, walking **toward** the leaf). See [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md) and **UX examples** in [`examples.md`](examples.md).
 
-### Leaf-strong (semantic order, same hex as tables)
+### 📊 Leaf-strong (semantic order, same hex as tables)
 
 Reuse the **`classDef` names** above—only the **`class node …`** assignments change.
 
@@ -25,7 +25,7 @@ Reuse the **`classDef` names** above—only the **`class node …`** assignments
 
 ---
 
-## Family A — UX / product (`ux*`)
+## 📌 Family A — UX / product (`ux*`)
 
 Violet ramp for journeys, usability, and “human moment” diagrams (not git machinery).
 
@@ -51,7 +51,7 @@ Violet ramp for journeys, usability, and “human moment” diagrams (not git ma
 
 ---
 
-## Family B — Workflow / ops (`op*`)
+## 🔁 Family B — Workflow / ops (`op*`)
 
 Teal ramp for hand-offs, SLAs, and operational flows without implying “git green.”
 
@@ -77,7 +77,7 @@ Teal ramp for hand-offs, SLAs, and operational flows without implying “git gre
 
 ---
 
-## Family C — Dev / git (`hueGh*`)
+## 🔀 Family C — Dev / git (`hueGh*`)
 
 Green ramp aligned with existing examples; use for toolchain and repo-lifecycle figures.
 
@@ -103,7 +103,7 @@ Green ramp aligned with existing examples; use for toolchain and repo-lifecycle 
 
 ---
 
-## See also
+## 📌 See also
 
 - [`examples.md`](examples.md) — full fenced examples
 - [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md) — spine-first and leaf-strong rules

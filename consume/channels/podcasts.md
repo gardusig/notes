@@ -1,4 +1,4 @@
-# Podcasts — shows and queue
+# 🎙️ Podcasts — shows and queue
 
 **Subscriptions**, **episode backlog**, and **style** notes (format, hosts, when you reach for which show).
 
@@ -8,9 +8,9 @@ Below, picks are grouped **by language**. Each block links the main channel (or 
 
 ---
 
-## English (international)
+## 📌 English (international)
 
-### The Joe Rogan Experience
+### 📌 The Joe Rogan Experience
 
 Long, wide-ranging interviews (comedy, science, politics, health). Full episodes are easiest on Spotify; clips and highlights are on YouTube.
 
@@ -19,16 +19,16 @@ Long, wide-ranging interviews (comedy, science, politics, health). Full episodes
 
 ---
 
-## Portuguese (Brazil)
+## 📌 Portuguese (Brazil)
 
-### Flow Podcast
+### 🎙️ Flow Podcast
 
 Studio interviews with celebrities, creators, and public figures; very high production and reach in Brazil.
 
 - **Main:** [YouTube — Flow Podcast](https://www.youtube.com/@flowpodcast) · **Audio:** Spotify and other podcast apps — search **Flow Podcast** (show from Brazil; name collisions exist abroad)
 - **Similar:** [Inteligência Ltda.](https://www.youtube.com/@inteligencialtda) (long-form, humor + ideas) · [Podpah](https://www.youtube.com/@podpah) (comedy-forward roundtable + guests) · [Venus Podcast](https://www.youtube.com/@VenusPodcast) (culture and internet; younger audience) · [Mano a Mano](https://www.youtube.com/@manoamano) (Mano Brown — music, politics, life stories)
 
-### Other famous Brazilian podcasts (quick map)
+### 🎙️ Other famous Brazilian podcasts (quick map)
 
 | Show                      | Channel / feed                                                                  | Similar vibe                                                                              |
 | ------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |

@@ -1,10 +1,10 @@
-# Home maintenance
+# 🔧 Home maintenance
 
 **Home / body** cadence here. **Git-backed recurring mirror** (pharmacy run, backups, IRPF, etc.) — [`../recurring.md`](../recurring.md). Money inbox habits stay in whatever tool you use; this file is for **physical rhythm**.
 
 **Upstream:** [Routine hub](README.md)
 
-## Weekly
+## 📅 Weekly
 
 | Task | Frequency |
 | --- | --- |
@@ -12,13 +12,13 @@
 | Groceries | 1× (weekend) |
 | Laundry | 1–2× |
 
-## Monthly
+## 📌 Monthly
 
 | Task | Frequency |
 | --- | --- |
 | Playlist review | 1× — [consume/playlists/README.md](../../consume/playlists/README.md) |
 
-## Long-term
+## 📌 Long-term
 
 | Task | Frequency | Note |
 | --- | --- | --- |

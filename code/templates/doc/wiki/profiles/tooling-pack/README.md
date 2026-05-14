@@ -1,10 +1,10 @@
-# Template hub — wiki profile: tooling pack
+# 📋 Template hub — wiki profile: tooling pack
 
 Automation, CI, docs generation, and repo topology stubs adjacent to application code.
 
 **Upstream:** [Wiki profiles](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`architecture-pack-topology.md`](architecture-pack-topology.md) — how docs, automation, and source connect.
 2. [`conventions-README.md`](conventions-README.md) — tooling conventions hub.

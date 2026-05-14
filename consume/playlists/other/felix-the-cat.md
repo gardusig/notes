@@ -1,13 +1,13 @@
-# felix the cat
+# 🐱 felix the cat
 
 **YouTube Music:** https://music.youtube.com/playlist?list=PLusr4A2STBB4Zg2GTToUcMbIZAtvnNgSl
 
-## Meta
+## 📌 Meta
 
 - **Tracks (app, rough):** 18 — update when you export.
 - **Last checked:**
 
-## Tracks
+## 📌 Tracks
 
 | # | Artist | Title | Album / mix | Length |
 |---|--------|-------|-------------|--------|

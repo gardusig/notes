@@ -1,4 +1,4 @@
-# Metaphors — comparison hub
+# 🔗 Metaphors — comparison hub
 
 **What this is:** short **handles** for talking about life (games, toys, HUD). Each section points to where the idea is **expanded** so this file stays a **map**, not a second copy of the long structural notes.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Open world, coarse main quest (GTA-shaped)
+## 📌 Open world, coarse main quest (GTA-shaped)
 
 Many adults share a **broad storyline**: learn, work, optional raising of dependents, finite clock. In that sense life can read like an **open-world game with a loose “main quest”**—not a single script everyone runs identically, but a **coarse spine**.
 
@@ -17,7 +17,7 @@ For **many** typical trajectories, **what you do in discretionary time** (side q
 
 ---
 
-## Not LEGO: limited snap-fixes
+## 📌 Not LEGO: limited snap-fixes
 
 LEGO-like play assumes **blocks come apart and recombine fast**, with **low permanent cost**.
 
@@ -31,13 +31,13 @@ Use this contrast when **respec** metaphors tempt you to treat every mistake as 
 
 ---
 
-## HUD overlay
+## 📌 HUD overlay
 
 You do not get a shipped UI for health, money, map position, or active quests. A **HUD** is the **readable slice** you build on purpose—numbers and narrative live partly in [Tactical HUD](life-game-structure.md#tactical-hud); **meaning and quest design** in [life-arc.md](life-arc.md).
 
 ---
 
-## Direct flow (lightweight)
+## 🌊 Direct flow (lightweight)
 
 How the short metaphors **route** to longer docs:
 

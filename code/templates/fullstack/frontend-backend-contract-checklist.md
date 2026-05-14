@@ -1,8 +1,8 @@
-# Frontend ↔ backend contract checklist
+# 🖼️ Frontend ↔ backend contract checklist
 
 Use before **shipping** a vertical slice or when **splitting** repos. Goal: UI and API agree on surface, errors, and evolution.
 
-## Transport & schema
+## 📐 Transport & schema
 
 | Check | Notes |
 | --- | --- |
@@ -11,7 +11,7 @@ Use before **shipping** a vertical slice or when **splitting** repos. Goal: UI a
 | **Error shape** | Stable JSON envelope (code, message, field errors); UI maps to toasts/forms. |
 | **Pagination / filtering** | Cursor vs offset documented; max limits stated. |
 
-## Types and versioning
+## 📌 Types and versioning
 
 | Check | Notes |
 | --- | --- |
@@ -19,7 +19,7 @@ Use before **shipping** a vertical slice or when **splitting** repos. Goal: UI a
 | **Breaking changes** | Version path (`/v2`) or explicit deprecation header + sunset date. |
 | **Null vs missing** | JSON convention documented for optional fields. |
 
-## Runtime configuration
+## 📌 Runtime configuration
 
 | Check | Notes |
 | --- | --- |
@@ -27,14 +27,14 @@ Use before **shipping** a vertical slice or when **splitting** repos. Goal: UI a
 | **CORS / cookies** | Documented for local dev vs deployed; SameSite / CSRF if cookie session. |
 | **Auth** | Bearer vs cookie; refresh strategy; what the API expects on each route class. |
 
-## Testing
+## 📌 Testing
 
 | Check | Notes |
 | --- | --- |
 | **Contract tests** | Minimal golden requests/responses or Pact-style if multi-team. |
 | **E2E owns one path** | Critical user journey hits real API (or realistic mock). |
 
-## Related
+## 📌 Related
 
 - API wiki stubs: [`../doc/wiki/api/endpoints-template.md`](../doc/wiki/api/endpoints-template.md), [`../doc/wiki/api/schemas-template.md`](../doc/wiki/api/schemas-template.md)
 - Request path diagram: [`../diagrams/template-request-path.md`](../diagrams/template-request-path.md)

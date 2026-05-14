@@ -1,6 +1,6 @@
-# macOS — Apple Silicon laptop (portable dev)
+# 💻 macOS — Apple Silicon laptop (portable dev)
 
-## Purpose
+## 🎯 Purpose
 
 This note is for a **portable Apple Silicon Mac** used as a **daily dev laptop**: clone repos, edit in **Cursor**, run **Docker**, and get through a workday on **battery** without chasing the most expensive SKU. It is **not** a desktop workstation guide—optimize for **mobility**, **runtime**, and **cost-aware** choices.
 
@@ -10,7 +10,7 @@ This note is for a **portable Apple Silicon Mac** used as a **daily dev laptop**
 
 ---
 
-## Summary
+## 📌 Summary
 
 - **Hardware goal:** **Cheapest current portable** that still has **strong battery life** for mixed terminal + browser + light Docker—usually the **entry MacBook Air**; weigh the **entry MacBook Pro** if you need **sustained** performance or more **ports**.
 - **Software end state:** **Homebrew**, **Git**, **GitHub CLI (`gh`)**, **Docker Desktop**, and **Cursor** installed and verified; optional **Node.js** and employer CLIs (**AWS**, **`kubectl`**, etc.) per onboarding. **Chrome**, **Docker**, and **Cursor** can be installed like normal Mac apps from the vendor (DMG → **Applications**) — see **[§2.0](#20-install-chrome-docker-desktop--cursor-gui--applications)**.
@@ -18,7 +18,7 @@ This note is for a **portable Apple Silicon Mac** used as a **daily dev laptop**
 
 ---
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Summary](#summary)
@@ -46,9 +46,9 @@ This note is for a **portable Apple Silicon Mac** used as a **daily dev laptop**
 
 ---
 
-## Setup & installation
+## ⚙️ Setup & installation
 
-### 1. System preparation
+### 📌 1. System preparation
 
 Before installing tools:
 
@@ -65,7 +65,7 @@ Before installing tools:
 **System Settings → Desktop & Dock**  
 - Enable **Automatically hide and show Dock** (optional)
 
-### 2. Terminal & CLI setup
+### ⚙️ 2. Terminal & CLI setup
 
 Do this **in order**. Open **Terminal**: **Applications → Utilities → Terminal**
 
@@ -81,13 +81,13 @@ Do this **in order**. Open **Terminal**: **Applications → Utilities → Termin
 | 2.7 | **Node.js** (only if you need it) |
 | 2.8 | **`gh`**, **`jq`**, optional **`glab`** and cloud/k8s CLIs for onboarding |
 
-### 2.0 Install Chrome, Docker Desktop & Cursor (GUI — Applications)
+### 🖥️ 2.0 Install Chrome, Docker Desktop & Cursor (GUI — Applications)
 
 Use this when you want **real Mac applications**—download in a browser, open a **`.dmg`**, drag into **Applications**—instead of installing those three only from the terminal.
 
 You can still use **Homebrew** for **Git**, **`gh`**, and everything else in §2.2 onward. **Chrome** is listed first so you have a familiar browser for the other downloads if **Safari** is not your default.
 
-#### Google Chrome (browser)
+#### 📌 Google Chrome (browser)
 
 1. Open **Safari** (**Applications → Safari**) or another browser already on the Mac.
 2. Go to **[google.com/chrome](https://www.google.com/chrome/)** and choose **Download Chrome**.
@@ -98,7 +98,7 @@ You can still use **Homebrew** for **Git**, **`gh`**, and everything else in §2
 7. Open **Chrome** from **Launchpad** or **Finder → Applications → Google Chrome**.  
    - If macOS says the app can’t be opened because it’s from an unidentified developer: **Control-click (right-click) the app → Open → Open** once to approve.
 
-#### Docker Desktop
+#### 🖥️ Docker Desktop
 
 1. In **Chrome** (or **Safari**), open **[Install Docker Desktop on Mac](https://docs.docker.com/desktop/install/mac-install/)** (official download buttons for **Apple silicon** vs **Intel**) or **[docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/)** and download **Docker Desktop for Mac**.
 2. On **Apple Silicon**, choose the **Apple Silicon** / **ARM64** build—not the Intel-only installer.
@@ -106,7 +106,7 @@ You can still use **Homebrew** for **Git**, **`gh`**, and everything else in §2
 4. **Drag Docker** (whale icon) into **Applications**, then **eject** the disk image.
 5. Open **Finder → Applications → Docker** (double-click). Accept prompts (privileged helper, networking, **OK** on security dialogs). Wait until the **whale icon** in the menu bar shows Docker is **running** (not “Starting…”).
 
-#### Cursor
+#### 📌 Cursor
 
 1. Open **[cursor.com](https://cursor.com)** in your browser and use **Download** for **macOS** (Apple Silicon vs Intel matches your Mac; Apple Silicon laptops use the **Apple Silicon** build).
 2. Open the downloaded **`.dmg`** from **Downloads**.
@@ -117,7 +117,7 @@ You can still use **Homebrew** for **Git**, **`gh`**, and everything else in §2
 
 ---
 
-### 2.1 Install Xcode Command Line Tools
+### 📌 2.1 Install Xcode Command Line Tools
 
 Required for Git, compilers, Homebrew, and many dev tools.
 
@@ -135,7 +135,7 @@ xcode-select -p
 
 You should see a path under `/Library/Developer/CommandLineTools` or inside Xcode.
 
-### 2.2 Install Homebrew (ARM64)
+### 📌 2.2 Install Homebrew (ARM64)
 
 Install:
 
@@ -163,7 +163,7 @@ brew update
 brew upgrade
 ```
 
-### 2.3 Install Git
+### 🔀 2.3 Install Git
 
 Use Homebrew’s Git so updates are simple:
 
@@ -178,7 +178,7 @@ which git
 git --version
 ```
 
-### 2.4 Configure Git
+### 🔀 2.4 Configure Git
 
 Set your identity (use the same email as **GitHub** / your host if you push there):
 
@@ -196,7 +196,7 @@ git config --global pull.rebase false
 
 Optional: **SSH keys** for GitHub/GitLab — generate with `ssh-keygen`, add the **public** key to the host, then clone with `git@...` URLs.
 
-### 2.5 Install Docker Desktop
+### 🖥️ 2.5 Install Docker Desktop
 
 **Docker Desktop** is the straightforward way to run **Docker** and **Docker Compose** on macOS.
 
@@ -220,7 +220,7 @@ docker run --rm hello-world
 
 If the command prints a success message, containers work. For Apple Silicon, prefer images that publish **arm64** (or multi-arch) variants to avoid slow emulation.
 
-### 2.6 Install Cursor
+### 📌 2.6 Install Cursor
 
 **Cursor** is the editor this guide standardizes on (instead of VS Code).
 
@@ -236,7 +236,7 @@ Open **Cursor** from **Applications**, complete any first-run sign-in, and open 
 
 If the cask name ever changes, install from **[cursor.com](https://cursor.com)** via the GUI; you can still use **`brew upgrade --cask cursor`** later when the cask exists.
 
-### 2.7 Optional: Node.js
+### ➕ 2.7 Optional: Node.js
 
 Handy for JavaScript/TypeScript, front-end tooling, and many CLIs:
 
@@ -253,11 +253,11 @@ npm --version
 
 For **per-project** Node versions, consider **nvm** or **fnm** later; Homebrew’s `node` is enough to get started.
 
-### 2.8 GitHub CLI and onboarding helpers
+### 🗂️ 2.8 GitHub CLI and onboarding helpers
 
 These tools support everyday SDE workflows (clone, PRs, CI checks) and match the **terminal + review** loop described in **[work.md](./work.md)**.
 
-#### GitHub CLI (`gh`)
+#### 🗂️ GitHub CLI (`gh`)
 
 Install and sign in (browser or token—follow the prompts):
 
@@ -276,7 +276,7 @@ gh auth status
 
 If **`gh`** is missing in scripts or Cursor tasks, ensure Homebrew’s `brew shellenv` is in **`~/.zprofile`** (§2.2) so non-interactive shells see `gh` on your `PATH`.
 
-#### GitLab CLI (`glab`)
+#### 🔀 GitLab CLI (`glab`)
 
 If your company uses **GitLab** instead of (or in addition to) GitHub:
 
@@ -285,7 +285,7 @@ brew install glab
 glab auth login
 ```
 
-#### `jq` (JSON on the command line)
+#### 📌 `jq` (JSON on the command line)
 
 Handy for parsing **`gh api`** output, internal tooling, and one-off scripts:
 
@@ -293,13 +293,13 @@ Handy for parsing **`gh api`** output, internal tooling, and one-off scripts:
 brew install jq
 ```
 
-#### Cloud, Kubernetes, and org-specific CLIs
+#### 📌 Cloud, Kubernetes, and org-specific CLIs
 
 Install **when your team’s onboarding doc says so**—examples: **AWS CLI**, **Google Cloud SDK**, **Azure CLI**, **`kubectl`**, **Terraform**. Prefer formulae or installers your security team approves; keep versions aligned with what production uses.
 
 **Tip:** After SSO or VPN changes, re-run **`gh auth login`** (or refresh tokens) if commands start returning **401** or **permission denied**.
 
-### 3. Browsers & communication
+### 📌 3. Browsers & communication
 
 | App        | Description                                |
 | ---------- | ------------------------------------------ |
@@ -313,7 +313,7 @@ Install **when your team’s onboarding doc says so**—examples: **AWS CLI**, *
 
 For **camera**, **microphone**, and **screen sharing** in meeting apps, approve the prompts on first use and verify entries under **System Settings → Privacy & Security** (see [§6](#6-privacy--permissions)).
 
-### 4. Productivity & system
+### 📌 4. Productivity & system
 
 | Role | App (this guide) | Description |
 | ---- | ---------------- | ----------- |
@@ -322,7 +322,7 @@ For **camera**, **microphone**, and **screen sharing** in meeting apps, approve 
 
 Install **Rectangle** with `brew install --cask rectangle`. **Amphetamine** is usually installed from the **Mac App Store** (search “Amphetamine”).
 
-### 5. Local coding workflow
+### 🔁 5. Local coding workflow
 
 You now have **brew**, **git**, **`gh`** (if you followed §2.8), **Docker**, and **Cursor**. A typical loop:
 
@@ -334,13 +334,13 @@ You now have **brew**, **git**, **`gh`** (if you followed §2.8), **Docker**, an
 
 If a project needs a language runtime not covered here (Python, Go, Rust), install with **Homebrew** (`brew install python@3.12`, `brew install go`, etc.) or use a **devcontainer** in Cursor/Docker when the repo provides one.
 
-### 6. Privacy & permissions
+### 📌 6. Privacy & permissions
 
 macOS gates sensitive capabilities behind **System Settings → Privacy & Security**. Many apps only prompt the **first time** they need something; if something silently fails (containers, camera, screen share), check this pane and the app’s own settings.
 
 Open **System Settings → Privacy & Security** and review the categories below. Toggle **on** for the app that should have access (e.g. **Terminal**, **Cursor**, **Docker**, **Zoom**).
 
-#### Coding and dev tools
+#### 💻 Coding and dev tools
 
 | Permission | Typical use |
 | ---------- | ----------- |
@@ -351,7 +351,7 @@ Open **System Settings → Privacy & Security** and review the categories below.
 
 **Docker Desktop** usually asks on first launch (networking, file sharing); accept so bind mounts and VM helpers work. **Cursor** may request folder access when you open a repo—use **Allow** for the intended directories.
 
-#### Meeting and communication apps
+#### 📌 Meeting and communication apps
 
 | Permission | Typical use |
 | ---------- | ----------- |
@@ -363,9 +363,9 @@ Open each meeting app once, start a test call or screen share, and **approve** t
 
 ---
 
-## What to buy & price expectations
+## 🛒 What to buy & price expectations
 
-### Cheapest portable Mac (battery-first)
+### 📊 Cheapest portable Mac (battery-first)
 
 For **software development** on the go, bias toward:
 
@@ -375,7 +375,7 @@ For **software development** on the go, bias toward:
 
 Check **current** generations and prices on [apple.com](https://www.apple.com); this note does not pin chip generation (M2/M3/M4, etc.) because Apple refreshes SKUs often.
 
-### Entry MacBook Air vs entry MacBook Pro
+### 📖 Entry MacBook Air vs entry MacBook Pro
 
 Use this when both lines offer **Apple Silicon** at the **low end** of each family—verify **screen size**, **chip**, and **port** layout for the exact models you are comparing.
 
@@ -390,7 +390,7 @@ Use this when both lines offer **Apple Silicon** at the **low end** of each fami
 
 If the **price gap** is small during a promo, an **entry Pro** can be rational; if **budget and battery on light work** matter most, **Air** usually wins.
 
-### Money and timing
+### 📌 Money and timing
 
 - **Apple Refurbished** and **education** pricing can narrow the gap—worth checking before paying list price.
 - After purchase, follow **[Setup & installation](#setup--installation)** on a clean macOS install.

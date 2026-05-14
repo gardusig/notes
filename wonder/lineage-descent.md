@@ -1,6 +1,6 @@
-# Lineage descent (conceptual graph)
+# 🌳 Lineage descent (conceptual graph)
 
-## Scope (this file)
+## 📌 Scope (this file)
 
 This note is about **talent and starting conditions**: why people can differ at birth (genes, family, place, culture) and how **baseline vs training** interact **while alive**. It uses metaphors (Pokémon IV/EV, fiction lineages) as **handles**, not as science or fate.
 
@@ -13,7 +13,7 @@ This note is about **talent and starting conditions**: why people can differ at 
 
 A **conceptual descent graph**: branches split and merge like lineage or inheritance across groups. It is **not** formal mathematical group theory. The diagram below uses pop-culture labels (Naruto-style dōjutsu line and Harry Potter houses) as **compact handles** for “who split from whom”—swap the labels in your head for families, clans, or subcultures if you prefer.
 
-## Pokémon as comparison ladder (IV, IQ, EV, life, EQ)
+## ⚖️ Pokémon as comparison ladder (IV, IQ, EV, life, EQ)
 
 Think of a person like a mon with **two layers**: what the RNG handed you, and what battles actually wrote into the sheet.
 
@@ -27,7 +27,7 @@ So: **IV ≈ “how high the ceiling tends to tilt at the start”** (IQ is one 
 
 The graph below is about **lineage and branching identities**. **Judgment / after-death loops** (if any) are **not** claimed here—see [life-flow-judgment.md](life-flow-judgment.md). **Nested instances, pills, daily loop** in [life-game-structure.md](life-game-structure.md).
 
-## Ditto, Sharingan, and copy-first identity
+## 📌 Ditto, Sharingan, and copy-first identity
 
 **Same mechanism, two worlds:** **Ditto** transforms by **absorbing a template** and temporarily **becoming** the other shape. **Sharingan** (in the story’s logic) **copies** what it **sees**—observe the pattern, replay it. Both are **see → imitate → run as if native**, not “invent from zero.”
 
@@ -37,7 +37,7 @@ The graph below is about **lineage and branching identities**. **Judgment / afte
 
 Metaphor only: names **flexible mimicry** vs **stable, legible typing**.
 
-## Buffs anyone can hold (coffee, items) and long-run recoil
+## ☕ Buffs anyone can hold (coffee, items) and long-run recoil
 
 In Pokémon, **held items and consumables** can **buff anyone**: X Speed, vitamins, a berry—**you do not need** a privileged IV to **pop a temporary modifier**. Real life has the same shape: **coffee**, deadline adrenaline, all-nighters, prestige, anger—**short-term +2 to something you need right now**.
 
@@ -47,17 +47,17 @@ Two notes, same as good game design:
 
 2. **Recoil over many turns**—buffs that **anyone** can use often **deal damage on a delay**: caffeine and debt sleep **tax** recovery; chronic stress **taxes** health; borrowed identity **taxes** coherence. You can **improve today** with a buff and still **pay interest** later if it replaces **sleep, food, or boundaries** instead of **stacking with** them.
 
-## Juice and cars (marginal gains vs headroom)
+## 🧃 Juice and cars (marginal gains vs headroom)
 
 **Cars:** you can tune a **Monza** until it is **surprisingly efficient**, but it will **rarely outrun** a **Mustang** on the same kind of story. If you can improve one, you can improve the other; the point is **which orange had less juice to begin with** and how much you are squeezing for **marginal** gains vs **natural headroom**. Same for people: **grind** lifts almost everyone; it does not **flatten** every starting gap.
 
-## Talent, effort, and volatile inner life
+## 📌 Talent, effort, and volatile inner life
 
 **Effort alone** is **worth a lot**—EVs exist because training matters. **Talent × effort** tends to **compound**: when someone **high-ceiling** also **puts in hours**, outcomes often **cluster higher** than effort-only or talent-only stories suggest. Unfair, observable in the wild, still not a reason to zero out your own training.
 
 **Inner personality and values** (what you actually choose under pressure) are **more volatile** for **Ditto-shaped** lines: if your gift is **becoming** or **mirroring**, identity and allegiance can **swing** more than for someone whose “type” was **legible from birth** and reinforced by every institution around them. Copiers pay a different tax: **flexibility** and **instability** trade off.
 
-## Life structure once born (main quest, routine, realism)
+## 🔁 Life structure once born (main quest, routine, realism)
 
 Culture and media often script a **default main quest**: compete for grades at school and university, then for jobs, then for a “successful” child to raise, then some rest when old. That path is **linear and competitive**; it forgives **few** mistakes—a skipped year or a serious health hit can **reshape** the rest of the story. **The Sims** is a useful parallel for **staged social progression** (needs, career ladder, household), not for stat breeding—that sits in the IV/EV framing above.
 

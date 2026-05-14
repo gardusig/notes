@@ -1,8 +1,8 @@
-# Fast playlists
+# 🎵 Fast playlists
 
 **Upstream:** [Music — playlists](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`fast-dark-magician-girl.md`](fast-dark-magician-girl.md) — playlist stub and track table.
 2. [`fast-happy.md`](fast-happy.md) — playlist stub and track table.

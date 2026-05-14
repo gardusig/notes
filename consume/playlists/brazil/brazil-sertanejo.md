@@ -1,13 +1,13 @@
-# [brazil] sertanejo
+# 🤠 [brazil] sertanejo
 
 **YouTube Music:** https://music.youtube.com/playlist?list=PLusr4A2STBB5yy8TLvybPeeeg9ugRbzoC
 
-## Meta
+## 📌 Meta
 
 - **Tracks (app, rough):** 16 — update when you export.
 - **Last checked:**
 
-## Tracks
+## 📌 Tracks
 
 | # | Artist | Title | Album / mix | Length |
 |---|--------|-------|-------------|--------|

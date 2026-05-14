@@ -1,10 +1,10 @@
-# Template hub — documentation pasteables
+# 📋 Template hub — documentation pasteables
 
 Skeleton pages for **`docs/`** hubs, wiki profiles, tables, explanations, and merge playbooks. Copy into any repo; see also **[`index.md`](index.md)** for the **numbered index skeleton** snippet.
 
 **Upstream:** [Template hub `templates/`](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. **[`readme/`](readme/README.md)** — generic README, hub, leaf, root, archive, merge-playbook starters.
 2. **[`wiki/`](wiki/README.md)** — API stubs, shared hints, profile-based wiki packs.

@@ -1,10 +1,10 @@
-# Template hub — GitHub issues
+# 📋 Template hub — GitHub issues
 
 Bodies, dedupe checklists, label decoration, and destructive issue operations (with caller-side confirmation).
 
 **Upstream:** [GitHub templates](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`body-skeleton.md`](body-skeleton.md) — issue body markdown skeleton.
 2. [`close-as-duplicate.md`](close-as-duplicate.md) — close-as-duplicate command notes.

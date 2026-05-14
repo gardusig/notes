@@ -1,10 +1,10 @@
-# Per-repo bootstrap (Cursor and hygiene)
+# 🧴 Per-repo bootstrap (Cursor and hygiene)
 
 **Upstream:** [`code/README.md`](../../README.md)
 
 Use this when you **clone a repo** or start owning a new service codebase. Goal: predictable agent behavior, stable terminal context, and optional team-facing rules without copying secrets into chat.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Minimal repo hygiene](#minimal-repo-hygiene)
@@ -14,13 +14,13 @@ Use this when you **clone a repo** or start owning a new service codebase. Goal:
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 Standardize what **each** coding repo should have so **you and agents** share the same assumptions: where rules live, how hooks might run, and where the shell session is anchored.
 
 ---
 
-## Minimal repo hygiene
+## 🧴 Minimal repo hygiene
 
 | Check | Why |
 | --- | --- |
@@ -31,7 +31,7 @@ Standardize what **each** coding repo should have so **you and agents** share th
 
 ---
 
-## `.cursor/` checklist
+## ☑️ `.cursor/` checklist
 
 Treat this as a **copy-paste scaffold** when a repo has no Cursor layout yet. Adjust names to match the project; keep files **small and specific** rather than one giant rule file. Optional **`.cursor/templates/`** trees are per-repo: keep only what you paste from, and prefer the wiki-first templates under `code/templates/` in this notes repo.
 
@@ -47,7 +47,7 @@ Do **not** commit API keys, session cookies, or production URLs that embed crede
 
 ---
 
-## Pin the terminal tab
+## 📌 Pin the terminal tab
 
 **Why:** Agent sessions and multi-step tasks often assume a **single working directory** and **one shell history**. Unpinned tabs make it easy to run `git` or tests in the wrong clone.
 
@@ -59,7 +59,7 @@ Do **not** commit API keys, session cookies, or production URLs that embed crede
 
 ---
 
-## Optional: AGENTS.md and rules
+## ➕ Optional: AGENTS.md and rules
 
 | Artifact | When to use |
 | --- | --- |

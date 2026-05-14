@@ -1,11 +1,11 @@
-# Key decisions
+# ✅ Key decisions
 
 Document **why** the system is shaped this way. New entries add at the **top** (newest first).
 
-## Template
+## 📋 Template
 
 - **YYYY-MM-DD — &lt;Title&gt;** — **Context:** … **Decision:** … **Consequences:** …
 
-## Decisions
+## ✅ Decisions
 
 - **YYYY-MM-DD — &lt;Title&gt;** — <Summary>

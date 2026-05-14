@@ -1,4 +1,4 @@
-# Phase 1 — Idea and a good-enough task
+# 📋 Phase 1 — Idea and a good-enough task
 
 **Upstream:** [`README.md`](README.md)
 

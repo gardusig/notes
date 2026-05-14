@@ -1,4 +1,4 @@
-# Issue labels — decorate before create/edit
+# 🎫 Issue labels — decorate before create/edit
 
 Use when **`gh issue create`** / **`gh issue edit`** should carry **0–3** high-signal labels.
 

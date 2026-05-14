@@ -1,4 +1,4 @@
-# Play
+# 📌 Play
 
 Everything under **`play/`** is **things you actively play or practice**—instruments, video games, puzzles—not passive consumption (that lives under **[consume/](../consume/README.md)**).
 

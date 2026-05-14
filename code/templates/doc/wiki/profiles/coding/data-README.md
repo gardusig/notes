@@ -1,8 +1,8 @@
-# Data
+# 📌 Data
 
 Entities, storage, and schema evolution.
 
-## Contents
+## 📌 Contents
 
 1. [Models](models.md)
 2. [Storage](storage.md)

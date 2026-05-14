@@ -1,8 +1,8 @@
-# Layered / split architecture (full stack)
+# 🏗️ Layered / split architecture (full stack)
 
 Shows **presentation → application → domain → infrastructure** (or a **split deployable** view: web app, API, workers). Adjust subgraph labels to match your repo (`apps/web`, `services/api`, etc.).
 
-## Horizontal layers (single deployable)
+## 🚀 Horizontal layers (single deployable)
 
 ```mermaid
 flowchart TB
@@ -29,7 +29,7 @@ flowchart TB
   usecases --> ext
 ```
 
-## Split packages / services (same diagram style)
+## 📊 Split packages / services (same diagram style)
 
 ```mermaid
 flowchart LR
@@ -64,7 +64,7 @@ flowchart LR
   worker --> db
 ```
 
-## Related
+## 📌 Related
 
 - System overview table + simple flow: [`../doc/wiki/profiles/coding/architecture-system-overview.md`](../doc/wiki/profiles/coding/architecture-system-overview.md)
 - Repo layout ideas: [`../fullstack/repo-layout-domain-split.md`](../fullstack/repo-layout-domain-split.md)

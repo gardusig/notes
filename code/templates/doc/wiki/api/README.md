@@ -1,10 +1,10 @@
-# Template hub — wiki API stubs
+# 📋 Template hub — wiki API stubs
 
 Pasteable API documentation starters (paths, examples, schemas).
 
 **Upstream:** [Wiki templates](../README.md)
 
-## Contents
+## 📌 Contents
 
 1. [`README-template.md`](README-template.md) — API area README pattern.
 2. [`endpoints-template.md`](endpoints-template.md) — endpoint table skeleton.

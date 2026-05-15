@@ -1,6 +1,6 @@
 # 🔁 Routine
 
-Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bounded daily practice** (puzzles, language apps). **How you pick work** (P0–P4, surfaces) stays in [`../rules/priority.md`](../rules/priority.md) and [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context). **Principles and risk framing** — [`../rules/governance.md`](../rules/governance.md) · [`../rules/README.md`](../rules/README.md).
+Body clock, **weekly rhythm**, nutrition, home maintenance, and **bounded daily practice** (puzzles, language apps). **How you pick work** (P0–P4, surfaces) stays in [`../rules/priority.md`](../rules/priority.md) and [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context). **Principles and risk framing** — [`../rules/governance.md`](../rules/governance.md) · [`../rules/README.md`](../rules/README.md).
 
 **Upstream:** [Notes root](../../README.md) · [Tasks hub](../README.md)
 
@@ -17,8 +17,7 @@ Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bou
 | **[wake-up.md](wake-up.md)** | Morning window and ordered sequence. |
 | **[sleep.md](sleep.md)** | Wind-down, sleep target, night hygiene. |
 | **[diet.md](diet.md)** | Meal times, rules, hunger protocol, cooking cadence, flexibility. |
-| **[hydration.md](hydration.md)** | When to drink extra water. |
-| **[maintenance.md](maintenance.md)** | Weekly / monthly / long-term home tasks; pointers to recurring mirror. |
+| **[maintenance.md](maintenance.md)** | Weekly / monthly / long-term home tasks; pointers to recurring cadence. |
 | **[daily-practice.md](daily-practice.md)** | Chess, puzzles, LinkedIn, Duolingo — bounded habits, lagging metrics. |
 
 ## 🌊 Core flow (summary)
@@ -50,7 +49,7 @@ Body clock, **weekly rhythm**, nutrition, hydration, home maintenance, and **bou
 | Daily practice | See [daily-practice.md](daily-practice.md) |
 | Morning anchor drink | Daily (morning) |
 | Dinner | Daily (~19:00) |
-| Hydration | Continuous — [hydration.md](hydration.md) |
+| Hydration | Continuous — water habit (see [diet.md](diet.md) for meal-adjacent rules) |
 | Lunch (soup default) | Daily (~13:00) |
 | Sleep routine | Daily — [sleep.md](sleep.md) |
 | Teeth | After every meal |

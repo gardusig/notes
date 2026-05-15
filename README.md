@@ -2,25 +2,28 @@
 
 This repo is a **personal wiki**: runbooks, recommendation lists, in-progress organization, and light procedural notes—not a product or advice for others.
 
-Personal runbooks: device setup, personal inventory, shopping by store, active play, listening habits, kitchen notes, diagram notes, and AI-assisted coding playbooks.
+Personal runbooks: device setup, personal inventory, eating and household supply lists, active play, listening habits, diagram notes, and AI-assisted coding playbooks.
 
 ## 📑 Index
 
 - **[code/](code/README.md)** — Cursor, agents, per-repo bootstrap, tasks, debugging UI flows, models, personal `@` skills
-- **[consume/](consume/README.md)** — passive consumption: watched film/TV/anime, to-watch queues by kind, books + wiki links, music playlists ([playlists/](consume/playlists/README.md)); podcasts, live follows, and online/ambient habits ([channels/](consume/channels/README.md))
+- **[watch/](watch/README.md)** — passive video: watched logs (movies, TV, anime) and **to-watch** queue by medium and kind
+- **[read/](read/README.md)** — books (finished + queue) and **library-links** (wikis aligned to the watch library)
+- **[listen/](listen/README.md)** — music playlists (YouTube Music stubs + track tables by mood / theme)
 - **[setup/](setup/README.md)** — computers and phones: setup, workflows, what to buy
 - **[wear/](wear/README.md)** — personal inventory: clothing, daily carry, tech backpack
 - **[play/](play/README.md)** — instruments, video games, puzzles
-- **[cook/](cook/README.md)** — kitchen operations by type (drinks, routine, tasty meals) and tool heuristics
-- **[buy/](buy/README.md)** — purchase lists by store: pharmacy, supermarket, online
+- **[eat/](eat/README.md)** — food: recipes with per-cook **Planning** + **Shopping** (store / pantry), soups, italian, meat, dessert
+- **[drink/](drink/README.md)** — beverages: juice, coffee, tea, soda (links to [eat/pantry.md](eat/pantry.md) for rhythm restock)
+- **[supply/](supply/README.md)** — household restock: pharmacy run, **cleaning / laundry**, **personal care** (sink + shower)
 - **[wonder/](wonder/README.md)** — conceptual models hub (lifecycle, metaphors, life arc / HUD, tactical HUD, philosophical vigilance); entry points include [life-flow-judgment.md](wonder/life-flow-judgment.md), [life-arc.md](wonder/life-arc.md), [life-game-structure.md](wonder/life-game-structure.md#tactical-hud)
-- **[plan/](plan/README.md)** — practical task system: surfaces, recurring mirror, **routine** (sleep, meals, weekly rhythm); **rules** ([`plan/rules/README.md`](plan/rules/README.md): governance, priority P0–P4, plan-making, emotional routing, risk A–E)
+- **[plan/](plan/README.md)** — practical task system: surfaces, **routine** (sleep, meals, weekly rhythm), **rules** ([`plan/rules/README.md`](plan/rules/README.md): governance, priority P0–P4, plan-making, emotional routing, risk A–E)
 
 ## 🔧 Repo maintenance (links and headings)
 
 Tooling lives at the **repo root** (no `scripts/` folder).
 
-- **Link review** — export or diff browser bookmarks as [`bookmarks.html`](bookmarks.html); prune dead or duplicate URLs, then align anything worth keeping with curated hubs such as [`consume/read/library-links.md`](consume/read/library-links.md) (media-aligned wikis) and the rest of the tree.
+- **Link review** — export or diff browser bookmarks as [`bookmarks.html`](bookmarks.html); prune dead or duplicate URLs, then align anything worth keeping with curated hubs such as [`read/library-links.md`](read/library-links.md) (media-aligned wikis) and the rest of the tree.
 - **Heading emoji pass** — from the repo root: `python3 add_heading_emojis.py` ([`add_heading_emojis.py`](add_heading_emojis.py)) walks tracked `*.md` under this repo and adds emoji prefixes to ATX headings when missing. Run after substantive markdown edits and **before** opening or updating a GitHub PR (`@gh-pr` after `@git-pull` / `@git-push` per your skills workflow).
 
 ## ☀️ Daily capture and modes

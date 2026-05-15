@@ -181,7 +181,7 @@ Other **gov** apps (**Receita**, **INSS**, **CDT**, state **Detran**, etc.) stay
 | **YouTube**       | On-demand video (see Initial setup for cellular quality). |
 | **YouTube Music** | Music streaming. |
 
-**Backup storage:** If your phone supports removable storage, keep **large downloads**, **offline** music/video, and **Stremio** cache there so internal storage stays light. Track what you keep in the media library at **[consume/media/README.md](../consume/media/README.md)**.
+**Backup storage:** If your phone supports removable storage, keep **large downloads**, **offline** music/video, and **Stremio** cache there so internal storage stays light. Track what you keep in the media library at **[watch/README.md](../watch/README.md)**.
 
 ### 📌 Communication
 

@@ -1,8 +1,8 @@
 # 📚 Library links — read with the media roster
 
-Curated **hubs** (wikis, Wikipedia) for each property in your watched media library (`consume/media/`). Add bullets as you find good articles or episode guides.
+Curated **hubs** (wikis, Wikipedia) for each property in your watched media library (**[watch/](../watch/README.md)**). Add bullets as you find good articles or episode guides.
 
-**Watch log:** [media/README.md](../media/README.md)
+**Watch log:** [watch/README.md](../watch/README.md)
 
 ---
 

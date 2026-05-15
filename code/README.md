@@ -79,6 +79,7 @@ flowchart LR
 | [`craft-issue/maintenance/repo-bootstrap.md`](craft-issue/maintenance/repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal; optional `.cursor/templates/` pasteables and wiki templates from `templates/`. |
 | [`craft-issue/creativity/create-engineering-task.md`](craft-issue/creativity/create-engineering-task.md) | Ticket skeleton and agent-friendly fields. |
 | [`craft-issue/maintenance/issue-triage-and-reshape.md`](craft-issue/maintenance/issue-triage-and-reshape.md) | Read-only triage flow and issue reshape checklist before opening or editing issues. |
+| [`craft-pr/README.md`](craft-pr/README.md) | **Execution hub**: work with agents, skills and chat patterns. |
 | [`craft-pr/work-task-with-agents.md`](craft-pr/work-task-with-agents.md) | Agent vs terminal, chunking, verify. |
 | [`craft-issue/creativity/models-and-modes.md`](craft-issue/creativity/models-and-modes.md) | Model policy; routine **best value** tier (e.g. Composer 2 non-Fast—re-validate when pricing changes). |
 | [`craft-issue/creativity/plan-first-and-ui-context.md`](craft-issue/creativity/plan-first-and-ui-context.md) | Default bias: Plan before Agent; use chat context (no extra “skill” for built-in UI). |

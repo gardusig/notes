@@ -1,6 +1,6 @@
 # 🔧 Home maintenance
 
-**Home / body** cadence here. **Git-backed recurring mirror** (pharmacy run, backups, IRPF, etc.) — [`../recurring.md`](../recurring.md). Money inbox habits stay in whatever tool you use; this file is for **physical rhythm**.
+**Home / body** cadence here. **Recurring / shave** (pharmacy run, backups, IRPF, etc.) — track **Last done** in your calendar or task app (or add `plan/recurring.md` again if you want a git mirror). Money inbox habits stay in whatever tool you use; this file is for **physical rhythm**.
 
 **Upstream:** [Routine hub](README.md)
 
@@ -16,14 +16,14 @@
 
 | Task | Frequency |
 | --- | --- |
-| Playlist review | 1× — [consume/playlists/README.md](../../consume/playlists/README.md) |
+| Playlist review | 1× — [listen/README.md](../../listen/README.md) |
 
 ## 📌 Long-term
 
 | Task | Frequency | Note |
 | --- | --- | --- |
-| Dentist | Quarterly | Also in [`../recurring.md`](../recurring.md) roster |
+| Dentist | Quarterly | Track **Last done** in your recurring system |
 | Health exams | Yearly | Same |
 | Taxes / IRPF | Yearly | Same |
 
-Avoid duplicating **Last done** dates here; bump them in `recurring.md` when you complete those items.
+Avoid duplicating **Last done** dates here; bump them in your **calendar / recurring app** when you complete those items.

@@ -10,6 +10,15 @@ This folder holds **personal setup, hardware, and shopping notes** for **compute
 
 ## 📑 Index
 
+| File | Purpose |
+| --- | --- |
+| **[windows.md](windows.md)** | Gaming / media **Windows** setup (software-first template). |
+| **[desktop.md](desktop.md)** | AM5 **gaming tower** hardware, assembly, peripherals, GPU tiers. |
+| **[macOS.md](macOS.md)** | Apple Silicon **dev** laptop; Air vs Pro and **What to buy**. |
+| **[parity.md](parity.md)** | Same concerns on **Mac vs Windows** by domain. |
+| **[work.md](work.md)** | SDE2 onboard and daily workflow. |
+| **[android.md](android.md)** | Street phone; battery, banks, Pix, puzzles; backup storage note. |
+
 - [Purpose & summary](#purpose--summary)
 - [Recommended template for a device guide](#recommended-template-for-a-device-guide)
 - **Computer (desktop & laptop)**

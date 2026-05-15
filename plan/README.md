@@ -1,6 +1,6 @@
 # 📋 Tasks
 
-Personal **task system**: practical execution — **body clock and habits** in [`routine/README.md`](routine/README.md); **principles, execution, planning discipline, risk, and decisions** in [`rules/README.md`](rules/README.md); and a git-backed **recurring** mirror in [`recurring.md`](recurring.md).
+Personal **task system**: practical execution — **body clock and habits** in [`routine/README.md`](routine/README.md); **principles, execution, planning discipline, risk, and decisions** in [`rules/README.md`](rules/README.md). **Recurring / shave cadences** (dentist, backups, taxes) — track **Last done** wherever you keep them (calendar, task app); optional git mirror can live in a future `plan/recurring.md` if you want it back in-repo.
 
 **Upstream:** [Notes root](../README.md)
 
@@ -9,8 +9,7 @@ Personal **task system**: practical execution — **body clock and habits** in [
 | File | Purpose |
 | --- | --- |
 | **[rules/README.md](rules/README.md)** | Hub for **governance**, **priority (P0–P4)**, **plan-making efficiency**, emotional routing, risk A–E, decisions. |
-| **[routine/README.md](routine/README.md)** | Weekly rhythm, wake-up, sleep, diet, hydration, home maintenance, bounded daily practice (puzzles, apps). |
-| **[recurring.md](recurring.md)** | Shave backup table: cadence, P1–P3 labels, **Last done** — update when your external recurring list or cadences change, or after completions. |
+| **[routine/README.md](routine/README.md)** | Weekly rhythm, wake-up, sleep, diet, home maintenance, bounded daily practice (puzzles, apps). |
 
 **Surfaces, lookup order, and context** — [Task surfaces and context](#task-surfaces-and-context) below.
 
@@ -18,7 +17,7 @@ Personal **task system**: practical execution — **body clock and habits** in [
 
 ## 🧩 Task surfaces and context
 
-Recurring **shave** mirror: [recurring.md — Recurring roster](recurring.md#recurring-roster-shave-backup).
+Recurring **shave** items: keep **Last done** in your external system (or reintroduce a small `plan/recurring.md` table if you want it versioned here again).
 
 ### 📌 Paid work hours
 

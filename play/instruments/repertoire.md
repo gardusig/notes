@@ -2,9 +2,9 @@
 
 **What this file is for:** pieces you **learn or perform** on an instrument—what you know, what you’re working on, and how you label it.
 
-**Pair:** [consume/playlists](../../consume/playlists/README.md) is for **listening** (likes, playlists, library habits)—not the same as this file.
+**Pair:** [listen/README.md](../../listen/README.md) is for **listening** (likes, playlists, library habits)—not the same as this file.
 
-**Index:** [instruments/README.md](README.md) lists every title here with jump links; playlist catalog stays in [consume/playlists](../../consume/playlists/README.md).
+**Index:** [instruments/README.md](README.md) lists every title here with jump links; playlist catalog stays in [listen/README.md](../../listen/README.md).
 
 ---
 
@@ -21,7 +21,7 @@
 
 **Layout:** Each title has a **metadata table** first, then **Parts I know** as a **bullet list**. Nest bullets under an instrument when it clarifies who plays what; use a flat list when one instrument carries the whole arrangement.
 
-**Listening / library:** [consume/playlists](../../consume/playlists/README.md) — likes, playlists, and cleanup workflow.
+**Listening / library:** [listen/README.md](../../listen/README.md) — likes, playlists, and cleanup workflow.
 
 ---
 

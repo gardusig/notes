@@ -1,10 +1,10 @@
 # 🎵 Music — playlists and library
 
-**Likes**, **playlists**, and **library cleanup** for listening. Separate from **[play/instruments](../../play/instruments/README.md)** (what you perform or practice). **Podcasts**, **live channels**, and the **online feed runbook** live under **[channels/](../channels/README.md)**.
+**Likes**, **playlists**, and **library cleanup** for listening. Separate from **[play/instruments](../../play/instruments/README.md)** (what you perform or practice). **Podcasts / live channels** — not migrated into this repo yet; add a `listen/channels/` hub when you want them versioned here.
 
 Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it) and a **Tracks** table (`#`, Artist, Title, Album / mix, Length). Fill rows when you export from the app; empty tables are fine as placeholders.
 
-**Upstream:** [consume/README.md](../README.md) · [Notes root](../../README.md)
+**Upstream:** [Notes root](../../README.md) · [Read hub](../README.md)
 
 ---
 
@@ -76,7 +76,7 @@ Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it)
 ## 🎵 Auto playlists (no stub files)
 
 - **Liked Music** — managed in YouTube Music only unless you add a dedicated note file later.
-- **Episodes for Later** — podcast queue; see **[channels/podcasts.md](../channels/podcasts.md)**.
+- **Episodes for Later** — podcast queue; keep in the podcast app until you add **`listen/channels/`** stubs here.
 
 ---
 

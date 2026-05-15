@@ -19,6 +19,6 @@
 
 - **Task hub narrative** (where things live, employer vs personal) — [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context).  
 - **Body clock and habits** — [`../routine/README.md`](../routine/README.md).  
-- **Recurring mirror** — [`../recurring.md`](../recurring.md).  
+- **Recurring / shave Last done** — your calendar or task app (optional future `plan/recurring.md` in this repo).  
 - **Capture and modes** — [`../../README.md#daily-capture-and-modes`](../../README.md#daily-capture-and-modes).  
 - **Today’s HUD** — [`../../README.md#current-snapshot`](../../README.md#current-snapshot).

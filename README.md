@@ -10,6 +10,7 @@ Personal runbooks: device setup, personal inventory, eating and household supply
 - **[watch/](watch/README.md)** — passive video: watched logs (movies, TV, anime) and **to-watch** queue by medium and kind
 - **[read/](read/README.md)** — books (finished + queue) and **library-links** (wikis aligned to the watch library)
 - **[listen/](listen/README.md)** — music playlists (YouTube Music stubs + track tables by mood / theme)
+- **[buy/](buy/README.md)** — shopping lists: eat, drink, pharmacy, bathroom, cleaning
 - **[setup/](setup/README.md)** — computers and phones: setup, workflows, what to buy
 - **[wear/](wear/README.md)** — personal inventory: clothing, daily carry, tech backpack
 - **[play/](play/README.md)** — instruments, video games, puzzles
@@ -23,7 +24,7 @@ Personal runbooks: device setup, personal inventory, eating and household supply
 
 Tooling lives at the **repo root** (no `scripts/` folder).
 
-- **Link review** — export or diff browser bookmarks as [`bookmarks.html`](bookmarks.html); prune dead or duplicate URLs, then align anything worth keeping with curated hubs such as [`read/library-links.md`](read/library-links.md) (media-aligned wikis) and the rest of the tree.
+- **Link review** — export or diff browser bookmarks as [`bookmarks.html`](bookmarks.html); prune dead or duplicate URLs, then fold survivors into the nearest subtree (`read/`, `watch/`, `listen/`, …) via each folder’s **📑 Index**.
 - **Heading emoji pass** — from the repo root: `python3 add_heading_emojis.py` ([`add_heading_emojis.py`](add_heading_emojis.py)) walks tracked `*.md` under this repo and adds emoji prefixes to ATX headings when missing. Run after substantive markdown edits and **before** opening or updating a GitHub PR (`@gh-pr` after `@git-pull` / `@git-push` per your skills workflow).
 
 ## ☀️ Daily capture and modes

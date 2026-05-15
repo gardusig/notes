@@ -1,40 +1,24 @@
-# 🍕 Pizza (home oven)
+# 🍕 Pizza hub (tray)
 
-Shared **gear** and **safety** for the three variants under **`italian/pizza/`**. Each variant file has its own **Planning**, **Shopping**, and **Recipe**.
+Shared workflow for **home-tray pizza**: dough handling and links into per-style runbooks under **`pizza/`**.
 
-**Upstream:** [Eat](../README.md)
+**Required equipment:** a **domestic oven** (electric or gas) that can reach a **strong pizza temperature** — these runbooks do **not** cover air-fryer-only or stovetop-only pizza.
+
+**Upstream:** [Italian](README.md)
 
 ## 📑 Index
 
-| Variant | File | Summary |
-| --- | --- | --- |
-| **Portuguese** | [pizza/portuguese.md](pizza/portuguese.md) | Massa, sauce, **ham**, **eggs**, **onion**, cheese, oregano |
-| **Mozzarella** | [pizza/moza.md](pizza/moza.md) | Same base, **no** ham / eggs / onion — mozzarella-forward |
-| **Tuna** | [pizza/tuna.md](pizza/tuna.md) | Tomato + **tuna** + cheese + oregano (+ dough) |
+| Topic | Link |
+| --- | --- |
+| **Variants** | [pizza/README.md](pizza/README.md) — Margherita, Portuguese, tuna. |
 
----
+## Oven and tray
 
-## 📌 Oven and baking dish (required)
+1. **Preheat** the **oven** as hot as it allows **safely** for pizza (often **240–260 °C** when available; home ovens vary).
+2. **Surface:** ~**32 cm** round tray or sheet pan; **light oil** or **cornmeal** under the dough if it sticks.
+3. **Time:** about **8–14 minutes** until the crust and cheese look right—depends on thickness and oven.
 
-- **Home oven** — preheat **as hot as your oven allows** for pizza (often **220–250 °C**; some ovens cap lower — use max **without** broil unless you know the stone/tray limit).
-- **Baking dish / tray** — metal **pizza tray**, large **ceramic oven dish**, or **stone + peel** if you own them. **Name your size** in each variant (e.g. **32 cm round** or **35×25 cm**) so **servings** (slices) stay honest.
-- **Oven gloves** — dish and rim stay **stupid hot** after bake.
+## Dough and sauce (all variants)
 
-## 📌 Cross-variant notes
-
-- **Dough (massa):** one ball per tray unless you roll thinner on purpose.
-- **Sauce:** thin layer → avoids soggy center; leave a **small rim** for crust.
-- **Cheese:** mozzarella-forward variants benefit from **low moisture** mozzarella when you want less weeping.
-- **Eggs (Portuguese):** crack **late** in the bake or **mid-bake** so whites set without rubberizing — each variant file states a default.
-
----
-
-## 📌 Master planning (order-of-magnitude)
-
-| Variant | Servings (typical tray) | × / month |
-| --- | ---: | ---: |
-| Portuguese | 6–8 slices | 1–3 |
-| Mozzarella | 6–8 slices | 1–4 |
-| Tuna | 6–8 slices | 1–2 |
-
-*Kcal and R$ live per variant — dough and cheese dominate.*
+- **Dough:** stretch or roll to an even thickness; avoid a thick rim if you want even cooking.
+- **Sauce:** spread **thinly** so the middle does not go soggy; season lightly if the passata is flat.

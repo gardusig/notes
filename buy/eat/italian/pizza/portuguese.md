@@ -54,8 +54,7 @@
 
 ## 📌 3. Prerequisites
 
-See [Pizza hub](../pizza.md) (oven + baking dish section).
-
+- **Oven** — **required**; tray or stone bakes inside it — see [Pizza hub](../pizza.md) for temperature, tray size, dough and sauce rules.
 - **Rolling pin** (or hand-stretch skill).
 - **Peel** optional if using stone.
 

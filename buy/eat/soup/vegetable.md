@@ -1,6 +1,6 @@
 # 🍽️ Vegetable + meat soup
 
-Daily-lunch style soup: **seven portions**, lower calorie density, high micronutrients, high satiety. **One full cook** — shopping covers the whole pot.
+Daily-lunch style soup: **seven portions**, lower calorie density, high micronutrients, high satiety. **One full cook** — shopping covers the whole pot. **Pressure cooker required** (see §3–4).
 
 **Upstream:** [Eat](../README.md)
 
@@ -67,14 +67,12 @@ Daily-lunch style soup: **seven portions**, lower calorie density, high micronut
 
 **Cookware**
 
-- **Large pot** (or Dutch oven) with lid — volume for ~2.75 L water + solids.
-- **Frying pan** or pot base for browning if you do not brown in the soup pot.
-- **Timer** for simmer phases.
+- **Pressure cooker (~6 L+)** — **required** for this runbook (electric or stovetop). The timetables in §4 are written for pressure + a short open-pot finish.
+- **Wooden spoon** or heat-safe spatula.
 
-**Cutting and prep**
+**Cutting**
 
-- **Cutting board**; **chef’s knife** for onion, garlic, tomatoes, veg.
-- **Plastic peeler** (Y-style) where you peel.
+- **Cutting board** and **chef’s knife** for onion, garlic, tomatoes, veg.
 
 **Finish and storage**
 
@@ -112,32 +110,20 @@ Daily-lunch style soup: **seven portions**, lower calorie density, high micronut
 
 *Meat kcal uses a **mid estimate** (~725 for 500 g); lean turkey can land nearer **~550**, fattier grind toward **~900**.*
 
-### 📝 Instructions
+### 📝 Instructions (pressure cooker)
 
-1. Base flavor:
-   - Heat oil in large pot.
-   - Sauté onion + garlic until fragrant.
-   - Add meat and brown lightly.
-2. Build structure:
-   - Add tomatoes → cook until soft.
-   - Add harder vegetables: potatoes, carrots, cassava, chayote.
-3. Add water:
-   - Pour all water; bring to boil.
-4. Simmer phase 1:
-   - Cook 15–20 min.
-5. Add remaining:
-   - zucchini, cabbage, broccoli, peas, lentils.
-6. Simmer phase 2:
-   - Cook another 15–20 min.
-7. Final nutrients:
-   - Add spinach/kale at the end.
-8. Optional texture:
-   - Blend ~20–30% of soup for thickness.
-9. Adjust seasoning.
+1. **Sauté base (lid off / sauté mode):** heat oil in the pressure pot. Cook onion + garlic until fragrant. Add meat; brown lightly. Add tomatoes; cook until softened.
+2. **First pressure — structure:** add potato, carrot, optional cassava, chayote, **water**, dry lentils, salt/pepper. Seal. **High pressure 10 minutes**, then **natural release ~12–15 minutes** (or partial NR + careful QR if your manual prefers for foam).
+3. **Open pot — tender veg:** switch to **sauté / simmer** (lid off). Add zucchini, cabbage, broccoli, peas. **Simmer ~10–12 minutes** until tender.
+4. **Greens:** stir in spinach/kale; cook **1–3 minutes** until wilted.
+5. **Optional thickness:** blend **~20–30%** of the soup off the heat; return and stir.
+6. **Seasoning:** adjust salt and pepper.
 
 **Portioning**
 
 - Divide into **7 containers**.
+
+*If your cooker runs hot or your potato dice is large, add **+2 min** to step 2 next time; if veg mushes, shorten step 3.*
 
 ---
 

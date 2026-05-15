@@ -6,7 +6,7 @@
 
 **Requirements:** Each format below can list what you need (space, gear, posture). Add stricter notes here as you discover what actually works for you.
 
-## 📌 What’s in this folder
+## 📑 Index
 
 | File | Purpose |
 |------|---------|
@@ -55,4 +55,4 @@ Phone or laptop apps are fine for travel or a quick hit, but they sit **second**
 
 *(Replace with your real rules when you have them.)*
 
-**Upstream:** [Play](../README.md) · **Chess.com practice:** [chess.md](chess.md) · **Completion lanes & counters:** [lanes.md](lanes.md)
+**Upstream:** [Play](../README.md)

@@ -2,8 +2,6 @@
 
 Personal **task system**: practical execution — **body clock and habits** in [`routine/README.md`](routine/README.md); **principles, execution, planning discipline, risk, and decisions** in [`rules/README.md`](rules/README.md). **Recurring / shave cadences** (dentist, backups, taxes) — track **Last done** wherever you keep them (calendar, task app); optional git mirror can live in a future `plan/recurring.md` if you want it back in-repo.
 
-**Upstream:** [Notes root](../README.md)
-
 ## 📑 Index
 
 | File | Purpose |
@@ -52,3 +50,5 @@ Full picking rules: [`rules/priority.md`](rules/priority.md).
 ### 📌 Long arc (execution tie-in)
 
 Use this for **how you weight work** in practice. **Why** milestones and multi-month intent matter — [`rules/governance.md#long-arc`](rules/governance.md#long-arc). When idle: prefer motion that **ships** over infinite prep, unless a deadline or commitment forces prep first.
+
+**Upstream:** [Notes root](../README.md)

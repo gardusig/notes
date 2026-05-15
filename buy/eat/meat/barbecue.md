@@ -2,7 +2,7 @@
 
 **Premium beef** (e.g. **filé mignon**, ribeye when splurging) over **charcoal** — higher R$ per cook, fewer times per month than the pressure mexidão lane.
 
-**Upstream:** [Eat](../README.md) · **Economy batch:** [pork.md](pork.md)
+**Upstream:** [Eat](../README.md) · **Economy batch:** [mexidao.md](mexidao.md)
 
 ## 📑 Index
 

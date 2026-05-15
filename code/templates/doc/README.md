@@ -4,8 +4,7 @@ Skeleton pages for **`docs/`** hubs, wiki profiles, tables, explanations, and me
 
 **Upstream:** [Template hub `templates/`](../README.md)
 
-## 📌 Contents
-
+## 📑 Index
 1. **[`readme/`](readme/README.md)** — generic README, hub, leaf, root, archive, merge-playbook starters.
 2. **[`wiki/`](wiki/README.md)** — API stubs, shared hints, profile-based wiki packs.
 3. [`diagram-conventions.md`](diagram-conventions.md) — when and how to draw mermaid in docs.

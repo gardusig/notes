@@ -1,6 +1,6 @@
 # 🫘 Bean soup (batch)
 
-Pressure-cooker beans: ~8–10 servings, thick, creamy, high protein, freezes well. **One full cook** — shopping lists everything for this batch.
+Pressure-cooker beans: ~8–10 servings, thick, creamy, high protein, freezes well. **One full cook** — shopping lists everything for this batch. **Pressure cooker required** (see §3).
 
 **Upstream:** [Eat](../README.md)
 
@@ -58,7 +58,7 @@ Pressure-cooker beans: ~8–10 servings, thick, creamy, high protein, freezes we
 
 **Cookware**
 
-- **Pressure cooker** — central for beans and long simmers.
+- **Pressure cooker (~6 L+)** — **required** (electric or stovetop). This bean runbook is written around pressure from **dry** beans; do not substitute a plain stockpot for the same times.
 - **Wooden spoon** or heat-safe spatula.
 
 **Cutting**

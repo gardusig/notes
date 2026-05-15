@@ -4,8 +4,7 @@ Application-facing documentation stubs: architecture, modules, data layer, ops r
 
 **Upstream:** [Wiki profiles](../README.md)
 
-## 📌 Contents
-
+## 📑 Index
 1. [`architecture-README.md`](architecture-README.md) — architecture hub README pattern.
 2. [`architecture-data-flow.md`](architecture-data-flow.md) — data movement narrative.
 3. [`architecture-decisions.md`](architecture-decisions.md) — ADR-style decisions log stub.

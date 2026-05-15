@@ -2,7 +2,7 @@
 
 **This folder is for:** **playing music on instruments**—your repertoire, progress, and how you document each piece.
 
-## 📌 What’s in this folder
+## 📑 Index
 
 | File | Purpose |
 |------|---------|
@@ -21,7 +21,7 @@ Add more `.md` files anytime (e.g. practice plans, gig set lists, gear notes). S
 3. **Parts I know:** Bullet list under `### Parts I know`, grouped by instrument (see the **How entries are structured** section at the top of `repertoire.md`).
 4. **Listening vs playing:** Track playlists and likes in **[listen/README.md](../../listen/README.md)**; this folder is only **performance / practice**.
 
-## 📑 Song index
+## 🎼 Repertoire anchors
 
 Jump links into `repertoire.md`:
 
@@ -54,3 +54,4 @@ Jump links into `repertoire.md`:
 - [Naruto — Orochimaru theme](repertoire.md#naruto-orochimaru-theme)  
 
 **Upstream:** [Play](../README.md) · **Music:** [listen/README.md](../../listen/README.md)
+

@@ -1,8 +1,17 @@
 # 📌 Per-repo `.cursor/` bundle (reference)
 
-**Upstream:** [`../README.md`](../README.md) (template hub)
-
 This path is **documentation only**: it does **not** duplicate the markdown under [`../`](../). Use it as an **all-in-one map** for what to create under **another repo’s** `.cursor/` so agents, rules, and pasteables stay predictable.
+
+## 📑 Index
+
+- **Purpose** — goals table (next section).
+- **Recommended tree** — ASCII layout for a target repo’s `.cursor/`.
+- **What goes where** — rules vs hooks vs templates vs `AGENTS.md`.
+- **Map: template pack → `.cursor/templates/`** — copy sources and destinations.
+- **Bundles** — minimal, standard, docs-heavy `cp` recipes.
+- **Rules of thumb** — sizing rules, secrets hygiene, re-copy cadence.
+- [`../../craft-issue/maintenance/repo-bootstrap.md`](../../craft-issue/maintenance/repo-bootstrap.md) — full `.cursor/` checklist, terminal pin, `AGENTS.md`.
+- [`../README.md`](../README.md) — template hub (all pasteable areas).
 
 ## 🎯 Purpose
 
@@ -136,7 +145,4 @@ Trim unused profile folders after copy.
 
 ---
 
-## 📌 See also
-
-- [`../../craft-issue/maintenance/repo-bootstrap.md`](../../craft-issue/maintenance/repo-bootstrap.md) — full `.cursor/` checklist, terminal pin, `AGENTS.md`.
-- [`../README.md`](../README.md) — numbered **template areas** and human-oriented index of pasteables.
+**Upstream:** [`../README.md`](../README.md) (template hub)

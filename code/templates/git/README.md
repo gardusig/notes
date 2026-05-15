@@ -4,8 +4,7 @@ Commit range stories, branch naming, pull/push/reset flows, and archive naming f
 
 **Upstream:** [Template hub `templates/`](../README.md)
 
-## 📌 Contents
-
+## 📑 Index
 1. [`diff-summary.md`](diff-summary.md) — commit or range delta narrative helper.
 2. [`main-align-workflow.md`](main-align-workflow.md) — align local main to canonical remote.
 3. [`pull-workflow.md`](pull-workflow.md) — pull / merge upstream workflow notes.

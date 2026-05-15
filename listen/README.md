@@ -4,7 +4,17 @@
 
 Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it) and a **Tracks** table (`#`, Artist, Title, Album / mix, Length). Fill rows when you export from the app; empty tables are fine as placeholders.
 
-**Upstream:** [Notes root](../../README.md) · [Read hub](../README.md)
+## 📑 Index
+
+| Child folder | Hub |
+| --- | --- |
+| [brazil/](brazil/README.md) | Funk, piseiro, sertanejo stubs |
+| [blues/](blues/README.md) | Blues stub |
+| [naruto/](naruto/README.md) | Naruto-themed stubs |
+| [instrumental/](instrumental/README.md) | Instrumental stubs |
+| [fast/](fast/README.md) | High-energy stubs |
+| [slow/](slow/README.md) | Calm / sad / rock stubs |
+| [other/](other/README.md) | Rap, reggae, misc stubs |
 
 ---
 
@@ -104,3 +114,5 @@ These appeared in an older playlist draft (GitHub issue) and may be merged, rena
 - [naruto/naruto.md](naruto/naruto.md) · [naruto/naruto-cursed-seal.md](naruto/naruto-cursed-seal.md) · [naruto/naruto-orochimaru.md](naruto/naruto-orochimaru.md) · [naruto/naruto-uchiha.md](naruto/naruto-uchiha.md)
 - [other/felix-the-cat.md](other/felix-the-cat.md) · [other/hypnotize.md](other/hypnotize.md) · [other/rap.md](other/rap.md) · [other/reggae.md](other/reggae.md) · [other/soft-vocals.md](other/soft-vocals.md)
 - [slow/slow-calm.md](slow/slow-calm.md) · [slow/slow-reverb-rock.md](slow/slow-reverb-rock.md) · [slow/slow-rock.md](slow/slow-rock.md) · [slow/slow-sad.md](slow/slow-sad.md)
+
+**Upstream:** [Notes root](../../README.md) · [Read hub](../README.md)

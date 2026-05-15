@@ -4,7 +4,7 @@
 
 **Upstream:** [Tasks hub](../README.md) · [Notes root](../../README.md)
 
-## 📌 Files
+## 📑 Index
 
 | File | Role |
 | --- | --- |

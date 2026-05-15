@@ -4,8 +4,7 @@ Bodies, dedupe checklists, label decoration, and destructive issue operations (w
 
 **Upstream:** [GitHub templates](../README.md)
 
-## 📌 Contents
-
+## 📑 Index
 1. [`body-skeleton.md`](body-skeleton.md) — issue body markdown skeleton.
 2. [`close-as-duplicate.md`](close-as-duplicate.md) — close-as-duplicate command notes.
 3. [`create-prompt.md`](create-prompt.md) — `gh issue create` checklist pattern.

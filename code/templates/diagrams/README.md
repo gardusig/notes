@@ -18,8 +18,5 @@
 12. [`template-stakeholder-flow.md`](template-stakeholder-flow.md) — stakeholder lanes.
 13. [`template-state.md`](template-state.md) — state diagram.
 14. [`template-user-journey.md`](template-user-journey.md) — user journey.
-
-## 📌 Related
-
-- Template hub: [`../README.md`](../README.md).
-- Full stack + study prose templates: [`../fullstack/README.md`](../fullstack/README.md).
+15. [`../README.md`](../README.md) — template hub (all pasteable areas).
+16. [`../fullstack/README.md`](../fullstack/README.md) — full stack + study prose templates.

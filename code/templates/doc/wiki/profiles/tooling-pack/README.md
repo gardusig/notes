@@ -4,8 +4,7 @@ Automation, CI, docs generation, and repo topology stubs adjacent to application
 
 **Upstream:** [Wiki profiles](../README.md)
 
-## 📌 Contents
-
+## 📑 Index
 1. [`architecture-pack-topology.md`](architecture-pack-topology.md) — how docs, automation, and source connect.
 2. [`conventions-README.md`](conventions-README.md) — tooling conventions hub.
 3. [`data-README.md`](data-README.md) — fixtures and test data hub pattern.

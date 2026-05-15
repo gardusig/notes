@@ -8,7 +8,7 @@ Food hub: **recipe-first** notes — each dish aims for a **Planning** block (to
 | --- | --- | --- |
 | **Soups** | [`soup/bean.md`](soup/bean.md), [`soup/vegetable.md`](soup/vegetable.md) | Batch soups, pressure or simmer. |
 | **Italian** | [`italian/pasta.md`](italian/pasta.md), [`italian/pizza.md`](italian/pizza.md) | Pasta + pizza hub + variants. |
-| **Meat** | [`meat/pork.md`](meat/pork.md) (pressure mexidão), [`meat/barbecue.md`](meat/barbecue.md), [`meat/frigideira.md`](meat/frigideira.md) | Economy pressure vs premium grill / pan. |
+| **Meat** | [`meat/mexidao.md`](meat/mexidao.md), [`meat/liver.md`](meat/liver.md), [`meat/barbecue.md`](meat/barbecue.md), [`meat/frigideira.md`](meat/frigideira.md) | Mexidão, liver pan lane, charcoal, premium pan. |
 | **Dessert** | [`dessert/brigadeiro.md`](dessert/brigadeiro.md) | Brigadeiro (canonical path uses **dessert** spelling). |
 | **Fruits** | [`fruits.md`](fruits.md) | Store fruit cadence / price hints. |
 | **Seasoning** | [`seasoning.md`](seasoning.md) | Spice jars vs per-recipe shopping. |
@@ -23,7 +23,8 @@ Food hub: **recipe-first** notes — each dish aims for a **Planning** block (to
 | [Bean soup](soup/bean.md) | 8–10 | ~3,650–4,000 | *see file* | 1–2 |
 | [Vegetable soup](soup/vegetable.md) | 7 | ~2,900–3,500 | *see file* | 2–4 |
 | [Pasta](italian/pasta.md) | 5–6 | ~2,750–2,850 | *see file* | 2–4 |
-| [Pressure mexidão](meat/pork.md) | *see file* | *see file* | *see file* | 1–2 |
+| [Mexidão](meat/mexidao.md) | *see file* | *see file* | *see file* | 1–2 |
+| [Liver (pan)](meat/liver.md) | 2–3 | ~550–900 | *see file* | 0–2 |
 | [Pizza variants](italian/pizza.md) | *per tray* | *see variant* | *see variant* | 1–4 |
 | [Brigadeiro](dessert/brigadeiro.md) | *balls* | *see file* | *see file* | 0–1 |
 

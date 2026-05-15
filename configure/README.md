@@ -1,13 +1,5 @@
 # 📝 Device notes
 
-## 🎯 Purpose & summary
-
-This folder holds **personal setup, hardware, and shopping notes** for **computers** (desktop and laptop) and **phones / accessories**, in one flat list below.
-
-**Software-first** guides follow **[`windows.md`](windows.md)** (**Purpose**, **Summary**, **Index**, **Setup & installation**). **Hardware shopping** for the gaming PC is in **[`desktop.md`](desktop.md)** (**What to buy & price expectations**). Other machine notes may merge both or use a short **Hardware assumptions** stub.
-
----
-
 ## 📑 Index
 
 | File | Purpose |
@@ -38,6 +30,14 @@ This folder holds **personal setup, hardware, and shopping notes** for **compute
     - Use optional removable or backup storage only when you need extra room for large offline files.
 - **Personal inventory** — wardrobe, daily carry, and tech bag rosters live in [`../wear/README.md`](../wear/README.md).
 - **AI-assisted coding** — Cursor workflows, agent task patterns, DevTools debug flow, models, and personal skills usage: [`../code/README.md`](../code/README.md).
+
+---
+
+## 🎯 Purpose & summary
+
+This folder holds **personal setup, hardware, and shopping notes** for **computers** (desktop and laptop) and **phones / accessories**, in one flat list below.
+
+**Software-first** guides follow **[`windows.md`](windows.md)** (**Purpose**, **Summary**, **Index**, **Setup & installation**). **Hardware shopping** for the gaming PC is in **[`desktop.md`](desktop.md)** (**What to buy & price expectations**). Other machine notes may merge both or use a short **Hardware assumptions** stub.
 
 ---
 

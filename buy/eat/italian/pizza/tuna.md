@@ -42,7 +42,7 @@ Tomato + **canned tuna** (drained) + cheese + oregano + **massa**. Simple pantry
 
 ## 📌 3. Prerequisites
 
-[Pizza hub](../pizza.md).
+- **Oven** — **required**; see [Pizza hub](../pizza.md) for temperature, tray size, dough and sauce rules.
 
 ---
 

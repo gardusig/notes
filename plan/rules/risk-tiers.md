@@ -1,4 +1,4 @@
-# Risk tiers (A–E)
+# ⚡ Risk tiers (A–E)
 
 **Recommendation ladder:** higher tiers override lower ones. When something is new, **plan it** against this file plus [`../../README.md#current-snapshot`](../../README.md#current-snapshot) and your own long-arc notes (outside this repo if you keep them private).
 
@@ -6,7 +6,7 @@
 
 **Upstream:** [Rules hub](README.md)
 
-## Realism about risk
+## 📌 Realism about risk
 
 - Low probability is not zero; “it won’t happen to me” is not a plan.  
 - If something goes wrong, consequences are often **clear and expensive** (legal, social, health, money).  
@@ -14,7 +14,7 @@
 
 ---
 
-## Tier A — Do not do (at all costs)
+## 📌 Tier A — Do not do (at all costs)
 
 **Universal hard no (bad anywhere, regardless of mood or context)**
 
@@ -27,7 +27,7 @@ If it would be wrong on the front page of a newspaper in any country, treat it a
 
 ---
 
-## Tier B — Strongly not recommended (places, patterns, costs)
+## 🔁 Tier B — Strongly not recommended (places, patterns, costs)
 
 **Places / situations often poor value for peace of mind** (risk–stress lens, not a travel brochure)
 
@@ -49,7 +49,7 @@ If it would be wrong on the front page of a newspaper in any country, treat it a
 
 ---
 
-## Tier C — Not recommended (regret, reputation, spiral risk)
+## 📌 Tier C — Not recommended (regret, reputation, spiral risk)
 
 - Gossip-as-weapon and public humiliation campaigns  
 - Edge-of-law “gray” schemes where upside is small and tail risk is large  
@@ -57,7 +57,7 @@ If it would be wrong on the front page of a newspaper in any country, treat it a
 
 ---
 
-## Tier D — May be legal or common, but high emotional residue (personal caution)
+## 💭 Tier D — May be legal or common, but high emotional residue (personal caution)
 
 Not an “evil tier” — **high conflict potential** or **heavy rumination** for some people.
 
@@ -69,7 +69,7 @@ If you already run anxious, treat Tier D as **“schedule a walk before you deci
 
 ---
 
-## Tier E — Repeat vs start
+## 📌 Tier E — Repeat vs start
 
 **Usually fine to repeat** (when history says low harm)
 

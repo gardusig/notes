@@ -1,4 +1,4 @@
-# To buy / acquire — wishlist
+# 🛒 To buy / acquire — wishlist
 
 Games you **do not own yet** (or need to acquire: cart, ROM policy, edition). When purchased, add a row to **[owned-queue.md](owned-queue.md)** under **Owned — not started** (set **Archive shelf**), or promote straight to **In progress** if you start immediately.
 
@@ -9,7 +9,7 @@ Games you **do not own yet** (or need to acquire: cart, ROM policy, edition). Wh
 
 ---
 
-## Steam & store releases
+## 📌 Steam & store releases
 
 | Game | Kind | Developer (lead) | Difficulty (typical) | HLTB main *~* | HLTB 100% *~* | Purchase / platform | HowLongToBeat | Notes |
 |------|------|------------------|----------------------|---------------|---------------|----------------------|---------------|--------|
@@ -23,7 +23,7 @@ Games you **do not own yet** (or need to acquire: cart, ROM policy, edition). Wh
 
 ---
 
-## Emulation / hardware / ROM acquire list
+## 👾 Emulation / hardware / ROM acquire list
 
 | Game | Kind | Developer (lead) | Platform | Notes |
 |------|------|------------------|----------|-------|

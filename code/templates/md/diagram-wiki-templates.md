@@ -1,14 +1,14 @@
-# Diagram wiki templates
+# 📋 Diagram wiki templates
 
 Wiki-first diagram template guidance.
 
-## How to use
+## 📌 How to use
 
 - Use [`../diagrams/README.md`](../diagrams/README.md) as the canonical catalog.
 - Keep diagrams small and story-driven.
 - Reuse palette classes from [`../diagrams/palette.md`](../diagrams/palette.md).
 
-## Diagram template index
+## 📑 Diagram template index
 
 1. [`../diagrams/palette.md`](../diagrams/palette.md)
 2. [`../diagrams/examples.md`](../diagrams/examples.md)
@@ -21,7 +21,7 @@ Wiki-first diagram template guidance.
 9. [`../diagrams/template-user-journey.md`](../diagrams/template-user-journey.md)
 10. [`../diagrams/template-domain-taxonomy.md`](../diagrams/template-domain-taxonomy.md)
 
-## Per-template intent
+## 📋 Per-template intent
 
 - `template-dag`: fan-out and delegation trees.
 - `template-decision`: branching policy or UX decisions.
@@ -32,7 +32,7 @@ Wiki-first diagram template guidance.
 - `template-user-journey`: user steps, friction, and recovery.
 - `template-domain-taxonomy`: public/human/internal layering.
 
-## Related
+## 📌 Related
 
 - [`README.md`](README.md)
 - [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md)

@@ -1,4 +1,4 @@
-# Git pull workflow (merge, no push)
+# 🔁 Git pull workflow (merge, no push)
 
 Merge latest from **remotes** into the **current branch** without pushing. **Conflicts:** follow [`../doc/merge-conflicts-playbook.md`](../doc/merge-conflicts-playbook.md).
 

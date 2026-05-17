@@ -1,4 +1,4 @@
-# `gh issue create` — agent checklist (no duplicate rules)
+# 🎫 `gh issue create` — agent checklist (no duplicate rules)
 
 **Before mutation:** confirm **goal**, **title**, and **body** with the user when the issue is non-trivial or destructive follow-up is possible.
 

@@ -1,4 +1,4 @@
-# Template: state diagram
+# 📋 Template: state diagram
 
 **Portable copy:** When pasting only the **`mermaid`** block, remove this header and links. Rules: [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md).
 

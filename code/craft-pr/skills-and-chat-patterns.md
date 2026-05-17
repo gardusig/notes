@@ -1,10 +1,10 @@
-# Skills and chat patterns (personal tools)
+# 🧩 Skills and chat patterns (personal tools)
 
 **Upstream:** [`code/README.md`](../README.md)
 
 How to use **user-scoped** Cursor **skills** (and similar `@` invocations) without treating chat as the source of truth for repo policy.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Where skills live](#where-skills-live)
@@ -15,25 +15,25 @@ How to use **user-scoped** Cursor **skills** (and similar `@` invocations) witho
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 **Skills** package repeatable workflows (review, push, PR text, research context). This notes repo documents **when** to reach for them, not the full text of each skill—which **changes** on your machine.
 
 ---
 
-## Where skills live
+## 🧩 Where skills live
 
 Personal skills are typically under **your user Cursor config**, e.g. `~/.cursor/skills/` (exact layout follows Cursor’s current docs). **Repositories** may add `.cursor/rules` or project rules; see [`../craft-issue/maintenance/repo-bootstrap.md`](../craft-issue/maintenance/repo-bootstrap.md).
 
 ---
 
-## How to invoke
+## 📌 How to invoke
 
 In chat, reference a skill with the **`@`** mechanism your Cursor build uses (e.g. `@git-review`, `@git-push`, `@gh-pr`). The skill file defines **order of operations** (install, lint, test, doc sync, etc.). **You** remain responsible for **confirming** destructive or publish steps when the skill says to.
 
 ---
 
-## Suggested usage map
+## 📌 Suggested usage map
 
 | Intent | Pattern |
 | --- | --- |
@@ -46,7 +46,7 @@ Names here are **examples**; your installed pack may differ. Prefer **one skill 
 
 ---
 
-## Browser recording and capture
+## 📌 Browser recording and capture
 
 When the product offers **browser recording** or **screenshot-to-context**:
 
@@ -56,7 +56,7 @@ When the product offers **browser recording** or **screenshot-to-context**:
 
 ---
 
-## What not to mirror in this repo
+## 📌 What not to mirror in this repo
 
 - **Full copies** of every `SKILL.md` (they drift).
 - **Secrets**, internal URLs, or customer data from recordings.

@@ -1,15 +1,26 @@
-# AI-assisted coding
+# 💻 AI-assisted coding
 
 Personal **strategies for shipping code with Cursor**, agents, and **user-scoped** skills and rules—not hardware setup. For **machine and editor install**, see **[`../setup/macOS.md`](../setup/macOS.md)** (and parity). For **employer SDE2** norms, bookmarks, and team runbook *stubs*, see **[`../setup/work.md`](../setup/work.md)**. For **personal life tasks** (P0–P4, governance), see **[`../plan/README.md`](../plan/README.md)**.
 
-**Upstream:** [Notes root](../README.md)
+## 📑 Index
 
-## Purpose
+| Folder | README |
+| --- | --- |
+| **Craft issue** | [`craft-issue/README.md`](craft-issue/README.md) — tickets, Plan mode, models, repo bootstrap. |
+| **Debug** | [`debug/README.md`](debug/README.md) — idea → plan → work readiness. |
+| **Design** | [`design/README.md`](design/README.md) — solution shape before heavy implementation. |
+| **Craft PR** | [`craft-pr/README.md`](craft-pr/README.md) — execution with agents and skills. |
+| **Quality** | [`quality/README.md`](quality/README.md) — pre-merge calm read and evidence. |
+| **Deploy** | [`deploy/README.md`](deploy/README.md) — publish and post-merge. |
+| **Observe** | [`observe/README.md`](observe/README.md) — production signals after deploy. |
+| **Templates** | [`templates/README.md`](templates/README.md) — pasteables (doc, diagrams, gh, git, pr, …). |
+
+## 🎯 Purpose
 
 - Keep **one topic per file** so you can link a ticket or chat to a single runbook.
 - Separate **how to frame and execute engineering work with AI** from device shopping notes and from the personal task mirror.
 
-## Delivery spine (folders)
+## 📌 Delivery spine (folders)
 
 ```mermaid
 flowchart LR
@@ -30,7 +41,7 @@ flowchart LR
 
 **Sidecar:** [`templates/README.md`](templates/README.md) — pasteables (doc/wiki/gh/git) plus wiki-first template guidance in [`templates/md/README.md`](templates/md/README.md); artifact toolbox used across phases, not a separate “step” in the spine.
 
-## Summary
+## 📌 Summary
 
 | You need… | Start here |
 | --- | --- |
@@ -48,18 +59,9 @@ flowchart LR
 | **Default: Plan first** (summarize + plan; pad chat; Agent after) | [`craft-issue/creativity/plan-first-and-ui-context.md`](craft-issue/creativity/plan-first-and-ui-context.md) |
 | **`@` skills**, browser capture, chat patterns | [`craft-pr/skills-and-chat-patterns.md`](craft-pr/skills-and-chat-patterns.md) |
 
-## Index
-
-- [Purpose](#purpose)
-- [Delivery spine](#delivery-spine-folders)
-- [Summary](#summary)
-- [Index](#index)
-- [How this folder relates to `setup/work`](#how-this-folder-relates-to-setupwork)
-- [Topic files](#topic-files)
-
 ---
 
-## Topic files
+## 📌 Topic files
 
 | File | Role |
 | --- | --- |
@@ -79,6 +81,7 @@ flowchart LR
 | [`craft-issue/maintenance/repo-bootstrap.md`](craft-issue/maintenance/repo-bootstrap.md) | Per-repo `.cursor/` checklist and pinned terminal; optional `.cursor/templates/` pasteables and wiki templates from `templates/`. |
 | [`craft-issue/creativity/create-engineering-task.md`](craft-issue/creativity/create-engineering-task.md) | Ticket skeleton and agent-friendly fields. |
 | [`craft-issue/maintenance/issue-triage-and-reshape.md`](craft-issue/maintenance/issue-triage-and-reshape.md) | Read-only triage flow and issue reshape checklist before opening or editing issues. |
+| [`craft-pr/README.md`](craft-pr/README.md) | **Execution hub**: work with agents, skills and chat patterns. |
 | [`craft-pr/work-task-with-agents.md`](craft-pr/work-task-with-agents.md) | Agent vs terminal, chunking, verify. |
 | [`craft-issue/creativity/models-and-modes.md`](craft-issue/creativity/models-and-modes.md) | Model policy; routine **best value** tier (e.g. Composer 2 non-Fast—re-validate when pricing changes). |
 | [`craft-issue/creativity/plan-first-and-ui-context.md`](craft-issue/creativity/plan-first-and-ui-context.md) | Default bias: Plan before Agent; use chat context (no extra “skill” for built-in UI). |
@@ -86,8 +89,10 @@ flowchart LR
 
 ---
 
-## How this folder relates to `setup/work`
+## ⚙️ How this folder relates to `setup/work`
 
 [`setup/work.md`](../setup/work.md) holds **your** SDE2-oriented **personal work document** outline: deploy runbook, **debug** stub, **on-call** stub, verify deployed results, test locally. Put **team-specific URLs, service names, and escalation paths** there.
 
 This **`code/`** tree adds **Cursor- and agent-specific** playbooks (skills, models, DevTools flow) that apply across repos. When a procedure needs both, link from the ticket: e.g. “Observe: follow `code/observe/prod-ui-flows.md`; paste dashboard links from `setup/work.md`.”
+
+**Upstream:** [Notes root](../README.md)

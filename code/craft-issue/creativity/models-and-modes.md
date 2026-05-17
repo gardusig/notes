@@ -1,10 +1,10 @@
-# Models and modes (policy)
+# 🧩 Models and modes (policy)
 
 **Upstream:** [`code/README.md`](../../README.md)
 
 Stable **principles** for model choice in Cursor (or similar). Product names and tiers change; the policy should not.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Default model](#default-model)
@@ -15,13 +15,13 @@ Stable **principles** for model choice in Cursor (or similar). Product names and
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 Pick models **deliberately** so behavior, cost, and quality are predictable. **Planning** and **final review** often deserve a stronger model; **bulk edits and retries** may not. For **when** to invest in Plan vs jumping to Agent (and padding the chat with context), see [`plan-first-and-ui-context.md`](plan-first-and-ui-context.md).
 
 ---
 
-## Default model
+## 🧩 Default model
 
 | Habit | Rationale |
 | --- | --- |
@@ -32,7 +32,7 @@ Set the default in the product once and **reset** it after experiments so you do
 
 ---
 
-## Routine tier: best value at the time
+## 🔁 Routine tier: best value at the time
 
 **Principle:** the “**best cost for money**” model for everyday work **changes** whenever vendors rename tiers, adjust prices, or ship new mid-tier models. Treat your **routine default** as a **hypothesis**, not a tattoo—**re-check** the picker, billing docs, and a few real tasks on a cadence you notice (e.g. after product announcements or a bad month of invoices).
 
@@ -46,7 +46,7 @@ Set the default in the product once and **reset** it after experiments so you do
 
 ---
 
-## When to escalate
+## ❓ When to escalate
 
 | Situation | Consider |
 | --- | --- |
@@ -57,7 +57,7 @@ Set the default in the product once and **reset** it after experiments so you do
 
 ---
 
-## Avoid “Auto” when it hurts
+## 📌 Avoid “Auto” when it hurts
 
 **Auto** routing can switch underlying models between turns. That may:
 
@@ -69,7 +69,7 @@ If you notice **inconsistent** quality or **surprising** bills in Auto, **pin** 
 
 ---
 
-## Cost and latency
+## 📌 Cost and latency
 
 **Price lists and “best value” picks go stale**—align spend with [Routine tier: best value at the time](#routine-tier-best-value-at-the-time), not with memory from last quarter.
 

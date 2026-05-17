@@ -1,4 +1,4 @@
-# Task resolution lifecycle (idea → plan → work)
+# ♻️ Task resolution lifecycle (idea → plan → work)
 
 **Moved:** the full choreography lives in this folder — start at **[`README.md`](README.md)**.
 

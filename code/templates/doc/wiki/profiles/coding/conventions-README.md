@@ -1,6 +1,6 @@
-# Conventions
+# 📜 Conventions
 
-## Contents
+## 📌 Contents
 
 1. [Coding standards](coding-standards.md)
 2. [Patterns](patterns.md)

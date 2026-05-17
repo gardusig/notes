@@ -1,4 +1,4 @@
-# Phase 3 — Plan mode: load context and sharpen
+# 🧩 Phase 3 — Plan mode: load context and sharpen
 
 **Upstream:** [`README.md`](README.md)
 

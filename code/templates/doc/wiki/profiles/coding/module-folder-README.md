@@ -1,17 +1,17 @@
-# &lt;Module name&gt;
+# 📦 &lt;Module name&gt;
 
-## Responsibilities
+## 📌 Responsibilities
 
 <What this module owns.>
 
-## Dependencies
+## 📌 Dependencies
 
 <Other modules, libraries, or services this module relies on.>
 
-## Internal structure
+## 📌 Internal structure
 
 <Key folders or entrypoints—links, not an exhaustive file list.>
 
-## Safe changes
+## 📌 Safe changes
 
 <What is safe to refactor vs what would break callers or contracts.>

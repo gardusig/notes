@@ -1,8 +1,8 @@
-# Instruments — runbook
+# 📖 Instruments — runbook
 
 **This folder is for:** **playing music on instruments**—your repertoire, progress, and how you document each piece.
 
-## What’s in this folder
+## 📑 Index
 
 | File | Purpose |
 |------|---------|
@@ -10,18 +10,18 @@
 
 Add more `.md` files anytime (e.g. practice plans, gig set lists, gear notes). Summarize new files in a bullet under **Other files** below so the runbook stays complete.
 
-### Other files
+### 📌 Other files
 
 - *(none yet—list new files here when you add them.)*
 
-## How to use `repertoire.md`
+## 📜 How to use `repertoire.md`
 
 1. **New piece:** Add a `## Artist — Title` section (or `###` under **Video game & anime arrangements** to match the existing block).
 2. **Metadata table:** Fill **Artist / band**, **Year**, **Album**, **Instruments**, and any **Arrangement** / **Source** rows the template uses.
 3. **Parts I know:** Bullet list under `### Parts I know`, grouped by instrument (see the **How entries are structured** section at the top of `repertoire.md`).
-4. **Listening vs playing:** Track playlists and likes in **[consume/playlists](../../consume/playlists/README.md)**; this folder is only **performance / practice**.
+4. **Listening vs playing:** Track playlists and likes in **[listen/README.md](../../listen/README.md)**; this folder is only **performance / practice**.
 
-## Song index
+## 🎼 Repertoire anchors
 
 Jump links into `repertoire.md`:
 
@@ -53,4 +53,5 @@ Jump links into `repertoire.md`:
 - [Naruto — Sasuke theme](repertoire.md#naruto-sasuke-theme)  
 - [Naruto — Orochimaru theme](repertoire.md#naruto-orochimaru-theme)  
 
-**Upstream:** [Play](../README.md) · **Music:** [consume/playlists](../../consume/playlists/README.md)
+**Upstream:** [Play](../README.md) · **Music:** [listen/README.md](../../listen/README.md)
+

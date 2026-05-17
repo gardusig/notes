@@ -1,4 +1,4 @@
-# Template: decision / when to use (UX or policy)
+# ❓ Template: decision / when to use (UX or policy)
 
 **Portable copy:** When pasting only the **`mermaid`** block, remove this header and links. Colors: [`palette.md`](palette.md) (`ux*` or `op*`). Rules: [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md).
 

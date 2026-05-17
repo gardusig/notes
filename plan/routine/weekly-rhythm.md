@@ -1,4 +1,4 @@
-# Weekly rhythm
+# 📅 Weekly rhythm
 
 Rough **clock + weekday** map (adjust for real work blocks). **Weekend** = same anchors, **flex** on work and some chores.
 

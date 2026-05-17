@@ -1,10 +1,10 @@
-# Emotional routing
+# 💭 Emotional routing
 
 Use when mood is unstable or the day feels “on fire.” Pair with [`governance.md#when-emotional`](governance.md#when-emotional) and [`priority.md`](priority.md).
 
 **Upstream:** [Rules hub](README.md)
 
-## When to open what (fast map)
+## ❓ When to open what (fast map)
 
 | Need | Open |
 | --- | --- |
@@ -16,7 +16,7 @@ Use when mood is unstable or the day feels “on fire.” Pair with [`governance
 
 If something is **urgently medical or safety-critical**, use real-world triage (clinic, emergency services, trusted professional) — this repo is not a clinical guide.
 
-## Decision framework when emotional
+## ✅ Decision framework when emotional
 
 1. **Name the state** (tired, angry, spun up, grief, panic).  
 2. **Delay irreversible** actions — money, legal, bridges, messages you cannot unsend.  

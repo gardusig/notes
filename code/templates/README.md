@@ -1,8 +1,23 @@
-# Template hub (`templates/`)
+# 📋 Template hub (`templates/`)
 
 **Pasteables** for docs, diagrams, PRs, git narratives, GitHub issues, work plans that embed issues, and generic README scaffolds. Copy into **`docs/`**, PR/issue bodies, or any repo’s **`.cursor/templates/`**—no other repository is required. Wiki-style guidance lives directly in **[`gh/wiki-templates.md`](gh/wiki-templates.md)**, **[`plan/wiki-templates.md`](plan/wiki-templates.md)**, and **[`md/`](md/README.md)**.
 
-## Per-repo `.cursor/` (all-in-one reference)
+## 📑 Index
+
+1. **[`diagrams/`](diagrams/README.md)** — Fenced mermaid scaffolds and palette.
+2. **[`doc/`](doc/README.md)** — Folder index; page indexes, explanations, reference tables, merge playbook, diagram conventions (pasteable index skeleton in **[`doc/index.md`](doc/index.md)**).
+3. **[`doc/readme/`](doc/readme/README.md)** — Generic README, note, archive, comparison-table starters for any repo.
+4. **[`doc/wiki/`](doc/wiki/README.md)** — Profile-based wiki stubs (coding, knowledge, **tooling-pack**).
+5. **[`fullstack/`](fullstack/README.md)** — Split app layout, FE/BE contracts, study sheets; pairs with `diagrams/`.
+6. **[`git/`](git/README.md)** — Commit / range narrative helpers and [full-tree zip backup naming](git/zip-git-project-backup.md).
+7. **[`gh/`](gh/README.md)** — GitHub CLI orchestration and issue templates.
+8. **[`plan/`](plan/README.md)** — Local markdown plan that embeds a tracked issue.
+9. **[`pr/`](pr/README.md)** — PR body skeleton; title rules → **[`shared/title.md`](shared/title.md)**.
+10. **[`shared/`](shared/README.md)** — Cross-surface rules (PR + issue **titles**).
+11. **[`md/`](md/README.md)** — Wiki-style markdown template guidance (index/table/explanation + diagram pointers).
+12. **[`.cursor/README.md`](.cursor/README.md)** — Per-repo `.cursor/` layout, bundles, and `AGENTS.md` pairing.
+
+## 📌 Per-repo `.cursor/` (all-in-one reference)
 
 **Start here** when you want a **recommended layout** for `.cursor/rules`, `.cursor/templates`, hooks, and how that ties to **`AGENTS.md`**:
 
@@ -10,7 +25,7 @@
 
 For a shorter **bootstrap** checklist (terminal pin, hygiene), see **[`../craft-issue/maintenance/repo-bootstrap.md`](../craft-issue/maintenance/repo-bootstrap.md)** if you keep notes next to this tree, or copy only the **`.cursor/README.md`** section into your project handbook.
 
-## Pick by repo archetype
+## 📌 Pick by repo archetype
 
 Use **[`.cursor/README.md`](.cursor/README.md)** bundles (**minimal** → **standard** → **docs-heavy**). Rough mapping:
 
@@ -24,7 +39,7 @@ Use **[`.cursor/README.md`](.cursor/README.md)** bundles (**minimal** → **stan
 
 ---
 
-## Installing into any repo
+## 📌 Installing into any repo
 
 Copy the subtree you need. From the directory that **contains** `diagrams/`, `doc/`, `git/`, … (this **`templates/`** root):
 
@@ -41,23 +56,7 @@ Keep **relative links** inside copied files valid, or use a flat copy and fix li
 
 ---
 
-## Template areas
-
-1. **[`diagrams/`](diagrams/README.md)** — Fenced mermaid scaffolds and palette.
-2. **[`doc/`](doc/README.md)** — Folder index; page indexes, explanations, reference tables, merge playbook, diagram conventions (pasteable index skeleton in **[`doc/index.md`](doc/index.md)**).
-3. **[`doc/readme/`](doc/readme/README.md)** — Generic README, note, archive, comparison-table starters for any repo.
-4. **[`doc/wiki/`](doc/wiki/README.md)** — Profile-based wiki stubs (coding, knowledge, **tooling-pack**).
-5. **[`fullstack/`](fullstack/README.md)** — Split app layout, FE/BE contracts, study sheets; pairs with `diagrams/`.
-6. **[`git/`](git/README.md)** — Commit / range narrative helpers and [full-tree zip backup naming](git/zip-git-project-backup.md).
-7. **[`gh/`](gh/README.md)** — GitHub CLI orchestration and issue templates.
-8. **[`plan/`](plan/README.md)** — Local markdown plan that embeds a tracked issue.
-9. **[`pr/`](pr/README.md)** — PR body skeleton; title rules → **[`shared/title.md`](shared/title.md)**.
-10. **[`shared/`](shared/README.md)** — Cross-surface rules (PR + issue **titles**).
-11. **[`md/`](md/README.md)** — Wiki-style markdown template guidance (index/table/explanation + diagram pointers).
-
----
-
-## Copy into another repo (quick)
+## 📌 Copy into another repo (quick)
 
 See **[`.cursor/README.md`](.cursor/README.md)** for tiered **`cp`** recipes. One-liner (readme + diagrams only):
 
@@ -70,9 +69,3 @@ cp -R diagrams/* "$TARGET/diagrams/"
 ```
 
 After copy, link from the target repo’s root **`README.md`** or **`CONTRIBUTING.md`** to **`.cursor/templates/doc/readme/README.md`** (or your chosen subtree).
-
----
-
-## Related
-
-- **Per-repo Cursor layout:** [`.cursor/README.md`](.cursor/README.md).

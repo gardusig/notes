@@ -1,4 +1,4 @@
-# Issue dedupe checklist (read-only)
+# 🎫 Issue dedupe checklist (read-only)
 
 Use **before** opening a **new** issue when volume is high.
 

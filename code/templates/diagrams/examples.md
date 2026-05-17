@@ -1,10 +1,10 @@
-# Diagram examples (Mermaid only)
+# 📊 Diagram examples (Mermaid only)
 
 **Portable copy:** Paste only the fenced **`mermaid`** blocks elsewhere; drop links if the path breaks.
 
 Small **reference figures**—copy a block into your **`docs/`** page. **No** separate render step; preview in Cursor or GitHub. Ramps: [`palette.md`](palette.md). Conventions: [`../doc/diagram-conventions.md`](../doc/diagram-conventions.md).
 
-## UX ramp (`ux*` family — product / usability, **entry-strong**)
+## 📌 UX ramp (`ux*` family — product / usability, **entry-strong**)
 
 Hero on the **first** step; lighter toward **Done** (use **UX leaf-strong** below when the outcome should win).
 
@@ -24,7 +24,7 @@ flowchart TB
   class done uxT
 ```
 
-## Spine with RGB ramp (three nodes)
+## 📌 Spine with RGB ramp (three nodes)
 
 ```mermaid
 flowchart LR
@@ -37,7 +37,7 @@ flowchart LR
   class nodeB spineB
 ```
 
-## Green ramp (hex fills, **leaf-strong**)
+## 📄 Green ramp (hex fills, **leaf-strong**)
 
 ```mermaid
 flowchart LR
@@ -53,7 +53,7 @@ flowchart LR
   class tail hueGh0
 ```
 
-## UX leaf-strong (workflow style)
+## 🔁 UX leaf-strong (workflow style)
 
 Strong on **merge / publish** outcome; lighter upstream on the same **`ux*`** ramp; optional side path muted.
 

@@ -1,11 +1,10 @@
-# Template hub — wiki profile: knowledge
+# 📋 Template hub — wiki profile: knowledge
 
 Knowledge-base and handbook stubs: how content is grouped, linked, and operated.
 
 **Upstream:** [Wiki profiles](../README.md)
 
-## Contents
-
+## 📑 Index
 1. [`conventions-README.md`](conventions-README.md) — knowledge-side conventions hub.
 2. [`conventions-linking-and-tags.md`](conventions-linking-and-tags.md) — linking and tagging rules stub.
 3. [`conventions-writing-style.md`](conventions-writing-style.md) — voice and structure stub.

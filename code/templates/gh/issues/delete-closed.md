@@ -1,4 +1,4 @@
-# Delete closed GitHub issues (bulk)
+# 🗑️ Delete closed GitHub issues (bulk)
 
 **Danger:** irreversible. Use only when policy allows (spam, migration cleanup).
 

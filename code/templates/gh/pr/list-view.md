@@ -1,4 +1,4 @@
-# `gh pr list` / `gh pr view` — agent checklist
+# 🔀 `gh pr list` / `gh pr view` — agent checklist
 
 Read-only inventory and inspection. **No** default confirmation prompt unless the user must pick among ambiguous PRs.
 
@@ -6,7 +6,7 @@ Read-only inventory and inspection. **No** default confirmation prompt unless th
 
 ---
 
-## List (current repo)
+## 📌 List (current repo)
 
 Open PRs for the **current branch** (same-repo):
 
@@ -22,7 +22,7 @@ gh pr list --state open --limit 30
 
 ---
 
-## View (single PR)
+## 📌 View (single PR)
 
 By number:
 
@@ -44,7 +44,7 @@ gh pr diff 42 --stat
 
 ---
 
-## Example — input / output
+## 💡 Example — input / output
 
 **Input:** “Do I already have a PR from this branch?”
 
@@ -59,7 +59,7 @@ gh pr list --head "$BRANCH" --base main --state open --json number,title,url
 
 ---
 
-## Example — view before edit
+## 💡 Example — view before edit
 
 **Input:** “Show PR 7 title and base.”
 

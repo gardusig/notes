@@ -1,8 +1,8 @@
-# Study topic sheet (full stack / CS / architecture)
+# 🏗️ Study topic sheet (full stack / CS / architecture)
 
 One **topic** per file (or one section in a larger notebook). Pair with mermaid templates under [`../diagrams/`](../diagrams/).
 
-## Topic metadata
+## 📌 Topic metadata
 
 | Field | Fill in |
 | --- | --- |
@@ -10,12 +10,12 @@ One **topic** per file (or one section in a larger notebook). Pair with mermaid 
 | **Date / pass** | |
 | **Outcome** | Exam / interview / side project / work spike |
 
-## Objectives (3–5 bullets)
+## 📌 Objectives (3–5 bullets)
 
 - 
 - 
 
-## Mental model (pick diagrams)
+## 📊 Mental model (pick diagrams)
 
 | I need… | Template |
 | --- | --- |
@@ -33,28 +33,28 @@ Paste chosen scaffolds below this line.
 
 ---
 
-## Key questions (spaced repetition)
+## 📌 Key questions (spaced repetition)
 
 1. 
 2. 
 
-## Exercises (hands-on)
+## 📌 Exercises (hands-on)
 
 | Exercise | Expected result |
 | --- | --- |
 | | |
 
-## Glossary (terms I kept confusing)
+## 📌 Glossary (terms I kept confusing)
 
 | Term | My one-line definition |
 | --- | --- |
 | | |
 
-## Sources
+## 📌 Sources
 
 - 
 
-## Related
+## 📌 Related
 
 - Explanation skeleton: [`../doc/explanation.md`](../doc/explanation.md)
 - Full stack layout: [`repo-layout-domain-split.md`](repo-layout-domain-split.md)

@@ -1,10 +1,10 @@
-# Markdown and docs conventions
+# 📝 Markdown and docs conventions
 
 **Upstream:** [`index.md`](index.md).
 
 Use across **`docs/`**, **wikis**, and **`.cursor/templates`** when you want consistent navigation without external dependencies.
 
-## Indexes (`## Contents`, hub pages)
+## 📑 Indexes (`## Contents`, hub pages)
 
 1. **Lexicographic** order for children (folders then files, or one combined list—**pick one** per repo and stay consistent).
 2. **Do not** use markdown **tables** for pure navigation indexes—use **numbered nested lists** instead.
@@ -12,7 +12,7 @@ Use across **`docs/`**, **wikis**, and **`.cursor/templates`** when you want con
 
 **Skeleton:** see [`index.md`](index.md).
 
-## Reference tables (data-heavy sections)
+## 📊 Reference tables (data-heavy sections)
 
 1. Use **after** the narrative index—not as the only “contents” for a page.
 2. **Sort rows** by the **first column** lexicographically unless another order carries meaning.
@@ -20,7 +20,7 @@ Use across **`docs/`**, **wikis**, and **`.cursor/templates`** when you want con
 
 **Skeleton:** see [`table.md`](table.md).
 
-## Explanation pages (one topic per page)
+## 📌 Explanation pages (one topic per page)
 
 1. **What it is** — one short paragraph.
 2. **When to use** — bullets or scenarios.

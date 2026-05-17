@@ -1,4 +1,4 @@
-# <Note Title>
+# 📝 <Note Title>
 
 ## 📇 Index
 

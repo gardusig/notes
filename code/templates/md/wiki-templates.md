@@ -1,8 +1,8 @@
-# Markdown structure templates
+# 📋 Markdown structure templates
 
 Wiki-first templates for markdown structure and documentation pages.
 
-## Doc index template
+## 📑 Doc index template
 
 Use numbered lists for navigation blocks. Avoid tables in `Contents`.
 
@@ -15,7 +15,7 @@ Use numbered lists for navigation blocks. Avoid tables in `Contents`.
    1. [`README.md`](README.md) - page purpose
 ```
 
-## Reference table template
+## 📋 Reference table template
 
 Use tables inside reference sections, not for navigation:
 
@@ -27,7 +27,7 @@ Use tables inside reference sections, not for navigation:
 
 After the table, call out the largest row and why it matters.
 
-## Explanation template
+## 📋 Explanation template
 
 ```markdown
 ## Overview
@@ -44,7 +44,7 @@ After the table, call out the largest row and why it matters.
 - ...
 ```
 
-## Related
+## 📌 Related
 
 - [`README.md`](README.md)
 - [`diagram-wiki-templates.md`](diagram-wiki-templates.md)

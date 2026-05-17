@@ -1,10 +1,10 @@
-# Priority — what wins and how you execute
+# ⬆️ Priority — what wins and how you execute
 
 **When to use:** Life-level **ordered priorities**, **which task wins** (P0–P4), **task surfaces and machine context** (employer vs personal), **surface lookup order**, pick-one-task, onboarding, flow, task discipline, end-of-day stop rules, and **work habits**.
 
 **Upstream:** [Tasks hub](../README.md)
 
-## Source-of-truth boundaries
+## 📌 Source-of-truth boundaries
 
 - Ordered life stack, emotional triage (short), coarse risk filter — [`governance.md`](governance.md) (**[when emotional](governance.md#when-emotional)** · **[risk tiers](governance.md#risk-tiers)**). **Fast map when spun up**, expanded risk ladder (A–E), moral framing, repeat vs new — [emotional-routing.md](emotional-routing.md) · [risk-tiers.md](risk-tiers.md) · [decisions.md](decisions.md).
 - Money passes (IRPF, month-end), salary or large deposit landed — keep your checklist in a spreadsheet, bank app, or wherever you actually run money; this repo does not host a money hub.
@@ -17,22 +17,22 @@
 
 ---
 
-## When to use this file
+## ❓ When to use this file
 
 Use this note for **facts and procedures** in **Core content** below. Prefer the parent hub [`../../README.md`](../../README.md) for navigation unless you need this level of detail.
 
-## When to update this file
+## ❓ When to update this file
 
 1. When numbers, dates, links, or narrative here are no longer true.
 2. When [`../../README.md`](../../README.md) still points here with stale wording.
 
-## Core content
+## 📌 Core content
 
-### Core routine first (personal time)
+### 🔁 Core routine first (personal time)
 
 When you are **not** on employer clock, default to **body and clock spine** before drowning in queues: follow [`../routine/README.md`](../routine/README.md) (sleep, wake-up, diet, hydration, weekly rhythm) and habits you track under [`../../README.md#daily-capture-and-modes`](../../README.md#daily-capture-and-modes). **Stabilize the machine** (you), then open task surfaces. If the day is already on fire, triage **P0** first — see [`governance.md#when-emotional`](governance.md#when-emotional) and [emotional-routing.md](emotional-routing.md).
 
-### Thoughts vs execution → the right surface
+### 📌 Thoughts vs execution → the right surface
 
 Principle (why externalize): [Governance — Thoughts vs execution](governance.md#thoughts-vs-execution). **Procedure** when it keeps looping:
 
@@ -42,7 +42,7 @@ Principle (why externalize): [Governance — Thoughts vs execution](governance.m
 
 Do not let open loops live only in chat or memory; **queues hold the backlog** — this file holds **how you pick**.
 
-### Task system (ordering and debug)
+### 🐛 Task system (ordering and debug)
 
 1. **Find the most important task** when you can — work **that** until blocked or done.
 2. **Review order:** start from **closest to done**, move **toward the backlog** (finishing energy compounds).
@@ -51,7 +51,7 @@ Do not let open loops live only in chat or memory; **queues hold the backlog** �
 
 **Modes** (review vs execute vs play): [`../../README.md#cognitive-modes-review-plan-creativity`](../../README.md#cognitive-modes-review-plan-creativity).
 
-### What wins right now (importance filter)
+### 📌 What wins right now (importance filter)
 
 Unless there is a genuine **emergency** (then **P0** first), collapse to the **single most important next action** — not the busiest; the one that **moves outcomes**.
 
@@ -62,9 +62,9 @@ Prefer **forward motion that produces results:**
 
 **Outcomes over drift:** shallow progress across many tabs loses to **one** meaningful advance. Same spirit as **single top task** below.
 
-### Priority system
+### ⬆️ Priority system
 
-#### 1. Absolute priority override
+#### ⬆️ 1. Absolute priority override
 
 | Level | Type | Rule |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Prefer **forward motion that produces results:**
 
 → **Always execute highest active priority.**
 
-#### 2. Task selection rule (critical)
+#### 📋 2. Task selection rule (critical)
 
 At any moment: there is **one** most important task.
 
@@ -92,7 +92,7 @@ At any moment: there is **one** most important task.
 3. Rank: **deadline (earliest first)**, then **priority label** if tied.
 4. Select → **single top task**.
 
-#### 3. Anti-multitasking rule
+#### 📋 3. Anti-multitasking rule
 
 - No parallel execution — **one** active task at a time.
 
@@ -101,7 +101,7 @@ Switch only if:
 - Task is blocked, or
 - A **higher priority** task appears.
 
-#### 4. Work onboarding rule (start of day)
+#### 📌 4. Work onboarding rule (start of day)
 
 **Employer (paid) block**
 
@@ -118,7 +118,7 @@ Switch only if:
 3. Identify **single top task**  
 4. Define **first concrete action**  
 
-#### 5. Flow rule
+#### 🌊 5. Flow rule
 
 During execution:
 
@@ -130,7 +130,7 @@ If interrupted:
 - Re-evaluate priority  
 - Resume or switch **intentionally**
 
-#### 6. Daily planning (lightweight)
+#### ☀️ 6. Daily planning (lightweight)
 
 At start of **employer** work block:
 
@@ -139,7 +139,7 @@ At start of **employer** work block:
 
 At start of a **personal idle** block, same idea — pull candidates from [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context), not the employer queue.
 
-### Execution rules
+### 📌 Execution rules
 
 1. **Work first principle** — During employer hours, default focus = **P1**; personal queues are not the queue. Outside that block, use **P2–P4** and idle order in [`../README.md#task-surfaces-and-context`](../README.md#task-surfaces-and-context).
 2. **Task discipline** — Each task: **deadline** + **priority label** (High / Medium / Low or your scheme). Order: deadline, then priority.
@@ -148,7 +148,7 @@ At start of a **personal idle** block, same idea — pull candidates from [`../R
 5. **Energy alignment** — High energy → hardest tasks; low energy → maintenance.
 6. **Stop rule (end of day)** — Do **not** start heavy tasks late; prefer planning or light tasks.
 
-### Work habits (quick principles)
+### 📌 Work habits (quick principles)
 
 - **Consistency > perfection**  
 - **Finish or advance meaningfully**  

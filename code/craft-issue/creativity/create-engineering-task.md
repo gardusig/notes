@@ -1,10 +1,10 @@
-# Create an engineering task (human + agent readable)
+# 📋 Create an engineering task (human + agent readable)
 
 **Upstream:** [`code/README.md`](../../README.md)
 
 This is for **issues, tickets, or GitHub discussions** that drive code changes—not the personal P0–P4 system in [`../../plan/README.md`](../../plan/README.md). Team norms and “starting a new task” reminders also live in [`../../setup/work.md`](../../setup/work.md) under *Starting a new task (SDE2)*.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Ticket skeleton](#ticket-skeleton)
@@ -14,13 +14,13 @@ This is for **issues, tickets, or GitHub discussions** that drive code changes�
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 A good task **reduces rework**: the assignee (human or agent) knows **done**, **constraints**, and **where to look** without asking three rounds of questions.
 
 ---
 
-## Ticket skeleton
+## 📌 Ticket skeleton
 
 Use this order in the body.
 
@@ -35,7 +35,7 @@ Align with the **store** examples in [`../../setup/work.md`](../../setup/work.md
 
 ---
 
-## Implementation-ready quality bar
+## ✨ Implementation-ready quality bar
 
 Use this pass when the ticket is now the next priority and you want to remove ambiguity before execution.
 
@@ -63,7 +63,7 @@ Upstream references:
 
 ---
 
-## Agent-friendly extras
+## 📌 Agent-friendly extras
 
 These help **Cursor and other agents** stay on rails.
 
@@ -77,12 +77,12 @@ These help **Cursor and other agents** stay on rails.
 
 ---
 
-## Out of scope
+## 📌 Out of scope
 
 If the task balloons, **split** it: new issue for follow-ups, link between them. One primary **Definition of done** per issue keeps reviews and agent runs focused.
 
 ---
 
-## See also
+## 📌 See also
 
 - **From idea to “good enough” then priority work** — full choreography in [`../../debug/README.md`](../../debug/README.md).

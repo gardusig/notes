@@ -1,11 +1,10 @@
-# Template hub — git narratives and workflows
+# 📋 Template hub — git narratives and workflows
 
 Commit range stories, branch naming, pull/push/reset flows, and archive naming for backups.
 
 **Upstream:** [Template hub `templates/`](../README.md)
 
-## Contents
-
+## 📑 Index
 1. [`diff-summary.md`](diff-summary.md) — commit or range delta narrative helper.
 2. [`main-align-workflow.md`](main-align-workflow.md) — align local main to canonical remote.
 3. [`pull-workflow.md`](pull-workflow.md) — pull / merge upstream workflow notes.

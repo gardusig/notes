@@ -1,4 +1,4 @@
-# Pull request orchestration (GitHub CLI)
+# 🗂️ Pull request orchestration (GitHub CLI)
 
 **Suggested order:** merge latest on the branch (see [`../git/pull-workflow.md`](../git/pull-workflow.md)) → run local **verify** your repo documents → **push** → draft PR text → **`gh pr create`** / **`gh pr edit`**.
 

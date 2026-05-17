@@ -1,8 +1,8 @@
-# Deployment topology (environments + split services)
+# 🚀 Deployment topology (environments + split services)
 
 Sketch **where** each piece runs: local, staging, production. Useful for **full stack** onboarding and **study** (compare PaaS vs k8s vs serverless). Keep boxes coarse—this is not a replacement for IaC.
 
-## Multi-environment
+## 📌 Multi-environment
 
 ```mermaid
 flowchart TB
@@ -26,7 +26,7 @@ flowchart TB
   prWeb --> prApi --> prDb
 ```
 
-## Single environment — logical zones
+## 📌 Single environment — logical zones
 
 ```mermaid
 flowchart LR
@@ -49,7 +49,7 @@ flowchart LR
   worker --> db
 ```
 
-## Related
+## 📌 Related
 
 - Operations deployment prose: [`../doc/wiki/profiles/coding/operations-deployment.md`](../doc/wiki/profiles/coding/operations-deployment.md)
 - Layered app vs services: [`template-layers.md`](template-layers.md)

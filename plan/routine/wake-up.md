@@ -1,10 +1,10 @@
-# Wake-up (morning routine)
+# 🔁 Wake-up (morning routine)
 
 **Window:** 07:00–08:30  
 
 **Upstream:** [Routine hub](README.md)
 
-## Sequence (strict order)
+## 📌 Sequence (strict order)
 
 1. Morning drink (habit anchor, e.g. juice) + coffee  
 2. Medications or supplements **only as prescribed or agreed with a clinician**  

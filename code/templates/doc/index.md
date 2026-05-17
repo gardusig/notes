@@ -1,4 +1,4 @@
-# Skeleton: doc page index / navigation
+# 📑 Skeleton: doc page index / navigation
 
 **Conventions:** [`markdown-and-docs-conventions.md`](markdown-and-docs-conventions.md)
 
@@ -6,7 +6,7 @@ Use for **`docs/.../README.md`**, module hub pages, and similar **navigation blo
 
 ---
 
-## Rules (short)
+## 📌 Rules (short)
 
 1. **Lexicographic** order for children (folders then files, or one combined list—pick one per repo and stay consistent).
 2. **No tables** in **`## Contents`** or **See also** index sections.
@@ -14,7 +14,7 @@ Use for **`docs/.../README.md`**, module hub pages, and similar **navigation blo
 
 ---
 
-## Skeleton
+## 📌 Skeleton
 
 ```markdown
 ## Contents

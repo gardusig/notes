@@ -1,4 +1,4 @@
-# Phase 4 — Execute from the plan
+# ▶️ Phase 4 — Execute from the plan
 
 **Upstream:** [`README.md`](README.md)
 

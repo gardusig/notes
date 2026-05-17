@@ -1,4 +1,4 @@
-# Reset current branch to a target ref
+# ↩️ Reset current branch to a target ref
 
 Align the **working tree** of the **current branch** to **`$TARGET`** (a remote branch or tag) after fetch. **Confirm** before any **`reset --hard`** or **`git clean`** — data loss is possible.
 

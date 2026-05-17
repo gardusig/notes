@@ -1,4 +1,4 @@
-# Skeleton: doc page explanation
+# 💡 Skeleton: doc page explanation
 
 **Conventions:** [`markdown-and-docs-conventions.md`](markdown-and-docs-conventions.md)
 
@@ -6,7 +6,7 @@ Narrative body for a **`docs/`** page that documents **one** subsystem, tool, or
 
 ---
 
-## Fill-in pattern
+## 📌 Fill-in pattern
 
 1. **What it does** — one short paragraph (outcome for readers).
 2. **When to use** — scenarios or commands.
@@ -15,7 +15,7 @@ Narrative body for a **`docs/`** page that documents **one** subsystem, tool, or
 
 ---
 
-## Skeleton
+## 📌 Skeleton
 
 ```markdown
 ## Overview

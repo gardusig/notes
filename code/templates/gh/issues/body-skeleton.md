@@ -1,4 +1,4 @@
-# GitHub issue body (paste and fill)
+# 🗂️ GitHub issue body (paste and fill)
 
 **Title:** use [`../../shared/title.md`](../../shared/title.md) — **no emoji** in the issue title.
 

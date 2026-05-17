@@ -1,4 +1,4 @@
-# Repository topology (tooling / meta)
+# 🧰 Repository topology (tooling / meta)
 
 High-level map of how **docs**, **automation**, and **source** relate.
 
@@ -12,6 +12,6 @@ High-level map of how **docs**, **automation**, and **source** relate.
 
 Human docs and code **both** change over time—link bidirectionally from root **`README.md`**.
 
-## Related
+## 📌 Related
 
 - [Manifest](manifest.md)

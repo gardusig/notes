@@ -1,4 +1,4 @@
-# Table and comparison matrix template
+# 📋 Table and comparison matrix template
 
 ## 📇 Index
 
@@ -35,14 +35,14 @@ Keep emphasis **predictable**: same column means the same kind of signal (for ex
 
 ## 📋 Copy-paste patterns
 
-### Plain comparison (no HTML)
+### ⚖️ Plain comparison (no HTML)
 
 | Name | Fit | Cost | Notes |
 | --- | --- | --- | --- |
 | Option A | | | |
 | Option B | | | |
 
-### Status column with color (GitHub-flavored Markdown)
+### 🗂️ Status column with color (GitHub-flavored Markdown)
 
 Many GitHub surfaces render inline HTML in table cells. Example:
 
@@ -51,7 +51,7 @@ Many GitHub surfaces render inline HTML in table cells. Example:
 | Task A | <span style="color:lightgreen">Done</span> |
 | Task B | <span style="color:orange">Pending</span> |
 
-### Domain column + status
+### 📌 Domain column + status
 
 | Domain | Name | Status |
 | --- | --- | --- |

@@ -1,10 +1,10 @@
-# Plan first, pad the chat (default bias)
+# 📌 Plan first, pad the chat (default bias)
 
 **Upstream:** [`code/README.md`](../../README.md)
 
 Short **habit note**: when work is non-trivial, **default to Plan** in Cursor before leaning on Agent. Agent mode is strong and fast, but it is also **quite automated**—it will happily execute on partial intent. Plan mode is mostly there to **summarize what matters** and **craft a plan** you can correct before anyone touches the tree.
 
-## Index
+## 📑 Index
 
 - [Purpose](#purpose)
 - [Why Plan before Agent](#why-plan-before-agent)
@@ -13,13 +13,13 @@ Short **habit note**: when work is non-trivial, **default to Plan** in Cursor be
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 Make **deliberate** the step where the model aligns with you: goals, constraints, files, and order of work. That alignment belongs in the **conversation surface** (Plan + pasted or `@`-referenced material), not only in your head.
 
 ---
 
-## Why Plan before Agent
+## 💡 Why Plan before Agent
 
 | Default | Rationale |
 | --- | --- |
@@ -31,7 +31,7 @@ This does **not** replace the full lifecycle in [`../../debug/README.md`](../../
 
 ---
 
-## Use the Cursor UI as context, not a skill
+## 🧩 Use the Cursor UI as context, not a skill
 
 **Appending context in the Cursor UI** (ticket text, logs, screenshots, `@` files and rules) is almost always worth the minute—it steers both Plan and later Agent turns. That is a **built-in product workflow**, not something you need a repo skill or rule pack to “invent.”
 
@@ -39,7 +39,7 @@ Skills and rules still help for **repeatable** repo conventions; they do not rep
 
 ---
 
-## See also
+## 📌 See also
 
 - [`../../debug/README.md`](../../debug/README.md) — idea → ticket → heavy Plan with dense context → execute.
 - [`models-and-modes.md`](models-and-modes.md) — when to escalate model choice; Plan for architecture and tradeoffs.

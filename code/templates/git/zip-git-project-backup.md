@@ -1,4 +1,4 @@
-# Zip backup of a git project (full tree)
+# 🔀 Zip backup of a git project (full tree)
 
 **Filename:** **`<project>-yyyy-mm-dd.zip`** where **`<project>`** is the basename of **`git rev-parse --show-toplevel`**. ISO **date only** (no time-of-day). Repo-first groups backups per checkout; date stays sortable within a project.
 
@@ -8,7 +8,7 @@
 
 **Default output location:** parent of the repo root so the new file is not inside the tree being zipped.
 
-## Example (run from parent of repo folder)
+## 💡 Example (run from parent of repo folder)
 
 Replace **`myrepo`** with your checkout directory name:
 
@@ -18,7 +18,7 @@ cd /path/to/parent && zip -r "myrepo-$(date +%Y-%m-%d).zip" "myrepo" -x "*.zip"
 
 Adjust paths for Windows or use your preferred archiver with the same rules.
 
-## Alternative: contents-only archive (no `.git`)
+## 🗄️ Alternative: contents-only archive (no `.git`)
 
 Smaller shareable tree without history:
 
@@ -28,6 +28,6 @@ git -C myrepo archive --format=zip -o "myrepo-snapshot-$(date +%Y-%m-%d).zip" HE
 
 Tradeoff: no **`.git`**; good for handoff or CI artifact, not for full backup.
 
-## Related
+## 📌 Related
 
 - Optional wiki-style notes: [`../doc/wiki/profiles/knowledge/operations-local-preview-export.md`](../doc/wiki/profiles/knowledge/operations-local-preview-export.md).

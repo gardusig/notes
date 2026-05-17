@@ -1,10 +1,10 @@
-# Backpack
+# 🎒 Backpack
 
 Tech / travel backpack. Used for work commutes, longer outings, and travel.
 
 **Upstream:** [Inventory](README.md)
 
-## Roster
+## 📌 Roster
 
 | Item          | Description               | Notes               |
 | ------------- | ------------------------- | ------------------- |

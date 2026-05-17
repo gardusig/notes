@@ -1,7 +1,6 @@
-# Markdown templates
+# 📋 Markdown templates
 
-## 📇 Index
-
+## 📑 Index
 1. [`STYLE_GUIDE.md`](STYLE_GUIDE.md)
 2. [`README_AND_FOLDER_SCAFFOLD.md`](README_AND_FOLDER_SCAFFOLD.md)
 3. [`README_TEMPLATE_MERGE_PLAYBOOK.md`](README_TEMPLATE_MERGE_PLAYBOOK.md)
@@ -11,6 +10,9 @@
 7. [`NOTE_TEMPLATE.md`](NOTE_TEMPLATE.md)
 8. [`ARCHIVE_README_TEMPLATE.md`](ARCHIVE_README_TEMPLATE.md)
 9. [`TABLE_COMPARISON_TEMPLATE.md`](TABLE_COMPARISON_TEMPLATE.md)
+10. [`../../README.md`](../../README.md) — full `templates/` hub (copy instructions, all areas).
+11. [`../../md/README.md`](../../md/README.md) — wiki-style markdown guides.
+12. [`../../md/wiki-templates.md`](../../md/wiki-templates.md), [`../../md/diagram-wiki-templates.md`](../../md/diagram-wiki-templates.md) — long-form wiki + diagram prose patterns.
 
 ## 🗺️ Diagram
 
@@ -49,7 +51,4 @@ flowchart TD
 - Generic markdown scaffolds for **any** repository (public or private).
 - Before **creating** a subtree, open [`README_AND_FOLDER_SCAFFOLD.md`](README_AND_FOLDER_SCAFFOLD.md); before **normalizing** an existing `README.md`, open [`README_TEMPLATE_MERGE_PLAYBOOK.md`](README_TEMPLATE_MERGE_PLAYBOOK.md).
 
-## 🔗 Related
-
-- All template areas and copy instructions: [`../../README.md`](../../README.md) (this pack’s **`templates/README.md`**).
-- Wiki-first markdown guides: [`../../md/README.md`](../../md/README.md), [`../../md/wiki-templates.md`](../../md/wiki-templates.md), [`../../md/diagram-wiki-templates.md`](../../md/diagram-wiki-templates.md).
+**Upstream:** [`../README.md`](../README.md) (doc templates)

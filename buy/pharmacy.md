@@ -1,36 +1,37 @@
-# Pharmacy
+# 💊 Pharmacy
 
-What to grab when you walk into a pharmacy. Keep core items in stock; rotate the rest as needed. **Categories only**—pick familiar products in each slot with a pharmacist when unsure.
+What to grab when you walk into a pharmacy. Keep core items in stock; rotate the rest as needed. **Prices are rough BRL** (store, brand, and promotion vary).
 
-**Upstream:** [Stores](README.md)
+**Upstream:** [Supply](README.md)
 
-## Index
+## 📑 Index
 
-1. [Supplements](#1-supplements)
-2. [Common ailments](#2-common-ailments)
-3. [Personal care](#3-personal-care)
-4. [Skin](#4-skin)
+- [💊 Pharmacy](#-pharmacy)
+  - [📑 Index](#-index)
+  - [Summary](#summary)
+  - [Supplements](#supplements)
+  - [Personal care](#personal-care)
 
----
+## 📌 Summary
 
-## 1. Supplements
 
-- Daily multivitamin (core)
-- Essential fatty acid supplement — fish- or plant-based omega blend (core)
-- Mineral for sleep or recovery support — ask for a well-tolerated form (core)
+| Section       | Monthly R$ (est.) |
+| ------------- | ----------------: |
+| Supplements   |              ~150 |
+| Personal care |              ~150 |
+| **Total**     |       **~R$ 300** |
 
-## 2. Common ailments
+## 💊 Supplements
 
-- Fever and body aches — fever reducer from the cold-and-flu section (single-ingredient box you already tolerate)
-- Daytime allergy relief — non-drowsy allergy aisle option (tablet or nasal spray)
-- Headache or muscle soreness — mild oral pain relief or topical rub from the pain-care shelf
+| Name       | Brand / spec                              | Price / pack (R$) | Qty per pack | Monthly use (planning)          | Monthly R$ (est.) |
+| ---------- | ----------------------------------------- | ----------------: | -----------: | ------------------------------- | ----------------: |
+| Loratadina | 10 mg · generic (e.g. EMS, Teuto, Medley) |              < 10 |       ~10 cp | 1/day → ~30 cp (~3×10 packs)    |               ~27 |
+| Ibuprofeno | 400 mg · generic                          |              < 15 |       ~10 cp | 1/day → ~30 cp (~3×10 packs)    |               ~42 |
+| Centrum    | Multivitamin · adult line                 |              ~150 |     ~90 tabs | 1/day → ~30 tabs (⅓ of 90 pack) |               ~50 |
 
-## 3. Personal care
+## 📌 Personal care
 
-- Lubricating eye drops (screen fatigue)
-- Saline nasal rinse or isotonic spray (dry or irritated passages)
-
-## 4. Skin
-
-- Body lotion
-- Broad-spectrum daily sunscreen (baseline protection)
+| Name                  | Brand / spec                      | Price / pack (R$) | Qty per pack | Monthly use (planning) | Monthly R$ (est.) |
+| --------------------- | --------------------------------- | ----------------: | -----------: | ---------------------- | ----------------: |
+| Lubricating eye drops | e.g. Systane / Hyabak-style       |               ~25 |     1 bottle | 2 units / month        |               ~50 |
+| Saline nasal rinse    | e.g. Physiomer / generic isotonic |               ~25 |     1 bottle | ~4 / month             |              ~100 |

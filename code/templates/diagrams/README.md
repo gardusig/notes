@@ -1,8 +1,8 @@
-# Diagram templates
+# 📋 Diagram templates
 
 **Canonical scaffolds** live in this directory (`templates/diagrams/`). Use them for mermaid in docs, PR bodies, and GitHub issues. For **color conventions** in class diagrams and similar, start from [`palette.md`](palette.md).
 
-## Index
+## 📑 Index
 
 1. [`palette.md`](palette.md) — `classDef` ramps for colored mermaid.
 2. [`examples.md`](examples.md) — sample figures.
@@ -18,8 +18,5 @@
 12. [`template-stakeholder-flow.md`](template-stakeholder-flow.md) — stakeholder lanes.
 13. [`template-state.md`](template-state.md) — state diagram.
 14. [`template-user-journey.md`](template-user-journey.md) — user journey.
-
-## Related
-
-- Template hub: [`../README.md`](../README.md).
-- Full stack + study prose templates: [`../fullstack/README.md`](../fullstack/README.md).
+15. [`../README.md`](../README.md) — template hub (all pasteable areas).
+16. [`../fullstack/README.md`](../fullstack/README.md) — full stack + study prose templates.

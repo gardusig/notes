@@ -1,8 +1,8 @@
-# End-to-end request path (full stack trace)
+# 📌 End-to-end request path (full stack trace)
 
 One **happy-path** user action traced through **split** components: browser → edge → API → domain → persistence. Good for onboarding, incident runbooks, and **study** walkthroughs.
 
-## Sequence (typical web app)
+## 📌 Sequence (typical web app)
 
 ```mermaid
 sequenceDiagram
@@ -26,7 +26,7 @@ sequenceDiagram
   G-->>U: Response
 ```
 
-## Flowchart variant (batch / async)
+## 🌊 Flowchart variant (batch / async)
 
 ```mermaid
 flowchart LR
@@ -47,7 +47,7 @@ flowchart LR
   dom --> obj
 ```
 
-## Related
+## 📌 Related
 
 - Generic sequence: [`template-sequence.md`](template-sequence.md)
 - Layers overview: [`template-layers.md`](template-layers.md)

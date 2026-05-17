@@ -1,4 +1,4 @@
-# README template merge playbook
+# 📖 README template merge playbook
 
 Use this when **re-applying** a README template to an existing file: refresh structure and navigation **without** discarding scores, facts, or curated bullets unless the task explicitly changes them.
 

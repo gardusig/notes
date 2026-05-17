@@ -1,10 +1,10 @@
-# Decisions — frameworks and timing
+# ✅ Decisions — frameworks and timing
 
 Moral framing, operating rules, **when unsure**, **when optimizing life**, **repeat vs new**, and **delayed complexity**.
 
 **Upstream:** [Rules hub](README.md)
 
-## Moral accounting and cost
+## 📌 Moral accounting and cost
 
 **Law is a narrow yardstick.** This notes repo assumes something closer to a **full log**: if you did it, it **counts** for your own reckoning, whether or not a crowd ever saw it. If the only standard were “got away with it on paper,” that would not match how guilt, fear, and memory often work.
 
@@ -14,9 +14,9 @@ Moral framing, operating rules, **when unsure**, **when optimizing life**, **rep
 
 ---
 
-## Operating rules
+## 📌 Operating rules
 
-### People
+### 📌 People
 
 - Do not harm others (except self-defense)  
 - Do not threaten, manipulate, or coerce  
@@ -24,7 +24,7 @@ Moral framing, operating rules, **when unsure**, **when optimizing life**, **rep
 - Respect people and property  
 - Do not steal  
 
-### Self
+### 📌 Self
 
 - Do not self-destruct  
 - Do not act while unstable  
@@ -35,7 +35,7 @@ Moral framing, operating rules, **when unsure**, **when optimizing life**, **rep
 
 ---
 
-## When unsure
+## 📌 When unsure
 
 1. Does this improve survival, health, or stability?  
 2. Does this reduce future problems?  
@@ -46,7 +46,7 @@ Moral framing, operating rules, **when unsure**, **when optimizing life**, **rep
 
 ---
 
-## When optimizing life
+## 📌 When optimizing life
 
 - Prefer **low-friction systems**  
 - Batch work  
@@ -55,7 +55,7 @@ Moral framing, operating rules, **when unsure**, **when optimizing life**, **rep
 
 ---
 
-## Repeat vs new (planning rule)
+## 📌 Repeat vs new (planning rule)
 
 - **Repeating** choices that **historically caused little harm** is usually **lower risk** than improvising something novel in the same mood state.  
 - **New** commitments (travel, spend, people, **volatile or legally gray** plans, physical load) get a **short written plan**: intent, budget, exit criteria, and which **tier** from [risk-tiers.md](risk-tiers.md) they sit in.  
@@ -65,31 +65,31 @@ Moral framing, operating rules, **when unsure**, **when optimizing life**, **rep
 
 <a id="delayed-decisions-timing-strategy"></a>
 
-## Delayed decisions (timing strategy)
+## ✅ Delayed decisions (timing strategy)
 
-### Principle
+### 📌 Principle
 
 > Do not add complexity before stability.
 
-### When to wait
+### ❓ When to wait
 
 - Moving between places  
 - Financial instability  
 - Lack of routine or control  
 
-### Examples
+### 💡 Examples
 
 - **Pets** — need stable environment + time  
 - **Lifestyle expansion** — expensive or high-maintenance items, collections, luxury  
 
-### When to act
+### ❓ When to act
 
 - Stable housing  
 - Predictable routine  
 - Financial margin  
 - Low mental overhead  
 
-### Rule
+### 📌 Rule
 
 > Only acquire what you can maintain **without stress**
 

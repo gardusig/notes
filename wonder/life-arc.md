@@ -1,4 +1,4 @@
-# Life arc — HUD runbook
+# 📖 Life arc — HUD runbook
 
 **What this is:** a **video-game metaphor** for the same life you track elsewhere. **This file** is the **design doc**: main quest, win conditions, and how “the HUD” relates to numbers and routines. The **tactical layer** (current stats, runway, branching paths—work, geography, money) lives in **[life-game-structure.md § Tactical HUD](life-game-structure.md#tactical-hud)**—fill when reality shifts.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Why compare life to a game
+## 🌿 Why compare life to a game
 
 Games make **state** visible: health, mana, map position, active quests, optional objectives. Real life hides most of that—you have to **build your own HUD** or you steer blind. This **life HUD** is that overlay: not the whole truth, but a **readable** slice.
 
@@ -14,7 +14,7 @@ Deeper **engine** metaphor (instances, rings, pills, respawn loop) lives in [lif
 
 ---
 
-## Main quest (roughly universal, loosely ordered)
+## 📌 Main quest (roughly universal, loosely ordered)
 
 Think of a **main storyline** that many adults traverse—not always in a straight line:
 
@@ -25,13 +25,13 @@ Think of a **main storyline** that many adults traverse—not always in a straig
 
 The main quest is **broadly** shared; **how** you run it (pace, ethics, geography) is your build.
 
-### When the “main quest” reroutes
+### 📌 When the “main quest” reroutes
 
 **Accidents, disability, or lasting incapacity** can change what is **feasible** or **central**—for some people the coarse script above is a **poor fit**, not because they failed, but because the map changed. For **many** others the coarse arc is similar and **discretionary side quests** (especially in **free time**) are the **largest differentiator** between builds. See [metaphors.md](metaphors.md).
 
 ---
 
-## Win condition: happiness with balance
+## 📌 Win condition: happiness with balance
 
 - The “best ending” is **not** constant euphoria—it’s **sustainable** satisfaction.
 - **Balance implies contrast:** some **sadness**, friction, or loss is part of a life that still feels **real** and **good** overall—not a bug.
@@ -49,7 +49,7 @@ flowchart LR
 
 ---
 
-## Timing beats perfect planning
+## 📌 Timing beats perfect planning
 
 Doing the **right thing in the right moment** often **feels better** than the same action executed in the **most optimized** plan on paper. Games reward **responsive** play, not only spreadsheet prep—same idea: keep **intent**, stay **flexible** on sequencing.
 
@@ -57,13 +57,13 @@ Doing the **right thing in the right moment** often **feels better** than the sa
 
 ---
 
-## Not LEGO: irreversibility and friction
+## 📌 Not LEGO: irreversibility and friction
 
 Life is **not** LEGO-like: blocks do not snap apart and rebuild for free. **Bureaucracy**, **physical recovery**, and **effort** sit between you and “undo.” Some outcomes are **non-recoverable**—you adapt or branch; you do not always get a clean restore point. [metaphors.md](metaphors.md) expands this contrast.
 
 ---
 
-## Physical life, youth, memory
+## 📌 Physical life, youth, memory
 
 **Lens (on record):**
 
@@ -73,13 +73,13 @@ Life is **not** LEGO-like: blocks do not snap apart and rebuild for free. **Bure
 
 ---
 
-## Fix before vengeance
+## 📌 Fix before vengeance
 
 Bias toward **repair, remedy, and bounded accountability** before making **retaliation** the main program. Harm can be real and still leave you better served by **fix-first** moves when they exist; the middle space is **justice**, not either pole alone—see [opposite-comparisons.md](opposite-comparisons.md).
 
 ---
 
-## Side quests and the “best routine”
+## 🔁 Side quests and the “best routine”
 
 - **Main quest** is slow and coarse-grained.
 - **Best routine** is **versatile**: it must **adapt** to **health** (energy, injury, mental state) and **finances** (runway, shocks). Same as respeccing a character when patch notes (life) change—except patches are **slow and costly** (see **Not LEGO** above).
@@ -113,7 +113,7 @@ Execution detail: [../plan/recurring.md](../plan/recurring.md), [../plan/rules/p
 
 ---
 
-## How the files split
+## 📌 How the files split
 
 | Piece | Role |
 | --- | --- |
@@ -122,6 +122,6 @@ Execution detail: [../plan/recurring.md](../plan/recurring.md), [../plan/rules/p
 
 ---
 
-## One-line maintenance rule
+## 🔧 One-line maintenance rule
 
 When **health**, **money**, or **relationship context** shifts enough that your **feelings** about the main quest change, touch **[Tactical HUD](life-game-structure.md#tactical-hud) first**; touch **life-arc.md** only when your **values or long arc** actually moved.

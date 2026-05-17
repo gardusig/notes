@@ -1,11 +1,11 @@
-# Models
+# 🧩 Models
 
-## Core entities
+## 📌 Core entities
 
 | Entity | Description | Relationships |
 | --- | --- | --- |
 | <name> | <brief> | <links to other entities> |
 
-## Invariants
+## 📌 Invariants
 
 <Rules the data must satisfy.>

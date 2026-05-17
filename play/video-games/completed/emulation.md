@@ -1,4 +1,4 @@
-# Emulation & non-Steam — completed
+# 🏁 Emulation & non-Steam — completed
 
 **Legend**
 
@@ -12,14 +12,14 @@ Steam-shaped finished games live in **[2d.md](2d.md)** or **[3d.md](3d.md)** in 
 
 ---
 
-## 100% completed
+## 🏁 100% completed
 
 | Game | Kind | Developer (lead) | Platform | Notes | Status ~ my *~* |
 |------|------|------------------|----------|-------|------------------|
 
 ---
 
-## Incomplete goals *(played a lot; optional completion not done)*
+## ➕ Incomplete goals *(played a lot; optional completion not done)*
 
 | Game | Kind | Developer (lead) | Platform | Notes | Status ~ my *~* |
 |------|------|------------------|----------|-------|------------------|

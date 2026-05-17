@@ -1,9 +1,9 @@
-# Endpoints
+# 🌐 Endpoints
 
 | Method | Path | Description |
 | --- | --- | --- |
 | GET | /health | … |
 
-## Errors
+## 📌 Errors
 
 <Standard error format and codes.>

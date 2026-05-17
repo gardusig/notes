@@ -1,4 +1,4 @@
-# Knowledge profile — files to scaffold
+# 🧠 Knowledge profile — files to scaffold
 
 - `docs/README.md`
 - `docs/organization/README.md`

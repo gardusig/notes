@@ -1,10 +1,10 @@
-# Issue triage and reshape
+# 🎫 Issue triage and reshape
 
 **Upstream:** [`code/README.md`](../../README.md)
 
 Use this when your candidate issue may overlap with existing open work, or when a quick draft needs to become implementation-ready before coding starts.
 
-## Index
+## 📑 Index
 
 - [When to run this](#when-to-run-this)
 - [Triage flow](#triage-flow)
@@ -13,7 +13,7 @@ Use this when your candidate issue may overlap with existing open work, or when 
 
 ---
 
-## When to run this
+## ❓ When to run this
 
 Run this flow before creating a new issue when any of these are true:
 
@@ -25,7 +25,7 @@ Skip only when you are certain the issue is unique and already implementation-re
 
 ---
 
-## Triage flow
+## 🔍 Triage flow
 
 1. **Search open issues** by concrete keywords and domain terms.
 2. **Search closed issues** for regressions and prior context.
@@ -42,7 +42,7 @@ Command shapes live in the dedupe checklist in **[cursor-skills](https://github.
 
 ---
 
-## Reshape checklist
+## ☑️ Reshape checklist
 
 Before marking an issue ready for implementation, verify:
 
@@ -62,7 +62,7 @@ This checklist aligns with:
 
 ---
 
-## Agent assist
+## 📌 Agent assist
 
 Use a **Cursor agent** (or Plan mode) for the heavy lifting: keyword search across issues, overlap summaries, gap checks against the reshape list, and tightening prose. Exact **invokes and guardrails** change whenever you refresh your skills pack, so keep this page about **intent** (search → classify → reshape → mutate only when ready).
 

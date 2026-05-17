@@ -1,4 +1,4 @@
-# README + folder scaffold
+# 🏗️ README + folder scaffold
 
 Use this when **adding a new subtree** or **normalizing** an existing folder so every level has the right `README.md` shape and navigation stays predictable.
 

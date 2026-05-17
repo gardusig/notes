@@ -1,11 +1,11 @@
-# Title (plain text) — PR and GitHub issue
+# 🗂️ Title (plain text) — PR and GitHub issue
 
 Use **one line** for **pull request titles** and **GitHub issue titles**.
 
 - **No emoji**, no markdown headings, no leading decorative symbols.
 - Be **specific**: reader should understand outcome without opening the item.
 
-## Pull request
+## ⬇️ Pull request
 
 Summarize **the whole branch outcome** vs destination (concrete themes from paths + commits).
 
@@ -21,6 +21,6 @@ Summarize **the whole branch outcome** vs destination (concrete themes from path
 
 **PR body:** [`../pr/body-skeleton.md`](../pr/body-skeleton.md). Add optional sections (migration, rollout, screenshots) per your team’s PR template.
 
-## GitHub issue
+## 🗂️ GitHub issue
 
 Same rules: **descriptive**, **no emoji** in the title. Put emoji on **`##` section headings** in the body only (see [`../gh/issues/body-skeleton.md`](../gh/issues/body-skeleton.md)).

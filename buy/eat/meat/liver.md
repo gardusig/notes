@@ -69,13 +69,13 @@
 
 ## 📌 5. Recipe — onions + sear
 
-### Prep
+### 📌 Prep
 
 1. **Inspect liver**: remove **membrane**, **fat with gristle**, any **green / off** patches.
 2. **Optional soak:** cover slices in **milk** 30–120 min in the fridge → **drain** → **pat dry**.
 3. **Slice** to even thickness; **pepper** lightly; **salt** right before cooking (or a minute before) so less moisture weeps out.
 
-### Cook
+### 📌 Cook
 
 1. If using **bacon**: render in the dry pan until crisp → **remove** bacon bits; leave **fat** for flavor.
 2. **Caramelize onions** in butter/oil/bacon fat on **medium** until soft and sweet (~10–15 min). **Push onions aside** or **remove** to a plate.

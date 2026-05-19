@@ -52,3 +52,12 @@ Mirror **[`windows.md`](windows.md)** (software) and/or **[`desktop.md`](desktop
 5. **`## What to buy & price expectations`** — SKUs, tiers, and money guidance when it applies (or a dedicated **hardware** file like **desktop.md**); use a short **Hardware assumptions** stub in the OS note if shopping lives elsewhere.
 
 Splitting Purpose and Summary into two `##` blocks (like Windows) or merging into **Purpose & summary** is fine; keep the **information** in both cases.
+
+---
+
+## 🔗 Related
+
+- **Upstream:** [Notes root](../README.md)
+- **Inventory** that travels with devices — [`../wear/README.md`](../wear/README.md)
+- **Cursor / agents** (software workflow, not hardware shopping) — [`../code/README.md`](../code/README.md)
+- **Personal task system** (separate from employer stubs in [`work.md`](work.md)) — [`../plan/README.md`](../plan/README.md)

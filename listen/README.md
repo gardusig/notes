@@ -115,4 +115,8 @@ These appeared in an older playlist draft (GitHub issue) and may be merged, rena
 - [other/felix-the-cat.md](other/felix-the-cat.md) · [other/hypnotize.md](other/hypnotize.md) · [other/rap.md](other/rap.md) · [other/reggae.md](other/reggae.md) · [other/soft-vocals.md](other/soft-vocals.md)
 - [slow/slow-calm.md](slow/slow-calm.md) · [slow/slow-reverb-rock.md](slow/slow-reverb-rock.md) · [slow/slow-rock.md](slow/slow-rock.md) · [slow/slow-sad.md](slow/slow-sad.md)
 
-**Upstream:** [Notes root](../../README.md) · [Read hub](../README.md)
+## 🔗 Related
+
+- **Upstream:** [Notes root](../README.md)
+- **What you perform** (not passive listening) — [`../play/instruments/README.md`](../play/instruments/README.md)
+- **Passive video** — [`../watch/README.md`](../watch/README.md)

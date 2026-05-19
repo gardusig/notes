@@ -9,7 +9,7 @@ Rough **BRL** hints for **fresh fruit** runs — useful when you are **not** buy
 - [Low-calorie fruits](#low-calorie-fruits)
 - [High-calorie fruits](#high-calorie-fruits)
 
-### Low-calorie fruits
+### 📌 Low-calorie fruits
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -17,7 +17,7 @@ Rough **BRL** hints for **fresh fruit** runs — useful when you are **not** buy
 | Pear | 7 | ~1.15 | ~8.00 |
 | **Section** | | | **~13.60** |
 
-### High-calorie fruits
+### 📌 High-calorie fruits
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |

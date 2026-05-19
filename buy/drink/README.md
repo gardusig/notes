@@ -13,4 +13,8 @@ Beverage hub: **juice**, **coffee**, **tea**, **soda** — prerequisites → rec
 
 **Rhythm restock** (coffee, tea, whey, many pantry lines): [eat/pantry.md](../eat/pantry.md)
 
-**Upstream:** [Notes](../README.md)
+## 🔗 Related
+
+- **Upstream:** [Buy](../README.md)
+- **Meals and recipes** — [`../eat/README.md`](../eat/README.md)
+- **Pantry rhythm** — [`../eat/pantry.md`](../eat/pantry.md)

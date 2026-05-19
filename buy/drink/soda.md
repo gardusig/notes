@@ -2,7 +2,7 @@
 
 Planning for **store-bought** zero-sugar cola / soft drinks — not a cook recipe, but a **repeatable restock line** with calories near zero and a real **monthly R$** band.
 
-**Upstream:** [Drink](README.md) · **Pantry table:** [eat/pantry.md](../eat/pantry.md) (soda row)
+**Upstream:** [Drink](README.md)
 
 ## 📑 Index
 

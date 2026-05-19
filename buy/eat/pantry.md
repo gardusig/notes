@@ -4,7 +4,7 @@ Shelf-stable items you **restock on a cadence**, not tied to a single meal cook.
 
 **Cadence:** ~**2 pantry-style orders / month** (biweekly-ish) if you align to this model.
 
-**Upstream:** [Eat](README.md) · **Beverages:** [drink/README.md](../drink/README.md) (coffee, tea, juice, soda runbooks)
+**Upstream:** [Eat](README.md)
 
 ## 📑 Index
 
@@ -17,11 +17,13 @@ Shelf-stable items you **restock on a cadence**, not tied to a single meal cook.
 
 | Item | Pack / spec | R$ / pack (est.) | Qty per pack | Packs / month (est.) | Monthly R$ (est.) |
 | --- | --- | ---: | ---: | ---: | ---: |
+| Tempero baiano | ~30–50 g shaker | ~10 | 1 jar | ~0.25 | ~2.5 |
 | Garlic powder | ~40–50 g shaker | ~10 | 1 jar | ~0.25 | ~2.5 |
 | Onion powder | ~40–50 g shaker | ~10 | 1 jar | ~0.25 | ~2.5 |
+| Oregano (dried) | ~20–40 g | ~10 | 1 jar | ~0.2 | ~2 |
+| Paprika | ~40 g | ~10 | 1 jar | ~0.2 | ~2 |
 | Curry powder | ~40 g | ~12 | 1 jar | ~0.2 | ~2.5 |
 | Turmeric | ~40 g | ~10 | 1 jar | ~0.2 | ~2 |
-| Paprika | ~40 g | ~10 | 1 jar | ~0.2 | ~2 |
 | Oat flakes | ~1 kg | ~10 | 1 bag | ~2 | ~20 |
 | Sardine (canned) | ~125 g × 3 | ~18 | 3 cans | ~1 | ~18 |
 | Chia seeds | ~200 g | ~15 | 1 bag | ~0.5 | ~7.5 |
@@ -38,9 +40,11 @@ Shelf-stable items you **restock on a cadence**, not tied to a single meal cook.
 | Peas (canned) | ~400 g | ~5 | 1 can | ~2 | ~10 |
 | Zero-sugar soda | ~2 L or 6×350 ml | ~12 | 1 unit | ~8 | ~96 |
 | Vanilla whey protein | ~900 g tub | ~150 | 1 tub | ~0.18 | ~27 |
-| **Subtotal (this list)** | | | | | **~R$ 307–332** |
+| **Subtotal (this list)** | | | | | **~R$ 312–337** |
 
-*Biweekly lens: about **half** of the monthly column per two-week slice → **~R$ 154–166** if you buy to this model.*
+*Biweekly lens: about **half** of the monthly column per two-week slice → **~R$ 156–169** if you buy to this model.*
+
+*Full spice jar notes and recipe mapping → [seasoning.md](seasoning.md).*
 
 *Whey **~0.18 packs/mo** ≈ one **~900 g** tub every **~5–6 months** at moderate use; scale up if shakes are daily. Label + sugar: [drink/juice.md](../drink/juice.md).*
 
@@ -50,6 +54,6 @@ Shelf-stable items you **restock on a cadence**, not tied to a single meal cook.
 
 | Block | Monthly R$ (est.) |
 | --- | ---: |
-| Pantry (table above) | ~307–332 |
+| Pantry (table above) | ~312–337 |
 
 *Total assumes you run **every** line at the stated **`Packs / month`**; drop or scale rows you do not use.*

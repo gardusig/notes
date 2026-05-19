@@ -4,7 +4,7 @@
 
 **Scope:** **Task resolution** — delivery choreography from idea through heavy Plan mode to execution (split across small pages below). This is **not** only “bug hunting”; it is **unblocking** under-specified work.
 
-For **production** tracing (DevTools, dashboards, post-deploy UI), use **[`../observe/README.md`](../observe/README.md)**. Team-specific dashboard URLs, service names, and escalation live in [`../../setup/work.md`](../../setup/work.md).
+For **production** tracing (DevTools, dashboards, post-deploy UI), use **[`../observe/README.md`](../observe/README.md)**.
 
 ## 📑 Index
 

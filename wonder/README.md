@@ -12,3 +12,9 @@ Personal wiki pages for **metaphors, life framing, and judgment models**. All co
 5. [`metaphors.md`](metaphors.md) — short comparison hub routing to longer engine notes.
 6. [`opposite-comparisons.md`](opposite-comparisons.md) — spectra and paired concepts.
 7. [`philosophical-vigilance.md`](philosophical-vigilance.md) — skepticism, trust, contracts, contingency.
+
+## 🔗 Related
+
+- **Upstream:** [Notes root](../README.md)
+- **Picking and execution rules** — [`../plan/rules/README.md`](../plan/rules/README.md)
+- **One-screen reality HUD** — [root README](../README.md) (Current snapshot section)

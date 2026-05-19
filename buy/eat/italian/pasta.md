@@ -28,7 +28,7 @@ Higher-pleasure main: pasta + browned beef + tomato. **One full cook** — shopp
 
 ## 📌 2. Shopping — one cook
 
-### Store / perishable
+### 🥬 Store / perishable
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -38,7 +38,7 @@ Higher-pleasure main: pasta + browned beef + tomato. **One full cook** — shopp
 | Tomato (fresh) *or* passata | 2 med *or* ~350 g jar | ~2.00 / ~8 | ~4.00–8.00 |
 | **Subtotal store** | | | **~26–30** |
 
-### Pantry / dry
+### 📌 Pantry / dry
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |

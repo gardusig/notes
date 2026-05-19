@@ -51,4 +51,9 @@ Full picking rules: [`rules/priority.md`](rules/priority.md).
 
 Use this for **how you weight work** in practice. **Why** milestones and multi-month intent matter — [`rules/governance.md#long-arc`](rules/governance.md#long-arc). When idle: prefer motion that **ships** over infinite prep, unless a deadline or commitment forces prep first.
 
-**Upstream:** [Notes root](../README.md)
+## 🔗 Related
+
+- **Upstream:** [Notes root](../README.md)
+- **Long arc and meaning** — [`../wonder/life-arc.md`](../wonder/life-arc.md), [`../wonder/README.md`](../wonder/README.md)
+- **Bounded practice when idle** — [`../play/README.md`](../play/README.md)
+- **Employer work separation** — [`../configure/work.md`](../configure/work.md); Cursor delivery — [`../code/README.md`](../code/README.md)

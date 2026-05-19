@@ -15,4 +15,8 @@ Personal **inventory by context** — what you own, in what quantity, so replace
 - **Qty 0** means **restock candidate** — pick it up next time you pass the right store.
 - Keep brand / model detail for tech where it matters; generalize labels for personal IDs and cards (do not paste card numbers, addresses, or document numbers in this repo).
 
-**Upstream:** [Notes root](../README.md)
+## 🔗 Related
+
+- **Upstream:** [Notes root](../README.md)
+- **Device and bag context** — [`../configure/README.md`](../configure/README.md)
+- **Restock when Qty 0** — [`../buy/README.md`](../buy/README.md)

@@ -2,7 +2,7 @@
 
 **Life and task rules** in one folder: **principles and execution** ([governance.md](governance.md), [priority.md](priority.md)), **how to plan efficiently** ([plan-making.md](plan-making.md)), **emotional routing**, **risk ladder (A–E)**, and **decision / moral framing**.
 
-**Upstream:** [Tasks hub](../README.md) · [Notes root](../../README.md)
+**Parent:** [Tasks](../README.md)
 
 ## 📑 Index
 

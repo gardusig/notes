@@ -2,7 +2,7 @@
 
 **Upstream:** [`../README.md`](../README.md)
 
-**Method** for tracing failures across **browser**, **APIs**, and **cloud** without duplicating **team-specific** links. Put **dashboard URLs, service names, log queries, and escalation** in [`../../setup/work.md`](../../setup/work.md) (*Debug runbook*, *On-call*, *Verify deployed results*).
+**Method** for tracing failures across **browser**, **APIs**, and **cloud** without duplicating **team-specific** links. Put **dashboard URLs, service names, log queries, and escalation** in [`../../configure/work.md`](../../configure/work.md) (*Debug runbook*, *On-call*, *Verify deployed results*).
 
 ## 📑 Index
 
@@ -74,7 +74,7 @@ Paste **no secrets** into agent chat; describe symptoms and use **redacted** sni
 
 ## 📌 Dashboards
 
-Bookmark a **small** set per service: **RPS / errors / latency**, **SLO** or burn, **logs** or **traces** with a deep link template. During an incident, prefer **one** dashboard you know over ten half-familiar ones. Maintain the actual list under [`../../setup/work.md`](../../setup/work.md).
+Bookmark a **small** set per service: **RPS / errors / latency**, **SLO** or burn, **logs** or **traces** with a deep link template. During an incident, prefer **one** dashboard you know over ten half-familiar ones. Maintain the actual list under [`../../configure/work.md`](../../configure/work.md).
 
 ---
 

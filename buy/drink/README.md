@@ -1,16 +1,20 @@
 # 🥤 Drink
 
-Beverage hub: **juice**, **coffee**, **tea**, **soda** — prerequisites → recipe → calories where it matters. **Food / meals** stay in **[`eat/`](../eat/README.md)**.
+**Juice**, **coffee**, **tea**, **soda** — one file per lane. Meals stay in [`../eat/README.md`](../eat/README.md).
 
 ## 📑 Index
 
 | File | Purpose |
 | --- | --- |
-| **[juice.md](juice.md)** | Blender drinks (e.g. leafy green + beet + frozen fruit). |
-| **[coffee.md](coffee.md)** | Filter / pour-over style coffee. |
-| **[tea.md](tea.md)** | Bagged or loose tea — steeping basics. |
-| **[soda.md](soda.md)** | Zero-sugar soda cadence + rough cost. |
+| **[juice.md](juice.md)** | Blender drinks. |
+| **[coffee.md](coffee.md)** | Filter / pour-over. |
+| **[tea.md](tea.md)** | Bagged or loose tea. |
+| **[soda.md](soda.md)** | Zero-sugar soda cadence. |
+| **[Pantry rhythm](../eat/pantry.md)** | Coffee, tea, whey, soda restock rows. |
 
-**Rhythm restock** (coffee, tea, whey, many pantry lines): [eat/pantry.md](../eat/pantry.md)
+## 🧭 From here
 
-**Upstream:** [Notes](../README.md)
+1. Pick a **drink file** for the recipe or cadence you are running.
+2. **Shared restock** (coffee, tea, whey, soda) → [`../eat/pantry.md`](../eat/pantry.md).
+
+**Parent:** [Buy](../README.md)

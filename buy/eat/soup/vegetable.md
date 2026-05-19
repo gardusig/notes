@@ -28,7 +28,7 @@ Daily-lunch style soup: **seven portions**, lower calorie density, high micronut
 
 ## 📌 2. Shopping — one cook
 
-### Store / perishable (aligned to this pot)
+### 🥬 Store / perishable (aligned to this pot)
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -47,7 +47,7 @@ Daily-lunch style soup: **seven portions**, lower calorie density, high micronut
 | Olive oil (prorate 1 tbsp) | 1 tbsp | — | ~1.20 |
 | **Subtotal store (rounded)** | | | **~50** |
 
-### Pantry / dry
+### 📌 Pantry / dry
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |

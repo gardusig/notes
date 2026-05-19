@@ -2,7 +2,7 @@
 
 Bagged or loose herbal / black tea — simple steep. **Planning** per **mug**; **shopping** amortized from pantry rhythm.
 
-**Upstream:** [Drink](README.md) · **Restock:** [eat/pantry.md](../eat/pantry.md) (tea boxes)
+**Upstream:** [Drink](README.md)
 
 ## 📑 Index
 

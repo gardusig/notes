@@ -2,7 +2,7 @@
 
 **Upstream:** [`code/README.md`](../README.md)
 
-How to **execute** work after [`../craft-issue/creativity/create-engineering-task.md`](../craft-issue/creativity/create-engineering-task.md) is written. Complements [`../../setup/work.md`](../../setup/work.md) (review, deploy, verify) with **Cursor-specific** habits.
+How to **execute** work after [`../craft-issue/creativity/create-engineering-task.md`](../craft-issue/creativity/create-engineering-task.md) is written. **Cursor-specific** habits; employer review/deploy/verify stubs — [`../README.md`](../README.md) **Related**.
 
 ## 📑 Index
 
@@ -39,7 +39,7 @@ If the product UI for “agent” is still awkward for multi-file refactors, **f
 ## 📌 Chunking and verification
 
 1. **Smallest shippable slice** — e.g. one endpoint, one flag path, one failing test fixed first.
-2. **Run verify after each slice** — same command you would use before PR (see [`../../setup/work.md`](../../setup/work.md) *Test locally*).
+2. **Run verify after each slice** — same command you would use before PR (your local verify recipe; employer notes in [`../../configure/work.md`](../../configure/work.md) *Test locally*).
 3. **Read the diff** — especially generated files and migrations; do not merge blind.
 
 ---

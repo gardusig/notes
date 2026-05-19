@@ -2,7 +2,7 @@
 
 Tomato + **canned tuna** (drained) + cheese + oregano + **massa**. Simple pantry-forward topping set. Tray: **32 cm** → **6–8 slices**.
 
-**Upstream:** [Pizza hub](../pizza.md)
+**Upstream:** [Pizza hub](README.md)
 
 ## 📑 Index
 
@@ -42,7 +42,7 @@ Tomato + **canned tuna** (drained) + cheese + oregano + **massa**. Simple pantry
 
 ## 📌 3. Prerequisites
 
-- **Oven** — **required**; see [Pizza hub](../pizza.md) for temperature, tray size, dough and sauce rules.
+- **Oven** — **required**; see [Pizza hub](README.md) for temperature, tray size, dough and sauce rules.
 
 ---
 

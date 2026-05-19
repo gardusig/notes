@@ -28,7 +28,7 @@ Pressure-cooker beans: ~8–10 servings, thick, creamy, high protein, freezes we
 
 ## 📌 2. Shopping — one cook
 
-### Pantry / dry
+### 📌 Pantry / dry
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -38,7 +38,7 @@ Pressure-cooker beans: ~8–10 servings, thick, creamy, high protein, freezes we
 | Salt, pepper | pantry | — | ~0 |
 | **Subtotal pantry** | | | **~14** |
 
-### Store / optional fresh
+### ➕ Store / optional fresh
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |

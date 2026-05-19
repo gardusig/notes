@@ -2,7 +2,7 @@
 
 **Massa** + tomato sauce + **ham** + **eggs** + **onion** + cheese + oregano. Example tray: **32 cm round** → **6–8 slices**.
 
-**Upstream:** [Pizza hub](../pizza.md)
+**Upstream:** [Pizza hub](README.md)
 
 ## 📑 Index
 
@@ -28,7 +28,7 @@
 
 ## 📌 2. Shopping — one cook
 
-### Store / perishable
+### 🥬 Store / perishable
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -41,7 +41,7 @@
 | Fresh oregano — *or dried* | bunch / jar | ~3 | ~3.00 |
 | **Subtotal store** | | | **~35.15** |
 
-### Pantry
+### 📌 Pantry
 
 | Item | Notes |
 | --- | --- |
@@ -54,7 +54,7 @@
 
 ## 📌 3. Prerequisites
 
-- **Oven** — **required**; tray or stone bakes inside it — see [Pizza hub](../pizza.md) for temperature, tray size, dough and sauce rules.
+- **Oven** — **required**; tray or stone bakes inside it — see [Pizza hub](README.md) for temperature, tray size, dough and sauce rules.
 - **Rolling pin** (or hand-stretch skill).
 - **Peel** optional if using stone.
 

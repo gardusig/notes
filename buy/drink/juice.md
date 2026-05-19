@@ -2,7 +2,7 @@
 
 Single-glass blender drink: leafy greens, beet, frozen fruit, water, plus **2 scoops Dark Lab Isolate Protein Fuse** (whey isolate) blended in after the base. **One complete shop** for **one glass** (scale multiples by multiplying rows).
 
-**Upstream:** [Drink](README.md) · **Whey / pantry rhythm:** [eat/pantry.md](../eat/pantry.md)
+**Upstream:** [Drink](README.md)
 
 ## 📑 Index
 
@@ -27,7 +27,7 @@ Single-glass blender drink: leafy greens, beet, frozen fruit, water, plus **2 sc
 
 ## 📌 2. Shopping — one glass
 
-### Store / perishable (typical)
+### 🥬 Store / perishable (typical)
 
 | Item | Qty for 1 glass | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -37,7 +37,7 @@ Single-glass blender drink: leafy greens, beet, frozen fruit, water, plus **2 sc
 | Frozen fruit (e.g. acerola) | ~1 cup (140 g) from 7-pack style bag | ~28 / 7 | ~4.00 |
 | **Subtotal store** | | | **~6.90** |
 
-### Pantry / dry (whey)
+### 🥤 Pantry / dry (whey)
 
 | Item | Qty for 1 glass | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |

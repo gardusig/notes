@@ -58,6 +58,6 @@ If something still feels off after this pass, schedule a **second** calm block o
 
 ## 📌 Links
 
-- SDE2 **review bar** reminders: [`../../setup/work.md`](../../setup/work.md) *Code review cheat sheet*.
+- SDE2 **review bar** reminders: [`../../configure/work.md`](../../configure/work.md) *Code review cheat sheet*.
 - **Giving** reviews to others stays in team norms; this page is about **your** pre-flight read.
 - Faster loop during implementation: [`../craft-pr/work-task-with-agents.md`](../craft-pr/work-task-with-agents.md); lifecycle: [`../debug/README.md`](../debug/README.md).

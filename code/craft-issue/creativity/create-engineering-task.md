@@ -2,7 +2,7 @@
 
 **Upstream:** [`code/README.md`](../../README.md)
 
-This is for **issues, tickets, or GitHub discussions** that drive code changes—not the personal P0–P4 system in [`../../plan/README.md`](../../plan/README.md). Team norms and “starting a new task” reminders also live in [`../../setup/work.md`](../../setup/work.md) under *Starting a new task (SDE2)*.
+This is for **issues, tickets, or GitHub discussions** that drive code changes—not the personal P0–P4 system in [`../../plan/README.md`](../../plan/README.md). Employer “starting a new task” norms — [`../../configure/work.md`](../../configure/work.md) (see [`../../code/README.md`](../../README.md) **Related**).
 
 ## 📑 Index
 
@@ -31,7 +31,7 @@ Use this order in the body.
 5. **Risks / dependencies** — Flags, migrations, other teams, backward compatibility.
 6. **Estimate or t-shirt size** — Only if the team uses it; optional spike note with time box.
 
-Align with the **store** examples in [`../../setup/work.md`](../../setup/work.md): ticket state, Slack link if required, spike before large diff.
+Align with your team’s ticket **store** examples (ticket state, Slack link if required, spike before large diff) — keep team-specific samples in [`../../configure/work.md`](../../configure/work.md).
 
 ---
 

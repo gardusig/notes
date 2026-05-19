@@ -1,6 +1,6 @@
 # 👁️ Observe: production signals
 
-**Scope:** **Runtime truth** after deploy—browser, API, and cloud tracing. Team-specific dashboard URLs, service names, log queries, and **on-call / escalation** stubs live in [`../../setup/work.md`](../../setup/work.md); this tree holds the **generic** playbook.
+**Scope:** **Runtime truth** after deploy—browser, API, and cloud tracing. Team-specific dashboard URLs, service names, log queries, and **on-call / escalation** stubs live in [`../../configure/work.md`](../../configure/work.md); this tree holds the **generic** playbook.
 
 ## 📑 Index
 

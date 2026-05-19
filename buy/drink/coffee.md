@@ -2,7 +2,7 @@
 
 Black filter coffee: one cup at a time with minimal cleanup. **Planning** is per **cup**; **shopping** for beans/filters is **amortized** from pantry rhythm.
 
-**Upstream:** [Drink](README.md) · **Restock:** [eat/pantry.md](../eat/pantry.md) (ground coffee, paper filters)
+**Upstream:** [Drink](README.md)
 
 ## 📑 Index
 

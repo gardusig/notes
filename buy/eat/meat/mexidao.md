@@ -29,7 +29,7 @@ Brazilian-style **mexidão**: one cook that **mixes several inexpensive red-meat
 
 ## 📌 2. Shopping — one cook
 
-### Meat mix (cube-ready) — pick ~1.0–1.2 kg total across **pork + beef**
+### 📌 Meat mix (cube-ready) — pick ~1.0–1.2 kg total across **pork + beef**
 
 **Rule:** only **mammal red meat** in this lane — rotate cuts for **variety and price**, not for chicken or fish.
 
@@ -42,7 +42,7 @@ Brazilian-style **mexidão**: one cook that **mixes several inexpensive red-meat
 
 *Example line that matches §1:* ~500 g pernil + ~500 g lagarto + ~150 g liver + **optional** ~100 g bacon ends.
 
-### Store / butcher — aromatics
+### 📌 Store / butcher — aromatics
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -52,7 +52,7 @@ Brazilian-style **mexidão**: one cook that **mixes several inexpensive red-meat
 | Bell pepper — *optional* | 1 | ~4.00 | ~4.00 |
 | **Subtotal aromatics** | | | **~10–14** |
 
-### Pantry
+### 📌 Pantry
 
 | Item | Qty | Est. unit (R$) | Line (R$) |
 | --- | --- | ---: | ---: |
@@ -62,7 +62,7 @@ Brazilian-style **mexidão**: one cook that **mixes several inexpensive red-meat
 | Salt | pantry | **light** | ~0 |
 | **Subtotal pantry** | | | **~2** |
 
-### Starch finish (choose one per cook)
+### 📌 Starch finish (choose one per cook)
 
 **Rice**
 
@@ -121,13 +121,13 @@ Brazilian-style **mexidão**: one cook that **mixes several inexpensive red-meat
 
 ## 📌 5. Finish — rice or cassava
 
-### A) Rice mexidão
+### 📌 A) Rice mexidão
 
 **Cooked rice (fastest)** — fold **4–6 cups cooked rice** (~800–1,200 g cooked) into stew; simmer open **5–10 min**; splash of water if tight.
 
 **Raw rice in the pot** — **400–500 g dry rice** + **hot water/broth** (~1.0–1.2 L for typical white rice; follow pack). **Lid on, simmer, no pressure** until tender (~12–18 min); modest heat; stir occasionally.
 
-### B) Cassava (mandioca) mexidão
+### 📌 B) Cassava (mandioca) mexidão
 
 **Parallel boil (simplest)** — peel cassava; remove **fibrous core**; chunk. **Boil salted water** until fork-tender (~20–35 min depending on chunk size). Drain; fold chunks into finished stew; simmer open **5–10 min** so roots drink the sauce.
 

@@ -2,7 +2,7 @@
 
 What to grab when you walk into a pharmacy. Keep core items in stock; rotate the rest as needed. **Prices are rough BRL** (store, brand, and promotion vary).
 
-**Upstream:** [Supply](README.md)
+**Upstream:** [Buy](README.md)
 
 ## 📑 Index
 

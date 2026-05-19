@@ -1,8 +1,6 @@
 # 🎵 Music — playlists and library
 
-**Likes**, **playlists**, and **library cleanup** for listening. Separate from **[play/instruments](../../play/instruments/README.md)** (what you perform or practice). **Podcasts / live channels** — not migrated into this repo yet; add a `listen/channels/` hub when you want them versioned here.
-
-Each playlist file holds a **YouTube Music** link (use `TBD` until you paste it) and a **Tracks** table (`#`, Artist, Title, Album / mix, Length). Fill rows when you export from the app; empty tables are fine as placeholders.
+**Passive listening** playlists only—each file is a **YouTube Music** stub + **Tracks** table (`TBD` link until pasted). **Podcasts / channels** not in-repo yet (`listen/channels/` when you add them).
 
 ## 📑 Index
 
@@ -115,4 +113,9 @@ These appeared in an older playlist draft (GitHub issue) and may be merged, rena
 - [other/felix-the-cat.md](other/felix-the-cat.md) · [other/hypnotize.md](other/hypnotize.md) · [other/rap.md](other/rap.md) · [other/reggae.md](other/reggae.md) · [other/soft-vocals.md](other/soft-vocals.md)
 - [slow/slow-calm.md](slow/slow-calm.md) · [slow/slow-reverb-rock.md](slow/slow-reverb-rock.md) · [slow/slow-rock.md](slow/slow-rock.md) · [slow/slow-sad.md](slow/slow-sad.md)
 
-**Upstream:** [Notes root](../../README.md) · [Read hub](../README.md)
+## 🧭 From here
+
+1. Pick a **mood folder** from the index (or A–Z list below) → open the playlist `.md`.
+2. Paste the **YouTube Music** URL and fill **Tracks** when you export from the app.
+
+**Parent:** [Notes root](../README.md)

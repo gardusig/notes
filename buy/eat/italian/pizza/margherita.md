@@ -2,7 +2,7 @@
 
 Classic **Margherita** lane: **massa** + **light tomato** + **mozzarella** + **fresh basil** + **olive oil** (optional dry oregano only if you like it—traditional is basil-forward, not oregano-heavy). Same tray workflow as other variants in this folder; **no** ham, egg, or onion. Tray example: **32 cm** → **6–8 slices**.
 
-**Upstream:** [Pizza hub](../pizza.md)
+**Upstream:** [Pizza hub](README.md)
 
 ## 📑 Index
 
@@ -44,13 +44,13 @@ Classic **Margherita** lane: **massa** + **light tomato** + **mozzarella** + **f
 
 ## 📌 3. Prerequisites
 
-- **Oven** — **required**; tray or stone bakes inside it — see [Pizza hub](../pizza.md) for temperature, tray size, dough and sauce rules.
+- **Oven** — **required**; tray or stone bakes inside it — see [Pizza hub](README.md) for temperature, tray size, dough and sauce rules.
 
 ---
 
 ## 📌 4. Recipe
 
-### Margherita build (order matters)
+### 📌 Margherita build (order matters)
 
 1. **Preheat** the oven per the hub (**hot**).
 2. **Stretch** the dough on a lightly oiled tray (or peel + stone if you use one).
@@ -62,7 +62,7 @@ Classic **Margherita** lane: **massa** + **light tomato** + **mozzarella** + **f
    - **Softer basil:** add leaves for the **last 60–90 s** of bake (they will darken a bit).
 7. Optional **parmesan** on top after the bake; slice and serve.
 
-### Taste checks
+### 📌 Taste checks
 
 - **Too wet:** less sauce next time, hotter bake, or drier mozzarella.  
 - **Bland:** a little salt on the sauce layer, better olive oil at the end, or a few grinds of pepper (not traditional, but fine at home).

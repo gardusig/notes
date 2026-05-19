@@ -53,5 +53,5 @@ Jump links into `repertoire.md`:
 - [Naruto — Sasuke theme](repertoire.md#naruto-sasuke-theme)  
 - [Naruto — Orochimaru theme](repertoire.md#naruto-orochimaru-theme)  
 
-**Upstream:** [Play](../README.md) · **Music:** [listen/README.md](../../listen/README.md)
+**Parent:** [Play](../README.md)
 

@@ -24,7 +24,7 @@ Standardize what **each** coding repo should have so **you and agents** share th
 
 | Check | Why |
 | --- | --- |
-| **Clone path** is stable and policy-safe | Employer vs personal separation: [`../../setup/work.md`](../../setup/work.md) (work laptop section). |
+| **Clone path** is stable and policy-safe | Employer vs personal separation: [`../../configure/work.md`](../../configure/work.md) (work laptop section). |
 | **Default branch** and **remote** match how you ship | Avoid accidental pushes to the wrong fork. |
 | **Install + verify** commands exist in README or CI | Agents and future-you run the same umbrella (`make test`, `pnpm test`, etc.). |
 | **`.gitignore`** covers local tooling noise | Reduces accidental commits of env files and editor junk. |
@@ -43,7 +43,7 @@ Treat this as a **copy-paste scaffold** when a repo has no Cursor layout yet. Ad
 | **Diagrams / tables / index** | If the repo has a `docs/` wiki, align with its index pattern; for graph-heavy design, keep **mermaid** in versioned docs, not only in chat. |
 | **Markdown style** | Match existing docs; prefer links to canonical runbooks over duplicating employer URLs here. |
 
-Do **not** commit API keys, session cookies, or production URLs that embed credentials. Use placeholders and keep real links in **private** notes (e.g. [`../../setup/work.md`](../../setup/work.md)) where appropriate.
+Do **not** commit API keys, session cookies, or production URLs that embed credentials. Use placeholders and keep real links in **private** notes (e.g. [`../../configure/work.md`](../../configure/work.md)) where appropriate.
 
 ---
 

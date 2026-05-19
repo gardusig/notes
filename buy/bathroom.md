@@ -2,7 +2,7 @@
 
 Split by **where you use it**: **sink / wardrobe** (grooming, TP, skin) vs **shower** (soap and hair). Same **~2 shops / month** rhythm where it fits; some lines are **amortized**. **Prices are rough BRL**; packs and promos vary by site.
 
-**Upstream:** [Supply](README.md) · **Cleaning / laundry:** [cleaning.md](cleaning.md) · **Whey:** [eat/pantry.md](../eat/pantry.md) · **Juice / label habits:** [drink/juice.md](../drink/juice.md)
+**Upstream:** [Buy](README.md)
 
 ## 📑 Index
 

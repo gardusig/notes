@@ -1,8 +1,8 @@
 # 🧼 Cleaning & laundry
 
-Trash bags, kitchen and bath surfaces, dish soap, and **optional** laundry products when **you** supply detergent. Skin, hair, oral care → **[personal-care.md](personal-care.md)**. **Prices are rough BRL**; packs and promos vary by site.
+Trash bags, kitchen and bath surfaces, dish soap, and **optional** laundry products when **you** supply detergent. Skin, hair, oral care → **[bathroom.md](bathroom.md)**. **Prices are rough BRL**; packs and promos vary by site.
 
-**Upstream:** [Supply](README.md) · **Personal care:** [personal-care.md](personal-care.md)
+**Upstream:** [Buy](README.md)
 
 ## 📑 Index
 
@@ -67,4 +67,4 @@ Illustrative **BRL / month** bands — replace with your real **loads/mo**, **kW
 
 *Totals assume you run **every** line at the stated **`Packs / month`**; drop or scale rows you do not use.*
 
-**Combined with [personal-care.md](personal-care.md):** about **~R$ 174–193 / month** with personal care at full cadence — **~R$ 174** when laundry products (§2) are **0**, **~R$ 193** when §2 is active.
+**Combined with [bathroom.md](bathroom.md):** about **~R$ 174–193 / month** with personal care at full cadence — **~R$ 174** when laundry products (§2) are **0**, **~R$ 193** when §2 is active.

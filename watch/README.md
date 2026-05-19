@@ -1,17 +1,21 @@
 # 📺 Watch — log and queue
 
-**Finished** titles live in **movies**, **TV series**, and **anime** files below (each uses **Liked**, **Disliked**, and **Unopinionated queue** tables). **To watch** lives only in **[to-watch.md](to-watch.md)** — bucketed by **medium** and **kind** (same idea as [video-game domains + Kind](../play/video-games/owned-queue.md) and [genre × situation](../play/video-games/genre-situations.md)).
+**Finished** titles in **movies**, **tv-series**, **anime** (each: **Liked** / **Disliked** / **Unopinionated queue**). **Backlog** only in **[to-watch.md](to-watch.md)** by medium and kind.
 
 ## 📑 Index
 
 | File | Purpose |
 | --- | --- |
-| **[movies.md](movies.md)** | Finished films — Liked / Disliked / Unopinionated queue. |
-| **[tv-series.md](tv-series.md)** | Finished TV — same three buckets. |
-| **[anime.md](anime.md)** | Finished anime — same three buckets. |
+| **[movies.md](movies.md)** | Finished films. |
+| **[tv-series.md](tv-series.md)** | Finished TV. |
+| **[anime.md](anime.md)** | Finished anime. |
 | **[to-watch.md](to-watch.md)** | Backlog by medium and kind. |
-| **[read/library-links.md](../read/library-links.md)** | Wikis / longform aligned to titles here. |
-| **[listen/README.md](../listen/README.md)** | Music playlists (separate from passive video). |
+
+## 🧭 From here
+
+1. **Finished a title** → add/move row in the right **watched** file (usually **Unopinionated queue** first).
+2. **Planning what to watch** → [`to-watch.md`](to-watch.md) by medium + kind.
+3. **Wiki for a title** → [`../read/library-links.md`](../read/library-links.md) when you keep longform notes paired.
 
 ---
 
@@ -57,4 +61,4 @@ Each file is **finished-only** and has:
 
 **Move between buckets:** when you know how you feel about a finished title, move the row from **Unopinionated queue** to **Liked** or **Disliked** (or the reverse if you change your mind).
 
-**Upstream:** [Notes root](../README.md)
+**Parent:** [Notes root](../README.md)

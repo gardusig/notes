@@ -1,19 +1,18 @@
 # 📌 Play
 
-Everything under **`play/`** is **things you actively play or practice**—instruments, video games, puzzles—not passive consumption (that lives under **[watch/](../watch/README.md)**, **[read/](../read/README.md)**, and **[listen/](../listen/README.md)**).
-
-Pick the folder that matches the activity, then open its **README** for what lives there, how to use each file, and how it ties to the rest of `notes/`.
+**Active** practice: instruments, video games, puzzles—not passive watch/read/listen (see root index).
 
 ## 📑 Index
 
 | Activity | Runbook |
 | --- | --- |
-| **Instruments** — repertoire, what you can play, practice notes | [instruments/README.md](instruments/README.md) |
-| **Video games** — queue (active + owned), wishlist, **completed/** archives, genre × situation picker | [video-games/README.md](video-games/README.md) |
-| **Puzzles** — crosswords, sudoku, logic magazines, puzzle games you treat as puzzles | [puzzles/README.md](puzzles/README.md) |
+| **Instruments** | [instruments/README.md](instruments/README.md) |
+| **Video games** | [video-games/README.md](video-games/README.md) |
+| **Puzzles** | [puzzles/README.md](puzzles/README.md) |
 
-**Listening** — music playlists: **[listen/](../listen/README.md)**.
+## 🧭 From here
 
-Passive **video** (watched log, to-watch): **[watch/](../watch/README.md)**. **Books** and media-aligned wiki hubs: **[read/](../read/README.md)**.
+1. Match the activity → open that folder’s **README**.
+2. **Stuck on work** (patience / motion / novelty) → use puzzle or game lanes as in [`puzzles/README.md`](puzzles/README.md), not as a substitute for P0–P1 tasks.
 
-**Upstream:** [Notes root](../README.md)
+**Parent:** [Notes root](../README.md)

@@ -1,18 +1,18 @@
 # 📖 Read — books and media-aligned links
 
-Personal reading hub: **books** plus **online notes** keyed to the same titles you track in passive video.
+**Books** plus **library-links** keyed to titles you track elsewhere.
 
 ## 📑 Index
 
 | File | Purpose |
 | --- | --- |
 | **[books.md](books.md)** | Finished books + to-read queue. |
-| **[library-links.md](library-links.md)** | Wikis and longform by media-library title (pairs with **[watch/](../watch/README.md)** watched / queue files). |
-| **[`../bookmarks.html`](../bookmarks.html)** | Repo-root browser export for bulk URL review (optional). |
+| **[library-links.md](library-links.md)** | Wikis / longform by title. |
+| **[`../bookmarks.html`](../bookmarks.html)** | Browser export for bulk URL triage (optional). |
 
-Passive **video** logs and backlog pair with **[library-links.md](library-links.md)** — see **[watch/](../watch/README.md)**.
+## 🧭 From here
 
-## 🔗 Related
+1. **Book queue** → [`books.md`](books.md).
+2. **Wiki / article for a title** → [`library-links.md`](library-links.md) (align rows with your watch logs when you care about pairing).
 
-- **Upstream:** [Notes root](../README.md)
-- **Watch library** (finished + to-watch) — [`../watch/README.md`](../watch/README.md)
+**Parent:** [Notes root](../README.md)

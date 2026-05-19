@@ -1,22 +1,18 @@
 # 📌 Inventory
 
-Personal **inventory by context** — what you own, in what quantity, so replacements are easy to audit. Split by what comes with you each day vs what stays at home.
+What you own, by **context** (daily carry vs home / travel)—so **Qty 0** flags a restock.
 
 ## 📑 Index
 
 | File | Purpose |
 | --- | --- |
-| **[clothing.md](clothing.md)** | Wardrobe roster: counts, sizes, replacement triggers. |
-| **[daily-carry.md](daily-carry.md)** | Shoulder bag: phone, card, ID, keys — what leaves the house every day. |
-| **[backpack.md](backpack.md)** | Tech / travel backpack: laptop, headphones, hub, toiletry. |
+| **[clothing.md](clothing.md)** | Wardrobe counts and replacement triggers. |
+| **[daily-carry.md](daily-carry.md)** | What leaves the house every day. |
+| **[backpack.md](backpack.md)** | Tech / travel bag. |
 
-## 📜 Conventions
+## 🧭 From here
 
-- **Qty 0** means **restock candidate** — pick it up next time you pass the right store.
-- Keep brand / model detail for tech where it matters; generalize labels for personal IDs and cards (do not paste card numbers, addresses, or document numbers in this repo).
+1. Audit one **roster file** when something runs out or you buy a replacement.
+2. **Qty 0** → add to your next shopping run (household lists live under [`../buy/README.md`](../buy/README.md)).
 
-## 🔗 Related
-
-- **Upstream:** [Notes root](../README.md)
-- **Device and bag context** — [`../configure/README.md`](../configure/README.md)
-- **Restock when Qty 0** — [`../buy/README.md`](../buy/README.md)
+**Parent:** [Notes root](../README.md)
